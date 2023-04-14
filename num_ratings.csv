@@ -1,0 +1,3090 @@
+,City,Place,Num_of_Rating,PlaceID,CityID
+0,New Delhi,Chhatarpur Temple,540,493,22
+1,New Delhi,DLF Promenade Mall,483,589,22
+2,New Delhi,Plaza Premium Lounge,355,2031,22
+3,New Delhi,Adventure Island,460,32,22
+4,New Delhi,3Cs Mall,11,1,22
+5,New Delhi,Academy of Fine Arts & Literature,2,18,22
+6,New Delhi,Abdul Nabi Mosque,3,15,22
+7,New Delhi,Agrasen Ki Baoli - Leamigo,355,41,22
+8,New Delhi,AeroCity Central,5,33,22
+9,New Delhi,Ajmeri Gate,32,54,22
+10,New Delhi,Ahinsa Sthal,19,46,22
+11,New Delhi,Alai Minar,71,67,22
+12,New Delhi,Ajmal Khan Road,2,52,22
+13,New Delhi,Aifacs Gallery,1,49,22
+14,New Delhi,Akdhardham Temple,3,60,22
+15,New Delhi,Alai Darwaza,1,66,22
+16,New Delhi,Ansal Plaza,52,122,22
+17,New Delhi,Ambedkar Stadium,9,92,22
+18,New Delhi,Antah Rang A Reflection Of Art,3,123,22
+19,New Delhi,Antique Landscape India,1,126,22
+20,New Delhi,Art Explore,1,153,22
+21,New Delhi,Art Mall,6,156,22
+22,New Delhi,Art Indus,1,155,22
+23,New Delhi,Archeological Museum,6,142,22
+24,New Delhi,Art Heritage,2,154,22
+25,New Delhi,Art Spice,7,158,22
+26,New Delhi,Art Today,1,159,22
+27,New Delhi,Arts of the Earth,1,166,22
+28,New Delhi,Art of Living Center,9,161,22
+29,New Delhi,Aryan Art Gallery,1,173,22
+30,New Delhi,Ashokan Rock Edict,3,179,22
+31,New Delhi,Atlantic water world,38,195,22
+32,New Delhi,Ashokan Pillar,9,178,22
+33,New Delhi,Asola Bhatti Wildlife Sanctuary,17,188,22
+34,New Delhi,Astha Kunj Park,2,190,22
+35,New Delhi,Aurobindo Gallery,4,201,22
+36,New Delhi,Ayyappa Temple,6,212,22
+37,New Delhi,Baba Baghel Singh Sikh Heritage Multimedia Museum,3,224,22
+38,New Delhi,Azad Hind Gram,3,213,22
+39,New Delhi,Banke Bihari Temple,4,279,22
+40,New Delhi,Bhaironath Temple,26,318,22
+41,New Delhi,Bade Mandir,7,239,22
+42,New Delhi,Baba Neem Karoli Hanuman Mandir,1,227,22
+43,New Delhi,Bawana Industrial Area,3,294,22
+44,New Delhi,Banaras Cottage Emporium,3,262,22
+45,New Delhi,Begumpuri Masjid,5,304,22
+46,New Delhi,Begum Samru's Palace,3,302,22
+47,New Delhi,Bhalswa Horseshoe Lake,3,320,22
+48,New Delhi,Bhagavan Sri Ram Mandir,2,315,22
+49,New Delhi,Bhardwaj Lake,1,332,22
+50,New Delhi,Bhool Bhulaiya,6,347,22
+51,New Delhi,Bhuli Bhatiyari Ka Mahal,4,350,22
+52,New Delhi,Biran Ka Gumbad,1,362,22
+53,New Delhi,Bikaner House,1,356,22
+54,New Delhi,Birla Mandir Temple (Lakshmi Narayan),918,366,22
+55,New Delhi,Bindra Park,1,357,22
+56,New Delhi,Buddha Jayanti Park,36,404,22
+57,New Delhi,Bu Halima's Tomb,1,402,22
+58,New Delhi,British Council Division,10,399,22
+59,New Delhi,Canopy,28,427,22
+60,New Delhi,Catedral Del Sagrado Corazon Nueva Delhi,3,438,22
+61,New Delhi,Castle And king,11,437,22
+62,New Delhi,Cathedral Church of the Redemption,26,439,22
+63,New Delhi,Central Park at Connaught Place,114,445,22
+64,New Delhi,Central Mall,3,443,22
+65,New Delhi,Chandni Chowk,3646,462,22
+66,New Delhi,Charity Birds Hospital,32,471,22
+67,New Delhi,Char Bagh Garden,9,469,22
+68,New Delhi,Chauburji-Masjid,3,479,22
+69,New Delhi,Chhatta Chowk Bazaar,21,497,22
+70,New Delhi,Chausath Khamba,6,483,22
+71,New Delhi,Children's Park,330,499,22
+72,New Delhi,Chawla Art Gallery,1,486,22
+73,New Delhi,Chawri  Bazaar,3,487,22
+74,New Delhi,Chittaranjan Park Kali Mandir,32,513,22
+75,New Delhi,City Square Mall,11,552,22
+76,New Delhi,Chilla Nizamuddin Auliya,6,501,22
+77,New Delhi,Chor Minar,15,521,22
+78,New Delhi,Connaught Place,2988,563,22
+79,New Delhi,College of Art,1,559,22
+80,New Delhi,Crafts Museum,229,571,22
+81,New Delhi,Cosmo Arts (India),2,568,22
+82,New Delhi,Coronation park,4,567,22
+83,New Delhi,Coronation Durbar Park,10,566,22
+84,New Delhi,D Mall,19,585,22
+85,New Delhi,Creativity,2,574,22
+86,New Delhi,Crescent Mall,6,575,22
+87,New Delhi,Cross River Mall,10,577,22
+88,New Delhi,DDA Siri Fort Sports Complex,26,588,22
+89,New Delhi,Darya Khan Tomb,6,617,22
+90,New Delhi,Dargah Hazrat Mai Sahiba,1,610,22
+91,New Delhi,Dada Dev Mandir,2,592,22
+92,New Delhi,Death Valley,14,627,22
+93,New Delhi,Deer Park,89,629,22
+94,New Delhi,Delhi Airport Metro Express,2344,633,22
+95,New Delhi,Delhi Haat Janakpuri,66,636,22
+96,New Delhi,Delhi Art Gallery,10,634,22
+97,New Delhi,Delhi Haat,220,635,22
+98,New Delhi,Delhi Junction Railway Station,42,637,22
+99,New Delhi,Delhi Metro Museum,57,639,22
+100,New Delhi,Delhi Metro,1180,638,22
+101,New Delhi,Delhi Rides,18,640,22
+102,New Delhi,Digambar Jain Temple,15,674,22
+103,New Delhi,Desh Bandhu Gupta Statue,1,650,22
+104,New Delhi,Delhi,2,632,22
+105,New Delhi,Delhi University Sports Complex,14,641,22
+106,New Delhi,Dilli Haat,918,678,22
+107,New Delhi,Delhi War Cemetery,5,642,22
+108,New Delhi,Dhoomimal Art Gallery,3,670,22
+109,New Delhi,Diwan-i-Am,15,690,22
+110,New Delhi,Diwan-i-Khas,19,692,22
+111,New Delhi,Disfrutando India,5,682,22
+112,New Delhi,Dr. A. P. J. Abdul Kalam Memorial,5,708,22
+113,New Delhi,Dwarka City Centre,14,726,22
+114,New Delhi,Dlf Courtyard Mall,3,694,22
+115,New Delhi,Dr. S P Mukherjee Swimming Pool,2,710,22
+116,New Delhi,Dwarka Baoli (Loharehri Baoli ),5,725,22
+117,New Delhi,Eros Metro Mall,11,764,22
+118,New Delhi,Fatehpuri Mosque,21,778,22
+119,New Delhi,Feroz Shah Kotla Fort,53,779,22
+120,New Delhi,Faculty of Management Studies,8,771,22
+121,New Delhi,Feroz Shah Kotla Stadium,93,780,22
+122,New Delhi,Election museum,2,744,22
+123,New Delhi,Firoz Shah Tughlaq Tomb,16,787,22
+124,New Delhi,Friday Mosque (Jama Masjid),1525,811,22
+125,New Delhi,Foot--Loose Excursions,1,797,22
+126,New Delhi,Flagstaff Tower,5,789,22
+127,New Delhi,French Cultural Centre,3,808,22
+128,New Delhi,Fun 'n' Food Village,68,813,22
+129,New Delhi,Fun City Mall,5,814,22
+130,New Delhi,Gali Paranthe Wali,270,827,22
+131,New Delhi,Gandhi Smriti,1409,843,22
+132,New Delhi,Gallerie Ganesha,1,828,22
+133,New Delhi,Gallery Espace,1,831,22
+134,New Delhi,Garden of Five Senses,261,855,22
+135,New Delhi,Gaurav,1,865,22
+136,New Delhi,Garhi Lalit Kala Artist Studio,3,858,22
+137,New Delhi,Greater Kailash M Block,175,917,22
+138,New Delhi,Gole Market,11,901,22
+139,New Delhi,Gauri Shankar Temple,9,866,22
+140,New Delhi,Ghalib Academy,5,874,22
+141,New Delhi,Gurdwara Nank Piao,25,932,22
+142,New Delhi,Gurudwara Bangla Sahib,5584,943,22
+143,New Delhi,Gurdwara Damdama Sahib,11,931,22
+144,New Delhi,Guru Tegh Bahadur Memorial Delhi,9,939,22
+145,New Delhi,Gurudwara Majnu ka Tilla,11,951,22
+146,New Delhi,Gurudwara Rakab Ganj,55,956,22
+147,New Delhi,Gurudwara Moti Bagh Sahib,4,953,22
+148,New Delhi,Gurudwara Nanak Piao Sahib,2,954,22
+149,New Delhi,Gurudwara Sis Ganj Sahib,706,965,22
+150,New Delhi,Gurudwara Singh Sabha Rajouri Garden,3,964,22
+151,New Delhi,Gyarah Murti,55,971,22
+152,New Delhi,Gurukirpa Shawls,3,966,22
+153,New Delhi,Habitat World Convention Centre,510,977,22
+154,New Delhi,Hanuman Temple / Statue,177,992,22
+155,New Delhi,Hanuman Temple,66,991,22
+156,New Delhi,Hauz Khas District Park,34,1011,22
+157,New Delhi,Hauz Khas Village,1440,1012,22
+158,New Delhi,Hauz i Shamsi,6,1013,22
+159,New Delhi,Hauz Khas Complex,3,1010,22
+160,New Delhi,Hashtsal Minar,1,1005,22
+161,New Delhi,Hazrat Nizamuddin Darga,330,1021,22
+162,New Delhi,Hayat Bakhsh Bagh,10,1015,22
+163,New Delhi,Hazrat KhwajNasiruddin Mehmood Chirag Dilli Dargah,1,1020,22
+164,New Delhi,Humayun's Tomb,7970,1060,22
+165,New Delhi,Hijron Ka Khanqah,1,1039,22
+166,New Delhi,Iltutmish's Tomb,22,1083,22
+167,New Delhi,India Gate,8330,1088,22
+168,New Delhi,Idgah,2,1081,22
+169,New Delhi,India International Centre,77,1089,22
+170,New Delhi,Indian Air Force Museum,91,1091,22
+171,New Delhi,Indira Gandhi Memorial Museum,428,1104,22
+172,New Delhi,Indian Institute of Foreign Trade,6,1094,22
+173,New Delhi,Indian Institute of Mass Communication,3,1095,22
+174,New Delhi,Indian Institute of Technology Delhi,13,1096,22
+175,New Delhi,Indian War Memorial Museum,9,1100,22
+176,New Delhi,Indipix Gallery,3,1102,22
+177,New Delhi,Indian Agricultural Statistics Research Institute,1,1090,22
+178,New Delhi,Iron Pillar of Delhi,43,1120,22
+179,New Delhi,Isa Khan's Tomb,95,1121,22
+180,New Delhi,Indira Gandhi Sports Complex,13,1107,22
+181,New Delhi,Isa khan's Mosque,7,1122,22
+182,New Delhi,ISKCON Temple Delhi,2023,1077,22
+183,New Delhi,Jagannath Temple,13,1129,22
+184,New Delhi,Jahaz Mahal,11,1137,22
+185,New Delhi,Jamali Kamali Tomb and Mosque,44,1170,22
+186,New Delhi,Jahanpanah City Forest,16,1136,22
+187,New Delhi,"ISKCON Temple, Dwarka, New Delhi",3,1078,22
+188,New Delhi,Iskon Temple,9,1124,22
+189,New Delhi,Jahanara Begum's Tomb,7,1134,22
+190,New Delhi,Jain Mandir Dadabari,3,1143,22
+191,New Delhi,Jain Svetambar Temple,8,1146,22
+192,New Delhi,Jantar Mantar,628,1181,22
+193,New Delhi,Jawaharlal Nehru Stadium,57,1192,22
+194,New Delhi,Jhandewalan Temple,103,1206,22
+195,New Delhi,Just Chill Water Park,40,1229,22
+196,New Delhi,Judah Hyam Synagogue,2,1222,22
+197,New Delhi,Jwalaheri Market,15,1232,22
+198,New Delhi,Kalka Mandir,16,1268,22
+199,New Delhi,Juneja Studio,3,1226,22
+200,New Delhi,Karol Bagh,169,1304,22
+201,New Delhi,Kabuli Khuni Darwaza,6,1240,22
+202,New Delhi,Kamala The Craft Outlet,9,1272,22
+203,New Delhi,Kamla Nehru Ridge,1,1277,22
+204,New Delhi,Khairul Manzil Masjid,12,1336,22
+205,New Delhi,Khan-i-Khanan Tomb,18,1339,22
+206,New Delhi,Kashmere Gate Monument,17,1310,22
+207,New Delhi,Khirki Masjid,23,1345,22
+208,New Delhi,Kashmiri Gate,1,1312,22
+209,New Delhi,Khas Mahal,9,1342,22
+210,New Delhi,Kiran Nadar Museum of Art,18,1357,22
+211,New Delhi,Kings Mall,4,1356,22
+212,New Delhi,Lahori Gate,28,1420,22
+213,New Delhi,Kucha Katras,1,1387,22
+214,New Delhi,Krishnas Collection Art Gallery,1,1382,22
+215,New Delhi,Kumar Gallery,3,1393,22
+216,New Delhi,Kushk Mahal,3,1405,22
+217,New Delhi,Ladakh Buddhist Vihara,4,1416,22
+218,New Delhi,Lal Gumbad,5,1440,22
+219,New Delhi,Laxminarayan Temple,1,1458,22
+220,New Delhi,Lodhi Garden,3457,1481,22
+221,New Delhi,Lenin’s Statue,3,1465,22
+222,New Delhi,Little Theatre Group Auditorium,8,1474,22
+223,New Delhi,Lodhi Art District,5,1480,22
+224,New Delhi,Living Style Mall,7,1476,22
+225,New Delhi,Lotus Temple,5387,1493,22
+226,New Delhi,Lodi Era Tomb,1,1482,22
+227,New Delhi,Madame Tussauds Delhi,192,1519,22
+228,New Delhi,Majnu ka Tilla,136,1572,22
+229,New Delhi,Madhi Masjd,4,1524,22
+230,New Delhi,Maharaja Arts & Interiors,3,1545,22
+231,New Delhi,Maharani Shopping Mall,3,1554,22
+232,New Delhi,"Malai Mandir, New Delhi",148,1577,22
+233,New Delhi,Major Dhyan Chand National Stadium,31,1573,22
+234,New Delhi,"Manekshaw Centre, Delhi Cantt.",4,1607,22
+235,New Delhi,Mangal Mahadev Birla Kanan,12,1608,22
+236,New Delhi,Malliah Memorial Theater Craft Museum,3,1584,22
+237,New Delhi,Malik Antique Phone,1,1580,22
+238,New Delhi,Mehrauli Archaeological Park,248,1666,22
+239,New Delhi,Marigold Art Gallery,3,1634,22
+240,New Delhi,Metro Walk Mall,108,1680,22
+241,New Delhi,Malcha Mahal,10,1578,22
+242,New Delhi,Metropolitan Mall,18,1682,22
+243,New Delhi,Millennium Park,16,1689,22
+244,New Delhi,Mirza Ghalib Ki Haveli,27,1697,22
+245,New Delhi,Miranika,1,1696,22
+246,New Delhi,Moments Mall,44,1704,22
+247,New Delhi,Modart Studio Art Gallery,1,1700,22
+248,New Delhi,Moth Ki Masjid,13,1716,22
+249,New Delhi,Mughal Garden,610,1734,22
+250,New Delhi,Monument to Leo Tolstoy,1,1713,22
+251,New Delhi,MP Mall,3,1511,22
+252,New Delhi,Mumtaz Mahal (Jewel Palace),21,1755,22
+253,New Delhi,Mutiny Memorial,16,1765,22
+254,New Delhi,Naini Lake,16,1780,22
+255,New Delhi,Muhammad Quli Khan Tomb,10,1738,22
+256,New Delhi,Munda Gumbad,2,1756,22
+257,New Delhi,Naqqar Khana,14,1797,22
+258,New Delhi,Najaf Khan Tomb,8,1784,22
+259,New Delhi,National Agricultural Science Museum,4,1805,22
+260,New Delhi,National Bal Bhavan,3,1806,22
+261,New Delhi,National Gallery of Modern Art,370,1812,22
+262,New Delhi,National Children's Museum,8,1810,22
+263,New Delhi,National Gandhi Museum,446,1813,22
+264,New Delhi,National Museum,573,1819,22
+265,New Delhi,National Handicraft & Design Gallery,5,1814,22
+266,New Delhi,National Indo-Africa Friendship Rose Garden,2,1816,22
+267,New Delhi,National Law University,7,1817,22
+268,New Delhi,National Handicrafts and Handlooms Museum,24,1815,22
+269,New Delhi,National Philatelic Museum,22,1821,22
+270,New Delhi,National Rail Museum,666,1823,22
+271,New Delhi,National Police Museum,7,1822,22
+272,New Delhi,National Science Centre,130,1825,22
+273,New Delhi,National School of Drama,10,1824,22
+274,New Delhi,National War Memorial,5,1827,22
+275,New Delhi,National Spiritual Assembly of The Baha'is of India,3,1826,22
+276,New Delhi,National Zoological Park of Delhi,496,1829,22
+277,New Delhi,Nehru Memorial Museum,30,1854,22
+278,New Delhi,Neel Kanth Mall,4,1844,22
+279,New Delhi,Nehru Museum & Planetarium (Teen Murti Bhavan),149,1855,22
+280,New Delhi,Nehru Park,246,1856,22
+281,New Delhi,Nehru Place,33,1857,22
+282,New Delhi,New Kashmir Art Gallery,13,1870,22
+283,New Delhi,New Delhi Kali Bari,5,1869,22
+284,New Delhi,North Ex Mall,14,1898,22
+285,New Delhi,New Modantique,1,1872,22
+286,New Delhi,Nicholson Cemetery.,2,1878,22
+287,New Delhi,Nila Gumbad,5,1880,22
+288,New Delhi,Nizamuddin Baoli,4,1895,22
+289,New Delhi,Nilli Masjid,4,1884,22
+290,New Delhi,Nizamuddin Markaz,3,1896,22
+291,New Delhi,OddBird Theatre,1,1909,22
+292,New Delhi,Pacific Mall,191,1939,22
+293,New Delhi,Ojas Art,2,1912,22
+294,New Delhi,Old Secretariat,6,1918,22
+295,New Delhi,"Oshodham, Osho Dhyan Mandir",17,1930,22
+296,New Delhi,Paharganj,274,1946,22
+297,New Delhi,Parliament House,424,1985,22
+298,New Delhi,Pallete Art Gallery,1,1953,22
+299,New Delhi,Pinnacle Mall,11,2025,22
+300,New Delhi,Pragati Maidan,37,2051,22
+301,New Delhi,Parliament Museum,9,1986,22
+302,New Delhi,Pracheen Bhagwan Valmiki Mandir,6,2047,22
+303,New Delhi,Purana Qila,448,2081,22
+304,New Delhi,Prachin Bhairon Mandir,1,2048,22
+305,New Delhi,Purana Qila Baoli,9,2082,22
+306,New Delhi,Qila Rai Pithora,23,2089,22
+307,New Delhi,Qutub Minar,10358,2097,22
+308,New Delhi,Qudasia Park,3,2091,22
+309,New Delhi,Qutbuddin Bakhtiar Kaki,6,2096,22
+310,New Delhi,Quwwat-ul-Islam Mosque,24,2098,22
+311,New Delhi,R.K. Khanna Tennis Complex,12,2103,22
+312,New Delhi,Raj Ghat,1045,2129,22
+313,New Delhi,Rahim Khane Khanam Tomb,3,2122,22
+314,New Delhi,Raghuraj Economy Mall,3,2118,22
+315,New Delhi,Rajon Ki Baoli,38,2151,22
+316,New Delhi,Rajpath,1211,2152,22
+317,New Delhi,Rama Krishna Ashram,13,2159,22
+318,New Delhi,Ramakrishna Mission,52,2163,22
+319,New Delhi,Rashtrapati Bhavan,1557,2192,22
+320,New Delhi,Rashtrapati Bhavan Museum Complex,13,2193,22
+321,New Delhi,Red Fort (Lal Quila),4260,2207,22
+322,New Delhi,Ravindra Art Palace,2,2200,22
+323,New Delhi,Sacred Heart Cathedral,32,2258,22
+324,New Delhi,Relics of Buddha at National Museum,10,2214,22
+325,New Delhi,Safdarjung's Tomb,327,2261,22
+326,New Delhi,Roshnara Bagh and Tomb,1,2241,22
+327,New Delhi,Sabz Burj,4,2257,22
+328,New Delhi,RG Mall,4,2105,22
+329,New Delhi,Sai Baba Temple,235,2270,22
+330,New Delhi,Saffron Travels,1,2262,22
+331,New Delhi,Sanajay Lake,13,2296,22
+332,New Delhi,Sangam Courtyard,47,2301,22
+333,New Delhi,Sanjay Van,14,2308,22
+334,New Delhi,Salimgarh Fort,10,2282,22
+335,New Delhi,Sarojini Nagar Market,396,2336,22
+336,New Delhi,Sanskriti Museum of Everyday Art,27,2315,22
+337,New Delhi,Sangeet Natak Akademi,3,2302,22
+338,New Delhi,Select Citywalk,1016,2361,22
+339,New Delhi,Satpula,5,2342,22
+340,New Delhi,Seven Seas International Inc.,1,2368,22
+341,New Delhi,Shakti Sthal,10,2383,22
+342,New Delhi,Shah Alam's Tomb,7,2374,22
+343,New Delhi,Shah Burj,101,2375,22
+344,New Delhi,Shankar's International Dolls Museum,154,2388,22
+345,New Delhi,Shanti Van,19,2395,22
+346,New Delhi,Sher Mandal,11,2406,22
+347,New Delhi,Shanta Art Gallery,1,2391,22
+348,New Delhi,Sheikh Yusuf Qattal's Tomb,8,2402,22
+349,New Delhi,Shri Kalkaji Mandir Temple,122,2473,22
+350,New Delhi,Shirdi Sai Temple,2,2417,22
+351,New Delhi,Shivaji Stadium,7,2425,22
+352,New Delhi,Shri Ganesh Mandir,1,2467,22
+353,New Delhi,Siri Fort,29,2519,22
+354,New Delhi,South Extension Market,48,2548,22
+355,New Delhi,Shri Lakshmi Narain Temple,8,2477,22
+356,New Delhi,Shri Shiv Shakti Hanuman Mandir,3,2489,22
+357,New Delhi,Shri Subha Siddhi Vinayaka Mandir,6,2490,22
+358,New Delhi,Splash The Water Park,13,2553,22
+359,New Delhi,Soul City Mall,9,2546,22
+360,New Delhi,Sri Digambar Jain Lal Mandir,106,2572,22
+361,New Delhi,Sri Devi Kamakshi Mandir,3,2571,22
+362,New Delhi,Square One Mall,1,2556,22
+363,New Delhi,Star City Mall,15,2646,22
+364,New Delhi,St Peters Jacobite Syrian Orthodox Cathedral,1,2616,22
+365,New Delhi,"St Martin's Church, Delhi Cantt",2,2613,22
+366,New Delhi,Sulabh International Museum of Toilets,81,2672,22
+367,New Delhi,Studio 55,1,2663,22
+368,New Delhi,St. Stephen's Church,245,2640,22
+369,New Delhi,Sunder Nursery,103,2681,22
+370,New Delhi,Sultan Ghari Tomb,10,2673,22
+371,New Delhi,Swaminarayan Akshardham,9770,2705,22
+372,New Delhi,Sunehri Masjid,3,2682,22
+373,New Delhi,Swarn Jayanti Park,26,2708,22
+374,New Delhi,Talkatora Garden,33,2728,22
+375,New Delhi,Talkatora Indoor Stadium,20,2729,22
+376,New Delhi,Swatantra Sangrama Sangrahalaya,7,2710,22
+377,New Delhi,Swatantrata Senani Museum,5,2711,22
+378,New Delhi,The Chanakya,73,2766,22
+379,New Delhi,Thyagaraj Sports Complex,21,2824,22
+380,New Delhi,The Colonnade,3,2770,22
+381,New Delhi,Tibet House,12,2825,22
+382,New Delhi,The Philosophical,1,2791,22
+383,New Delhi,The Sun Dial,1,2801,22
+384,New Delhi,The Village Gallery,2,2804,22
+385,New Delhi,Tomb of Adham Khan,10,2844,22
+386,New Delhi,Tomb of Alauddin Khilji,7,2845,22
+387,New Delhi,Tomb of Balban,12,2850,22
+388,New Delhi,Tomb of Amir Khusro,3,2846,22
+389,New Delhi,Tomb of Imam Zamin,18,2851,22
+390,New Delhi,Tomb of Atgah Khan,1,2847,22
+391,New Delhi,Tomb of Azim Khan,7,2848,22
+392,New Delhi,Tomb of Bahlol Lodi,3,2849,22
+393,New Delhi,Tughlaqabad Fort,111,2879,22
+394,New Delhi,Tomb of Razia Sultan,3,2856,22
+395,New Delhi,Tumble House,19,2885,22
+396,New Delhi,Unity One,34,2903,22
+397,New Delhi,Unity One Metro Mall,5,2904,22
+398,New Delhi,V3S Mall,46,2913,22
+399,New Delhi,Urbanroots Premium Fashion Store,1,2909,22
+400,New Delhi,Uttara Guruvayurappan Temple,1,2911,22
+401,New Delhi,Vasant Square Mall,27,2927,22
+402,New Delhi,Vedic Expo,21,2934,22
+403,New Delhi,Vernssage Art Gallery,41,2941,22
+404,New Delhi,Vadhera Art Gallery,2,2915,22
+405,New Delhi,Vijay Chowk,62,2952,22
+406,New Delhi,Vijay Ghat,14,2953,22
+407,New Delhi,Vishwa Shanti Stupa,17,2970,22
+408,New Delhi,Vir Bhumi,7,2963,22
+409,New Delhi,Vikas Surya Mall,3,2956,22
+410,New Delhi,Waste to Wonder Park,24,2988,22
+411,New Delhi,Vishal Mega Mart,1,2966,22
+412,New Delhi,Waste to Wonders,32,2989,22
+413,New Delhi,Wall Of Truth,3,2985,22
+414,New Delhi,West Gate Mall,23,2998,22
+415,New Delhi,Weekend Book Market,21,2995,22
+416,New Delhi,Yamuna Sports Complex,28,3023,22
+417,New Delhi,Western Court Building,13,3001,22
+418,New Delhi,Yogmaya Temple,12,3034,22
+419,New Delhi,Yamuna Biodiversity Park,5,3022,22
+420,New Delhi,Wrapd,1,3017,22
+421,New Delhi,Zafar Mahal,11,3037,22
+422,New Delhi,Yogoda Satsanga Dhyana Kendra,2,3035,22
+423,New Delhi,Zakir Hussain Museum,1,3038,22
+424,Agra,Agra Art Gallery,93,38,0
+425,Agra,Agra Fort,8570,39,0
+426,Agra,Agra Fort Railway Station,1,40,0
+427,Agra,Anguri Bagh,158,113,0
+428,Agra,Chini Ka Rauza Mausoleum,51,505,0
+429,Agra,Army School,2,147,0
+430,Agra,Bageshwarnath Temple,8,244,0
+431,Agra,Balkeshwar Mandir,7,256,0
+432,Agra,Ashok Cosmos Mall,5,176,0
+433,Agra,Chhatri of Raja Jaswant Singh,1,496,0
+434,Agra,Bateshwar Temples,8,292,0
+435,Agra,Chini Ka Rauza,12,504,0
+436,Agra,Dayal Bagh,156,626,0
+437,Agra,CR Mall,2,416,0
+438,Agra,Dakhini Darwaza,9,596,0
+439,Agra,Diwan-i-Am Agra Fort,173,691,0
+440,Agra,Dhakri-Ka-Mahal,2,659,0
+441,Agra,Diwan E Aam,6,686,0
+442,Agra,Dolphin The Water World,18,700,0
+443,Agra,Gurudwara Guru ka Tal,97,949,0
+444,Agra,Dr. B. R. Ambedkar University,3,709,0
+445,Agra,Jahangir Mahal,117,1135,0
+446,Agra,Gyarah Sidi,1,972,0
+447,Agra,Jama Masjid,479,1167,0
+448,Agra,Jain Muni Samadhi Stahl,1,1145,0
+449,Agra,Jawab Masjid,166,1188,0
+450,Agra,Jaswant ki Chatri,2,1187,0
+451,Agra,Kalakriti Cultural & Convention Center,284,1257,0
+452,Agra,Kailash Temple,5,1245,0
+453,Agra,Keetham Lake,21,1325,0
+454,Agra,Korai Village Agra,35,1373,0
+455,Agra,Mariam's Tomb,25,1632,0
+456,Agra,M.D College,2,1505,0
+457,Agra,Mehtab Bagh,1140,1668,0
+458,Agra,Mother Teresa's Missionaries of Charity,153,1718,0
+459,Agra,Mina Masjid,3,1691,0
+460,Agra,Motilal Nehru Park,21,1723,0
+461,Agra,Mughal Heritage Walk,30,1736,0
+462,Agra,New Nice Marble Art & Handicrafts,29,1873,0
+463,Agra,Nand Ram Ka Tila,1,1795,0
+464,Agra,National Chambal Sanctuary NCS,10,1809,0
+465,Agra,Old tampale is agra Rajewar madir,12,1919,0
+466,Agra,Ram Bagh,45,2156,0
+467,Agra,Paliwal Park,3,1951,0
+468,Agra,Prithvinath Mandir,3,2068,0
+469,Agra,Rawli Maharaj Temple,11,2202,0
+470,Agra,Shah Burj,101,2375,0
+471,Agra,Roman Catholic Cemetery,5,2235,0
+472,Agra,Saket Mall,6,2276,0
+473,Agra,Samadhi Swamiji Maharaj Bagh,7,2286,0
+474,Agra,Sanjay Place,7,2307,0
+475,Agra,Shahin Arts,47,2382,0
+476,Agra,Sheesh Mahal,406,2400,0
+477,Agra,Shri Mankameshwar Mandir,46,2481,0
+478,Agra,Soami Bagh,27,2532,0
+479,Agra,Spiritual Museum,11,2551,0
+480,Agra,Shree Jagdamba Degree College,3,2443,0
+481,Agra,St. George's Cathedral,12,2627,0
+482,Agra,St. George's Church,8,2628,0
+483,Agra,Sur Sarovar Bird Sanctuary,32,2689,0
+484,Agra,Taj Mahal,23231,2719,0
+485,Agra,Taj Museum,126,2721,0
+486,Agra,Tdi Mall,29,2743,0
+487,Agra,Tomb of Itimad-ud-Daulah,1698,2852,0
+488,Agra,Tomb of Mariam Zamani,46,2854,0
+489,Agra,Wildlife SOS,1514,3007,0
+490,Agra,Tomb Of John Russell Colvin,7,2843,0
+491,Agra,Touseef International,3,2860,0
+492,Agra,U.P Handicrafts Development Center,6,2888,0
+493,Jaipur,925 Silver,11,3,9
+494,Jaipur,Ajmeri Gate,32,54,9
+495,Jaipur,Agape Fellowship Church,2,36,9
+496,Jaipur,Akshardham Temple,155,64,9
+497,Jaipur,Akbari Masjid,4,59,9
+498,Jaipur,Albert Hall Museum,1310,72,9
+499,Jaipur,Alice Garg National Seashells Museum,22,74,9
+500,Jaipur,Amar Jawan Jyoti,28,83,9
+501,Jaipur,Amber Fort Palace,27,93,9
+502,Jaipur,Amba Mata Mandir,2,89,9
+503,Jaipur,All Rajasthan Shilp Gram Udyog,4,75,9
+504,Jaipur,Amer Elephant Safari,44,97,9
+505,Jaipur,Amer jeep Safari,573,98,9
+506,Jaipur,Anokhi Museum of Hand Printing,414,121,9
+507,Jaipur,Angel Resort & Amusement Waterpark,13,112,9
+508,Jaipur,Anchor Mall,4,106,9
+509,Jaipur,Amrapali Museum,5,100,9
+510,Jaipur,B M Birla Auditorium,110,215,9
+511,Jaipur,Arya Square Mall,5,171,9
+512,Jaipur,Apex Mall,7,131,9
+513,Jaipur,Ayappa Temple,7,209,9
+514,Jaipur,Birla Mandir Temple,2143,365,9
+515,Jaipur,B.M. Birla Planetarium,194,217,9
+516,Jaipur,Bhawani Mataji Mandir,2,337,9
+517,Jaipur,Biradraj Temple,2,361,9
+518,Jaipur,Carpet And Textile House,47,431,9
+519,Jaipur,Brihaspati Dham Mandir,2,396,9
+520,Jaipur,Central Park,229,444,9
+521,Jaipur,Casa Del Elefante,8,433,9
+522,Jaipur,Chand Pol (Moon Gate),41,460,9
+523,Jaipur,Chandlai Lake,24,461,9
+524,Jaipur,Chandra Mahal,41,463,9
+525,Jaipur,Choolgiri Jain Mandir,22,518,9
+526,Jaipur,City Palace of Jaipur,5140,550,9
+527,Jaipur,Chulgiri Digamber Jain Temple,4,529,9
+528,Jaipur,City Mall,6,548,9
+529,Jaipur,Crystal Palm Mall,22,583,9
+530,Jaipur,Creative Fashion India,13,573,9
+531,Jaipur,Cross Road Mall,6,578,9
+532,Jaipur,Crystal Mall,8,582,9
+533,Jaipur,Dadavadi Mandir,4,594,9
+534,Jaipur,Dargah Burhanuddin,3,609,9
+535,Jaipur,"Deer Park, Ashok Vihar, Jaipur",8,630,9
+536,Jaipur,Diwan-e-Aam Hall of Public Audience,94,687,9
+537,Jaipur,Devdi Temple,1,654,9
+538,Jaipur,Dhola Maru Art Gallery,4,669,9
+539,Jaipur,Diwan-e-Am,11,688,9
+540,Jaipur,Diwan-e-Khas Hall of Private Audience,239,689,9
+541,Jaipur,Ele Experience Farm,194,741,9
+542,Jaipur,Dolls Museum,10,697,9
+543,Jaipur,Durga Mata Mandir,3,718,9
+544,Jaipur,Ele Jaipur,5,742,9
+545,Jaipur,Elefunenjoy,72,746,9
+546,Jaipur,EleJaipur,59,743,9
+547,Jaipur,Elefuncity,17,745,9
+548,Jaipur,Elemaison,19,747,9
+549,Jaipur,Elements Mall,13,748,9
+550,Jaipur,Elephant Activity Planner,43,749,9
+551,Jaipur,Elephant Joy,247,750,9
+552,Jaipur,Elephantwala,22,755,9
+553,Jaipur,Elephant life,3,753,9
+554,Jaipur,Elephant Village,30,752,9
+555,Jaipur,Gallery Artchill,13,830,9
+556,Jaipur,Galtaji Temple,243,836,9
+557,Jaipur,Farmers' Market of Jaipur,2,775,9
+558,Jaipur,Ganesh Pol Gateway,180,846,9
+559,Jaipur,Garh Ganesh Mandir,29,857,9
+560,Jaipur,Gatore Ki Chhatriyan,50,864,9
+561,Jaipur,Govind Devji Temple,630,914,9
+562,Jaipur,Gayatri Chan Mandir,2,867,9
+563,Jaipur,Gemstone Ganesh Museum,12,871,9
+564,Jaipur,General Amar Singh Kanota Museum & Library,3,872,9
+565,Jaipur,Goverdhan Temple,3,911,9
+566,Jaipur,Gyan Museum,52,969,9
+567,Jaipur,GT Central,19,822,9
+568,Jaipur,Grass Farm Nursery,4,916,9
+569,Jaipur,Handicraft Haveli Jaipur,18,986,9
+570,Jaipur,Hathi Gaon,21,1007,9
+571,Jaipur,Hawa Mahal - Palace of Wind,6561,1014,9
+572,Jaipur,Jagat Shiromani Ji Temple,56,1130,9
+573,Jaipur,ICA Gallery,18,1067,9
+574,Jaipur,Hinglaj Mata Temple,3,1050,9
+575,Jaipur,Jaigarh Fort,1955,1140,9
+576,Jaipur,Jain Mandir Sanganer,40,1144,9
+577,Jaipur,Jaipur Metro,20,1154,9
+578,Jaipur,Jaipur Wax Museum,267,1155,9
+579,Jaipur,Jaipur Boutique carpet & Valintino Textiles,8,1153,9
+580,Jaipur,Jaipur Zoo,166,1156,9
+581,Jaipur,Jaivana,193,1162,9
+582,Jaipur,Jal Mahal,3018,1163,9
+583,Jaipur,Jantar Mantar - Jaipur,5871,1182,9
+584,Jaipur,Jame Masjid,2,1173,9
+585,Jaipur,Jamwai Mata Temple,6,1177,9
+586,Jaipur,Jamva Ramgarh Wildlife Sanctuary,6,1176,9
+587,Jaipur,Jawahar Circle Garden,75,1189,9
+588,Jaipur,Jawahar Kala Kendra,101,1190,9
+589,Jaipur,"Jewels Lake Palace , Jaipur",41,1204,9
+590,Jaipur,Jayoti Vidyapeeth Women's University,4,1198,9
+591,Jaipur,Jitesh Arts,24,1212,9
+592,Jaipur,Jewelry in Historical Mahal,3,1203,9
+593,Jaipur,Jeypore Art & Craft,3,1205,9
+594,Jaipur,Kanak Vrindavan Gardens,67,1280,9
+595,Jaipur,Jwala Mata Mandir,3,1231,9
+596,Jaipur,Kalee,3,1262,9
+597,Jaipur,Kale Hanumanji Ka Mandir,10,1261,9
+598,Jaipur,Kalaneri Art Gallery,2,1258,9
+599,Jaipur,Kalki Temple,4,1269,9
+600,Jaipur,Kanak Bihari Temple,3,1279,9
+601,Jaipur,"Khole Ke Hanuman JI Temple, Jaipur",199,1346,9
+602,Jaipur,Kanchan Art Gallery,1,1282,9
+603,Jaipur,Khajane Walon Ka Rasta,8,1337,9
+604,Jaipur,Maharaja Sawai Man Singh II Museum,66,1549,9
+605,Jaipur,Laxminath Mandir,2,1459,9
+606,Jaipur,Laxmi Narayan Temple,1,1456,9
+607,Jaipur,Make Bike Trip,301,1574,9
+608,Jaipur,Man Sagar Lake,225,1590,9
+609,Jaipur,Mgf Metropolitan Mall,48,1683,9
+610,Jaipur,Matrix Commercial Mall,2,1653,9
+611,Jaipur,Monkey Temple,1620,1708,9
+612,Jaipur,Memoriale Sawai Mansingh,1,1672,9
+613,Jaipur,Moti Dungari Temple,367,1721,9
+614,Jaipur,Museum of Gem and Jewellery Federation,30,1762,9
+615,Jaipur,My Elephant Trip,83,1766,9
+616,Jaipur,Mukesh Art Gallery,5,1740,9
+617,Jaipur,Museum of Legacies,5,1764,9
+618,Jaipur,Nahargarh Fort,1968,1778,9
+619,Jaipur,Nav Jeevan Mall,2,1833,9
+620,Jaipur,Panna Meena ka Kund,388,1969,9
+621,Jaipur,Neemach Mata,1,1848,9
+622,Jaipur,Nehru Garden,2,1853,9
+623,Jaipur,Neerja International Inc.,9,1850,9
+624,Jaipur,Patrika Gate,28,1998,9
+625,Jaipur,Pink Square Mall,30,2024,9
+626,Jaipur,Pratap Celebrity Wax Museum Jaipur,16,2054,9
+627,Jaipur,Polo Victory Theatre,6,2036,9
+628,Jaipur,Peacock Garden,1,2002,9
+629,Jaipur,Quber Arts,2,2090,9
+630,Jaipur,Precious Shopping Mall,3,2062,9
+631,Jaipur,Raghoraji Temple,1,2116,9
+632,Jaipur,Ram Niwas Garden,100,2157,9
+633,Jaipur,Rajput Palace,8,2153,9
+634,Jaipur,Royal Gaitor Tumbas,220,2245,9
+635,Jaipur,Ramgarh Lake,21,2171,9
+636,Jaipur,Ramakrishna Mission Jaipur,3,2165,9
+637,Jaipur,Ridhi Sidhi Textiles,14,2223,9
+638,Jaipur,Ram Raghav Mandir Ashram,2,2158,9
+639,Jaipur,Ridhi Sidhi Pol,3,2222,9
+640,Jaipur,RRAP Music Museum & Hub,24,2106,9
+641,Jaipur,Rusirani Village,57,2252,9
+642,Jaipur,Saraogi Mansion Mall,16,2322,9
+643,Jaipur,Sawai Mansingh Stadium,27,2348,9
+644,Jaipur,Samanvai Art Gallery,3,2287,9
+645,Jaipur,Satyanarayan Mandir,1,2344,9
+646,Jaipur,Sda Church,2,2353,9
+647,Jaipur,Shaheed Bhagat Singh Park,5,2378,9
+648,Jaipur,Shankar's Textile & Carpets,7,2389,9
+649,Jaipur,Shila Devi Temple,89,2409,9
+650,Jaipur,Sisodia Rani Palace and Garden,106,2521,9
+651,Jaipur,Shree Ganesh Dham,1,2440,9
+652,Jaipur,Shree Bheru Nath Ji Ka Mandir,5,2436,9
+653,Jaipur,Shri Gopinath Temple,4,2470,9
+654,Jaipur,ShivGem - Glass Stone Manufacturers,1,2421,9
+655,Jaipur,Siddhi Vinayak Temple,5,2507,9
+656,Jaipur,Src Museum of Indology,16,2557,9
+657,Jaipur,Sri Sri Giridhari Dauji Temple,52,2588,9
+658,Jaipur,Sunrise Health Resort Water Park,15,2685,9
+659,Jaipur,Surya Mandir,29,2694,9
+660,Jaipur,Skyfut,3,2526,9
+661,Jaipur,Swargasuli Tower,60,2707,9
+662,Jaipur,St Andrews Church,16,2601,9
+663,Jaipur,Sunrise Dream World Amusement Park,8,2684,9
+664,Jaipur,The Statue Circle,55,2800,9
+665,Jaipur,Teatro Dhora,2,2747,9
+666,Jaipur,The Eventers Hospitality,3,2772,9
+667,Jaipur,The Farmer's Market,4,2773,9
+668,Jaipur,The IIS University,1,2781,9
+669,Jaipur,The Sculpture Park at Madhavendra Palace,2,2796,9
+670,Jaipur,The Jantar Mantar,1,2782,9
+671,Jaipur,The South Aqua Park,2,2798,9
+672,Jaipur,The Vedic Astrology Experience,34,2803,9
+673,Jaipur,Triton Mall,39,2874,9
+674,Jaipur,Yoga in Jaipur,230,3031,9
+675,Jaipur,Traditional Rajasthan,4,2864,9
+676,Jaipur,Vidyadhar Garden,9,2948,9
+677,Jaipur,Vatika Jewellers,6,2930,9
+678,Udaipur,Ahar Cenotaphs,77,43,28
+679,Udaipur,Ambrai Ghat,69,94,28
+680,Udaipur,Ahar Museum,19,44,28
+681,Udaipur,Animal Aid Unlimited,53,114,28
+682,Udaipur,Amrakh Mahadev,4,99,28
+683,Udaipur,Art_en_Soul shoppe,14,164,28
+684,Udaipur,Aravali Vatika,2,138,28
+685,Udaipur,Art & Frames,5,151,28
+686,Udaipur,Bada Mahal,58,235,28
+687,Udaipur,Art World,2,160,28
+688,Udaipur,Arvanah,4,169,28
+689,Udaipur,B. G. Sharma Art Gallery,9,216,28
+690,Udaipur,Bagore Ki Haveli Museum,2820,245,28
+691,Udaipur,Chetak Smarak,459,491,28
+692,Udaipur,Bhuvaneswari Temple,6,352,28
+693,Udaipur,Bougain Villea,6,391,28
+694,Udaipur,City Palace Museum,660,549,28
+695,Udaipur,City Palace of Udaipur,7650,551,28
+696,Udaipur,Crystal Gallery,310,581,28
+697,Udaipur,Complete Arts,6,561,28
+698,Udaipur,Duddhtalaii and Musical Garden,52,714,28
+699,Udaipur,Ekling Ji Temple,1210,740,28
+700,Udaipur,Fateh Prakash Palace,171,776,28
+701,Udaipur,Fateh Sagar Lake,90,777,28
+702,Udaipur,Fine Art School (Painting House),25,783,28
+703,Udaipur,Forum Celebration Mall,277,803,28
+704,Udaipur,Gallery One,15,834,28
+705,Udaipur,Gangaur Ghat,13,852,28
+706,Udaipur,Gulab Bagh (Sajjan Niwas Garden),194,924,28
+707,Udaipur,Goverdhan Sagar Lake,11,910,28
+708,Udaipur,Jagdish Temple,1549,1131,28
+709,Udaipur,Guru Gobind Singh Park,7,936,28
+710,Udaipur,Haldighati,3,981,28
+711,Udaipur,Inspirit Art Gallery,10,1115,28
+712,Udaipur,Jagmandir,1115,1133,28
+713,Udaipur,Karni Mata,30,1303,28
+714,Udaipur,Kumbhalgarh Wildlife Sanctuary,70,1398,28
+715,Udaipur,Lake Badi,32,1421,28
+716,Udaipur,Lake City Mall,29,1422,28
+717,Udaipur,Lake Pichola,5220,1425,28
+718,Udaipur,Machla Magra (Fish Hill),18,1518,28
+719,Udaipur,Maharana Pratap Memorial,397,1552,28
+720,Udaipur,Locky Art School & Art Gallery,5,1479,28
+721,Udaipur,Maharana Pratap Museum,224,1553,28
+722,Udaipur,Marvel Water Park,37,1643,28
+723,Udaipur,Monsoon Palace,1880,1712,28
+724,Udaipur,Millennium Art Gallery,4,1688,28
+725,Udaipur,Nehru Park,246,1856,28
+726,Udaipur,N.F. Collections,4,1772,28
+727,Udaipur,Navlakha Mahal,3,1837,28
+728,Udaipur,My Udaipur Taxi,3,1767,28
+729,Udaipur,Neemach Mata Temple,7,1849,28
+730,Udaipur,Rajiv Gandhi Park,30,2148,28
+731,Udaipur,Pandit Deendayal Upadhyay Park,2,1964,28
+732,Udaipur,Pratap Gaurav Kendra,9,2055,28
+733,Udaipur,Rajputana Football Club,20,2154,28
+734,Udaipur,Om Arts and Crafts,5,1920,28
+735,Udaipur,Rama Krishna Textiles,21,2160,28
+736,Udaipur,Rishabhdeo Or Kesariyaji Jain Temple,55,2228,28
+737,Udaipur,Sahelion Ki Bari,1770,2268,28
+738,Udaipur,Rkay Mall,13,2229,28
+739,Udaipur,Sahastra Bahu Temples,3,2266,28
+740,Udaipur,Sahastra Bahu Temple,2,2265,28
+741,Udaipur,Sajjangarh Wildlife Sanctuary,248,2275,28
+742,Udaipur,Shilpgram Museum,84,2414,28
+743,Udaipur,Shilpgram,566,2413,28
+744,Udaipur,Srinathji Temple,836,2598,28
+745,Udaipur,Shreenath Art Gallery,9,2461,28
+746,Udaipur,Square A contemporary art gallery,2,2555,28
+747,Udaipur,Shreenath Silver and Art,3,2462,28
+748,Udaipur,Sukhadia Circle Fountain,266,2671,28
+749,Udaipur,Udaipur Art Villa,18,2889,28
+750,Udaipur,Udaipur Solar Observatory,30,2890,28
+751,Udaipur,Udaipur Voyage Day Tour,21,2892,28
+752,Udaipur,Tripura Sundari Temple,5,2872,28
+753,Udaipur,The Place of Art,9,2793,28
+754,Udaipur,Tepania Eco Park,2,2754,28
+755,Udaipur,Udaipur Zoo,47,2893,28
+756,Udaipur,Udaipur Taxi Tour,4,2891,28
+757,Udaipur,Under the Sun Aquarium,78,2899,28
+758,Udaipur,Vintage Collection of Classic Cars Museum,1046,2962,28
+759,Udaipur,Wax Museum Udaipur,31,2992,28
+760,Udaipur,Yash Art School - Udaipur,14,3025,28
+761,Udaipur,Yo Tours,24,3029,28
+762,Panjim,Anjum Beach,46,116,24
+763,Panjim,Azulejos de Goa,4,214,24
+764,Panjim,Bambolim Beach,29,261,24
+765,Panjim,Big Daddy Casino,42,355,24
+766,Panjim,Bishop's Palace,18,372,24
+767,Panjim,Caculo Mall,67,419,24
+768,Panjim,Bombay Bazar,2,380,24
+769,Panjim,Caranzalem Beach,27,428,24
+770,Panjim,Campal Gardens,12,425,24
+771,Panjim,Casino Carnival Goa,67,434,24
+772,Panjim,Canaguinim Beach,7,426,24
+773,Panjim,Casino Paradise,23,435,24
+774,Panjim,Casino Pride,246,436,24
+775,Panjim,Chapel of Our Lady of the Mount,56,466,24
+776,Panjim,Chapel of St Catherine,42,467,24
+777,Panjim,Chorao Island,28,522,24
+778,Panjim,Church and Monastery of St Augustine,130,536,24
+779,Panjim,Church of Our Lady of the Immaculate Conception,751,538,24
+780,Panjim,Church of Reis Magos,24,539,24
+781,Panjim,Church of the Immaculate Conception of the Virgin Mary,102,541,24
+782,Panjim,Church Square,44,535,24
+783,Panjim,Coco Beach,83,555,24
+784,Panjim,Corjuem Fort,22,564,24
+785,Panjim,Cotigao Wildlife Sanctuary,22,570,24
+786,Panjim,Crown Casino,30,580,24
+787,Panjim,Deltin Jaqk,375,643,24
+788,Panjim,Deltin Royale,959,644,24
+789,Panjim,Divar Island,78,683,24
+790,Panjim,Dias Beach,2,673,24
+791,Panjim,Dr. Salim Ali Bird Sanctuary,138,711,24
+792,Panjim,Fontainhas,347,796,24
+793,Panjim,Fort Terekhol,61,801,24
+794,Panjim,Gallery Gitanjali,43,832,24
+795,Panjim,Goa Science Centre,61,890,24
+796,Panjim,Goa State Museum,56,891,24
+797,Panjim,Indian Customs & Central Excise Museum,10,1093,24
+798,Panjim,Mahalaxmi Temple,72,1540,24
+799,Panjim,Institute Menezes Braganza,8,1116,24
+800,Panjim,Jogger's Park,101,1214,24
+801,Panjim,Kesarval Spring,7,1330,24
+802,Panjim,Mandovi RIver,133,1605,24
+803,Panjim,Maruti Temple,12,1641,24
+804,Panjim,Miramar Beach,947,1695,24
+805,Panjim,Odxel Beach,21,1910,24
+806,Panjim,Panaji Kala Academy,62,1956,24
+807,Panjim,Panaji State Central Library,32,1957,24
+808,Panjim,Panjim Heritage Walk,48,1968,24
+809,Panjim,Patnem-Colomb Beach,125,1997,24
+810,Panjim,Rajbagh Beach,33,2142,24
+811,Panjim,Reis Magos Fort,450,2213,24
+812,Panjim,Sao Jacinto Island,29,2319,24
+813,Panjim,Sao Tome Old Quarter,14,2320,24
+814,Panjim,Saptakoteshwar Temple,17,2321,24
+815,Panjim,Se Cathedral,428,2354,24
+816,Panjim,Shantadurga Temple,388,2392,24
+817,Panjim,St. Cajetan's Church,122,2626,24
+818,Panjim,"Sunaparanta, Goa Centre for the Arts",45,2677,24
+819,Panjim,Vainguinim Beach,52,2916,24
+820,Panjim,St Sebastian Chapel,8,2617,24
+821,Almora,Archaeological Museum Jageshwar,34,140,2
+822,Almora,Bright End Corner,31,394,2
+823,Almora,Chitai Temple,172,510,2
+824,Almora,Dwarahat Village,16,724,2
+825,Almora,Jageshwar Dham,310,1132,2
+826,Almora,Gobind Vallabh Pant Museum,13,892,2
+827,Almora,Gananath Mandir,6,838,2
+828,Almora,Jhula Devi Temple,25,1209,2
+829,Almora,Kasar Devi Temple,182,1306,2
+830,Almora,Katarmal Sun Temple,88,1313,2
+831,Almora,Kumaon Regimental Centre Museum,45,1392,2
+832,Almora,Nanda Devi Temple,35,1796,2
+833,Almora,Patal Devi Mandir,13,1992,2
+834,Almora,Maa Dunaguri Temple,10,1513,2
+835,Almora,Pre-Historic Painted Rock Shelter,20,2061,2
+836,Almora,Tarikhet,11,2739,2
+837,Almora,"Neeb Karori Baba Ashram, Kakrighat",7,1842,2
+838,Almora,Zero Point,143,3044,2
+839,Almora,Shri Ram Shila Mandir,1,2484,2
+840,Varanasi,Ahilyabai Ghat,17,45,29
+841,Varanasi,Adi Keshava Ghat,2,28,29
+842,Varanasi,Annapurna Devi Mandir,36,119,29
+843,Varanasi,Alamgir Mosque,17,69,29
+844,Varanasi,Archaeological Museum,307,139,29
+845,Varanasi,Ashoka Pillar,102,177,29
+846,Varanasi,Ashul Sharma,92,182,29
+847,Varanasi,Assi Ghat,930,189,29
+848,Varanasi,Banaras Ghats,1310,263,29
+849,Varanasi,Banaras Hindu University,114,264,29
+850,Varanasi,Batuk Bhairav Mandir,77,293,29
+851,Varanasi,Banaras Toy Museum,3,265,29
+852,Varanasi,Bharat Kala Bhavan,57,324,29
+853,Varanasi,Bharat Mata Temple,108,326,29
+854,Varanasi,Bhadaini Ghat,4,312,29
+855,Varanasi,Chaukhandi Stupa,47,481,29
+856,Varanasi,Chet Singh Ghat,12,490,29
+857,Varanasi,Birthplace of Sant Ravidas Seergovardhan Varanasi,5,371,29
+858,Varanasi,Chaumsathi Ghat,17,482,29
+859,Varanasi,Buddha Fountain,3,403,29
+860,Varanasi,Bindu Madhav Temple,5,359,29
+861,Varanasi,Darbhanga Ghat,32,607,29
+862,Varanasi,Dasaswamedh Ghat,1494,619,29
+863,Varanasi,Chinese Temple,5,503,29
+864,Varanasi,Darabhanga Ghat,6,606,29
+865,Varanasi,Dhamek Stupa,210,660,29
+866,Varanasi,Ganga Aarti,130,849,29
+867,Varanasi,Digpatiya Ghat,2,677,29
+868,Varanasi,Durga Temple,14,720,29
+869,Varanasi,Dr Rajendra Prasad Ghat,2,706,29
+870,Varanasi,Gaay Ghat,2,824,29
+871,Varanasi,Ganges River,3307,853,29
+872,Varanasi,Ganga Darpan Interpretation Centre,3,850,29
+873,Varanasi,Garden of Spiritual Wisdom,67,856,29
+874,Varanasi,Harishchandra Ghat,97,1002,29
+875,Varanasi,Hanuman Ghat,11,989,29
+876,Varanasi,Gyan Kup (Gyan Vapi Well),5,968,29
+877,Varanasi,IP Mall,22,1071,29
+878,Varanasi,ISKCON Varanasi,30,1079,29
+879,Varanasi,Horinji Temple,5,1055,29
+880,Varanasi,Jantar Mantar,628,1181,29
+881,Varanasi,Jain Ghat,9,1141,29
+882,Varanasi,JHV Mall & Multiplex,28,1126,29
+883,Varanasi,Jangamwadi Math,3,1180,29
+884,Varanasi,Kabir Chaura Math,4,1239,29
+885,Varanasi,Kashi Vishwanath Temple,43,1309,29
+886,Varanasi,Kaimoor Wildlife Sanctuary,2,1246,29
+887,Varanasi,"Kanchi Kamakoti Peetam, Varanasi",3,1284,29
+888,Varanasi,Kedar Ghat,139,1322,29
+889,Varanasi,Kriti Gallery,90,1383,29
+890,Varanasi,Malviya Bridge,21,1587,29
+891,Varanasi,Lal Bahadur Shastri Family Home Museum,2,1435,29
+892,Varanasi,Man Mandir Ghat,56,1589,29
+893,Varanasi,Maharaja Banaras Vidya Mandir Museum,15,1546,29
+894,Varanasi,Lal Ghat,4,1439,29
+895,Varanasi,Lali Ghat,2,1443,29
+896,Varanasi,Manikarnika Ghat,710,1614,29
+897,Varanasi,Man Singh Observatory,3,1591,29
+898,Varanasi,Monkey Temple (Durga Temple),331,1709,29
+899,Varanasi,Mehta Art Gallery,6,1667,29
+900,Varanasi,Nepali Temple (Kathwala Temple),100,1865,29
+901,Varanasi,Mulagandha Kuti Vihar,6,1745,29
+902,Varanasi,Myanmar Buddhist Vihara,2,1768,29
+903,Varanasi,New Vishwanath Temple,490,1874,29
+904,Varanasi,Raja Ghat,29,2134,29
+905,Varanasi,Rajendraprasad Ghat,21,2144,29
+906,Varanasi,Poonam Fulmani,2,2041,29
+907,Varanasi,Panchganga Ghat,10,1961,29
+908,Varanasi,Pisach Mochan Kund,3,2027,29
+909,Varanasi,Ramnagar Fort,259,2173,29
+910,Varanasi,Pratibha Art Gallery,3,2058,29
+911,Varanasi,Ramnagar Bridge,2,2172,29
+912,Varanasi,Rana Mahala Ghat,14,2176,29
+913,Varanasi,Ruchika Art Gallery,136,2251,29
+914,Varanasi,Reewa Ghat,3,2208,29
+915,Varanasi,Rani Laxmibai Janmasthali,4,2182,29
+916,Varanasi,Sankat Mochan Temple,329,2313,29
+917,Varanasi,Sarnath,2102,2333,29
+918,Varanasi,Sankata Ghat,3,2314,29
+919,Varanasi,Sarnath Deer Park,3,2334,29
+920,Varanasi,Sarnath Zoo,2,2335,29
+921,Varanasi,Scindia Ghat,32,2351,29
+922,Varanasi,Shivala Ghat,34,2426,29
+923,Varanasi,Shivaji Nagar Mahmoorganj,1,2423,29
+924,Varanasi,Shri Kashi Vishwanath Temple (Golden Temple),1356,2474,29
+925,Varanasi,Statue of Standing Buddha,101,2656,29
+926,Varanasi,Sri Varahi Devi Mandir,3,2593,29
+927,Varanasi,St. Mary's Cathedral,1,2632,29
+928,Varanasi,St. Mary's Church,17,2633,29
+929,Varanasi,Thai Temple,54,2756,29
+930,Varanasi,Tibetan Temple,118,2828,29
+931,Varanasi,Tulsi Manas Temple,137,2884,29
+932,Varanasi,Tulsi Ghat,37,2882,29
+933,Varanasi,Tiwari International Silk,4,2840,29
+934,Varanasi,Tridev Temple Varanasi,5,2869,29
+935,Varanasi,Treebaba,2,2867,29
+936,Varanasi,Vishalakshi Temple,42,2967,29
+937,Varanasi,Vaanprastha Village Retreat,5,2914,29
+938,Varanasi,Yoga in Varanasi,58,3032,29
+939,Varanasi,Vajra Vidya Sansthan Temple,3,2918,29
+940,Varanasi,Vyasa Temple,4,2979,29
+941,Jaisalmer,Akal Wood Fossil Park,37,56,10
+942,Jaisalmer,Amar Sagar Lake,92,85,10
+943,Jaisalmer,Amar Sagar Jain Temple,6,84,10
+944,Jaisalmer,Baba Ramdev Temple,63,228,10
+945,Jaisalmer,Antique Shop Jaisalmer,5,127,10
+946,Jaisalmer,Bada Bagh,719,234,10
+947,Jaisalmer,Basant Art Emporium,15,289,10
+948,Jaisalmer,Desert Culture Centre & Museum,169,646,10
+949,Jaisalmer,CHAAT KE HHAT,2,413,10
+950,Jaisalmer,Chandrakanta  Art's,8,464,10
+951,Jaisalmer,Desert National Park,254,648,10
+952,Jaisalmer,Desert Handicraft Emporium,7,647,10
+953,Jaisalmer,Dussehra Chowk,21,723,10
+954,Jaisalmer,Gadsisar Sagar Lake,1678,826,10
+955,Jaisalmer,Flying Carpet Handicrafts,3,793,10
+956,Jaisalmer,Desert Thar Safari,8,649,10
+957,Jaisalmer,Gandhi Chowk Street,82,839,10
+958,Jaisalmer,Jain Temples,769,1152,10
+959,Jaisalmer,Gyan Bhandar,7,967,10
+960,Jaisalmer,Government Museum,27,912,10
+961,Jaisalmer,Indira Gandhi Indoor Stadium,3,1103,10
+962,Jaisalmer,Jaisalmer Folklore Museum,26,1158,10
+963,Jaisalmer,Jaisalmer Fort,4149,1159,10
+964,Jaisalmer,Jaisalmer Art Palace,10,1157,10
+965,Jaisalmer,Jaisalmer War Museum,623,1161,10
+966,Jaisalmer,Jaisalmer Sunset Point,5,1160,10
+967,Jaisalmer,Khaba Fort,83,1333,10
+968,Jaisalmer,Kothari's Patwaon-Ki-Haveli,1609,1376,10
+969,Jaisalmer,Kuldhara Abandoned Village,1105,1390,10
+970,Jaisalmer,Longewala War Memorial,357,1488,10
+971,Jaisalmer,Kunthanath Temple,4,1401,10
+972,Jaisalmer,Maharaja's Palace,201,1550,10
+973,Jaisalmer,Lucky Art Gallery,10,1497,10
+974,Jaisalmer,Maasa Miniature Art,12,1515,10
+975,Jaisalmer,Manak Chowk and Havelis,28,1593,10
+976,Jaisalmer,Mandir Palace,102,1603,10
+977,Jaisalmer,Nathmal Ji Ki Haveli,159,1804,10
+978,Jaisalmer,Rishabhadeva Temple,15,2227,10
+979,Jaisalmer,Salim Singh-ki Haveli,236,2281,10
+980,Jaisalmer,Shri Ramdev Temple,18,2485,10
+981,Jaisalmer,Sonee Art Gallery,22,2544,10
+982,Jaisalmer,Samadhi Mandir,6,2285,10
+983,Jaisalmer,Surya Gate,63,2693,10
+984,Jaisalmer,Shantinath Temple,9,2396,10
+985,Jaisalmer,Tanot Mata Temple,698,2735,10
+986,Jaisalmer,Tazia Tower,28,2742,10
+987,Jaisalmer,The Thar Heritage Museum,97,2802,10
+988,Jaisalmer,Tilon Ki Pol,22,2833,10
+989,Jaisalmer,Vyas Chhatri,97,2978,10
+990,Srinagar,Achabal Garden,45,19,27
+991,Srinagar,Badamwari Garden,141,237,27
+992,Srinagar,Anchar Lake,8,105,27
+993,Srinagar,Badshah Tomb,12,242,27
+994,Srinagar,Betab Valley,982,310,27
+995,Srinagar,Charar-e-Sharif,48,470,27
+996,Srinagar,Burzhama Ruins,9,410,27
+997,Srinagar,Chaku And Sons,2,451,27
+998,Srinagar,Chakucraftsemporium,3,452,27
+999,Srinagar,Chashme Shahi Gardens,884,473,27
+1000,Srinagar,Challi Point,10,453,27
+1001,Srinagar,Chatti Padshahi Gurudwara,46,476,27
+1002,Srinagar,Dachigam Wildlife Sanctuary,60,591,27
+1003,Srinagar,Dal Lake,3929,600,27
+1004,Srinagar,Dhari Devi Temple,14,663,27
+1005,Srinagar,Doodhpathri,50,703,27
+1006,Srinagar,Dhari Devi Mandir,13,662,27
+1007,Srinagar,Dastgir Sahib Shrine,10,622,27
+1008,Srinagar,Durga Nag Temple,16,719,27
+1009,Srinagar,Floating Vegetable Market,31,791,27
+1010,Srinagar,Fotu La Pass,15,806,27
+1011,Srinagar,Garden of Char Chinar,29,854,27
+1012,Srinagar,Hari Parbat,42,1000,27
+1013,Srinagar,Foreshore Road,3,798,27
+1014,Srinagar,Ghanta Ghar,1589,876,27
+1015,Srinagar,Hazratbal,526,1022,27
+1016,Srinagar,Harwan Gardens,5,1004,27
+1017,Srinagar,Indira Gandhi Tulip Garden,1053,1108,27
+1018,Srinagar,Imambara Hassanabad,5,1084,27
+1019,Srinagar,Jama Masjid Mosque,276,1169,27
+1020,Srinagar,Jawaharlal Nehru Memorial Botanical Gardens,159,1191,27
+1021,Srinagar,Jyeshtheshvara Temple,14,1233,27
+1022,Srinagar,Kashmir Tourism Booking,6,1311,27
+1023,Srinagar,Kathi Darwaza,6,1315,27
+1024,Srinagar,Kheer Bhawani Temple,228,1344,27
+1025,Srinagar,Lal Chowk,29,1438,27
+1026,Srinagar,Makhdoom Sahib Shrine,21,1575,27
+1027,Srinagar,Manasbal Lake,138,1598,27
+1028,Srinagar,Mughal Gardens,732,1735,27
+1029,Srinagar,Masjid of Akhund Mullah,3,1644,27
+1030,Srinagar,Nasim Bagh,37,1802,27
+1031,Srinagar,Nigeen Lake,1070,1879,27
+1032,Srinagar,Naqshband Shrine,7,1798,27
+1033,Srinagar,Nishat Garden,1236,1888,27
+1034,Srinagar,Nilagrad River,4,1881,27
+1035,Srinagar,Pari Mahal,851,1977,27
+1036,Srinagar,Pathar Masjid,11,1995,27
+1037,Srinagar,Pir Dastgir Sahib,13,2026,27
+1038,Srinagar,Roza Bal Shrine,15,2249,27
+1039,Srinagar,Parihaspora Pattan,7,1978,27
+1040,Srinagar,Rainawari,13,2125,27
+1041,Srinagar,Shah-e-Hamdan,90,2377,27
+1042,Srinagar,Pratap Park,3,2056,27
+1043,Srinagar,Sangin Darwaza,3,2304,27
+1044,Srinagar,Shalimar Bagh,726,2384,27
+1045,Srinagar,Shankaracharya Hill,2007,2390,27
+1046,Srinagar,Sinthan Top,141,2517,27
+1047,Srinagar,Sonamarg,1084,2541,27
+1048,Srinagar,Sri Pratap Singh Museum,17,2580,27
+1049,Srinagar,Wular Lake,48,3019,27
+1050,Srinagar,Tomb of Madin Sahib,3,2853,27
+1051,Srinagar,Yousmarg,238,3036,27
+1052,Srinagar,Zero Bridge,4,3043,27
+1053,Leh,Alchi Choskor Monastery,497,73,15
+1054,Leh,Basgo Monastry,67,290,15
+1055,Leh,Chemre Gompa Monastery,42,489,15
+1056,Leh,Chokhang Vihara Temple,13,516,15
+1057,Leh,Central Asian Museum,10,442,15
+1058,Leh,Confluence of the Indus and Zanskar Rivers,1443,562,15
+1059,Leh,Deskit Monastery,667,652,15
+1060,Leh,Donkey Sanctuary,23,702,15
+1061,Leh,Du-Khang,22,713,15
+1062,Leh,Gurdwara Pathar Sahib,1246,933,15
+1063,Leh,Gomang Stupa,4,904,15
+1064,Leh,Hall of Fame,1715,982,15
+1065,Leh,Gurudwara Shri Datun Sahib Ji,6,960,15
+1066,Leh,Gyap-Thago Heritage Home,1,970,15
+1067,Leh,Hemis National Park,29,1030,15
+1068,Leh,Jama Masjid - Leh,69,1168,15
+1069,Leh,Kyagar Tso,30,1409,15
+1070,Leh,Karma Dupgyud Choeling Monastery,5,1299,15
+1071,Leh,Kalachakra Stupa,3,1254,15
+1072,Leh,Leh Post Office,74,1462,15
+1073,Leh,Ladakh Haat Juma Bagh,1,1417,15
+1074,Leh,Lachung Temple,6,1415,15
+1075,Leh,Ladakh Rocks & Minerals Museum,6,1418,15
+1076,Leh,Leh Market,10,1461,15
+1077,Leh,Leh Royal Palace,743,1463,15
+1078,Leh,Likir Monastery,231,1470,15
+1079,Leh,Library Road Vegetable Market,18,1468,15
+1080,Leh,Lotsawa Lha-Khang,18,1490,15
+1081,Leh,Magnetic Hill,1429,1533,15
+1082,Leh,Markha Valley,21,1636,15
+1083,Leh,Manjushri Lha-Khang,11,1619,15
+1084,Leh,Matho Monastery,43,1651,15
+1085,Leh,Monastery Circuit,42,1705,15
+1086,Leh,Namgyal Tsemo Gompa,73,1793,15
+1087,Leh,Namgyal Tsemo Monastery,49,1794,15
+1088,Leh,Panamic Hot Sulphur Springs,79,1958,15
+1089,Leh,Old Raku House,11,1917,15
+1090,Leh,Pangong Tso,3266,1966,15
+1091,Leh,Phyang Monastery,43,2019,15
+1092,Leh,Riasi Fort or Zorawar Fort,25,2221,15
+1093,Leh,Prayer Wheel,5,2060,15
+1094,Leh,Samstanling Monastery,37,2293,15
+1095,Leh,Rangdum Gompa,7,2180,15
+1096,Leh,Rezang La War Memorial,6,2219,15
+1097,Leh,Sand Dunes Leisure Park,656,2300,15
+1098,Leh,Sankar Monastery,31,2311,15
+1099,Leh,Saspol Caves,19,2340,15
+1100,Leh,Shanti Stupa,611,2394,15
+1101,Leh,Serzang Temple,7,2367,15
+1102,Leh,Shagma Karphu,1,2373,15
+1103,Leh,Shey Monastery,206,2407,15
+1104,Leh,Sindhu Ghat,103,2511,15
+1105,Leh,Spituk Monastery,183,2552,15
+1106,Leh,Soma Gompa,3,2538,15
+1107,Leh,Stakna Monastery,82,2645,15
+1108,Leh,Stok Palace Museum,198,2661,15
+1109,Leh,Stok Kangri,10,2660,15
+1110,Leh,Tanglang La,195,2732,15
+1111,Leh,Sum-tsek,12,2675,15
+1112,Leh,Stupa at T- Suru,2,2667,15
+1113,Leh,Thiksey Monastery,1507,2807,15
+1114,Leh,Textile Museum of Ladakj,2,2755,15
+1115,Leh,Temple at Sumda Chun,7,2752,15
+1116,Leh,The Ladakh Arts and Media Organisation,35,2784,15
+1117,Leh,The Little Paradise,5,2785,15
+1118,Leh,Tibetan Market,190,2827,15
+1119,Leh,Tso kar Lake,35,2877,15
+1120,Leh,Zanskar the Virgin Valley,89,3041,15
+1121,Leh,Tsarap Chu River,3,2876,15
+1122,Leh,Tingmosgang Monastery,1,2836,15
+1123,Leh,Vajra Bhairav Shrine,5,2917,15
+1124,Jodhpur,Baba Ramdev Temple,63,228,11
+1125,Jodhpur,Arna Jharna: The Thar Desert Museum of Rajasthan,26,148,11
+1126,Jodhpur,Achal Nath Shivalaya,6,20,11
+1127,Jodhpur,Adhar Shila Temple,2,26,11
+1128,Jodhpur,Ashapurna Mall,2,175,11
+1129,Jodhpur,Ashapura Mata Mandir,2,174,11
+1130,Jodhpur,Balsamand Lake and Garden,214,259,11
+1131,Jodhpur,Bagtesh Fashion,1,246,11
+1132,Jodhpur,Bullet Baba Temple,99,408,11
+1133,Jodhpur,Bharatplaza,4,331,11
+1134,Jodhpur,Chamunda Mata Temple,67,457,11
+1135,Jodhpur,Chauhan's Art Gallery & Art School,88,480,11
+1136,Jodhpur,Ghanta Ghar,1589,876,11
+1137,Jodhpur,Chokelao Bagh,19,515,11
+1138,Jodhpur,Chopasni Mandir,4,519,11
+1139,Jodhpur,Jai Pol,28,1139,11
+1140,Jodhpur,Jain Mahavira Temple,68,1142,11
+1141,Jodhpur,Hanwant Garden,2,993,11
+1142,Jodhpur,Hall of the Heroes,15,983,11
+1143,Jodhpur,Jaswant Thada,1783,1186,11
+1144,Jodhpur,Jambaji Temple,8,1171,11
+1145,Jodhpur,Jaswant Sagar Dam,3,1185,11
+1146,Jodhpur,Kaylana Lake,121,1321,11
+1147,Jodhpur,Karan Heritage,6,1296,11
+1148,Jodhpur,Kunj Bihari Temple,22,1400,11
+1149,Jodhpur,Lavi's cooking,17,1454,11
+1150,Jodhpur,Loha Pol,38,1483,11
+1151,Jodhpur,Machia Biological Park,64,1517,11
+1152,Jodhpur,Maharishi Dadhichi Garden,15,1556,11
+1153,Jodhpur,Mandore Garden,821,1604,11
+1154,Jodhpur,Mahamandir,18,1541,11
+1155,Jodhpur,Mahila Bagh Zhalra,15,1566,11
+1156,Jodhpur,Masuriya Hill Garden,29,1646,11
+1157,Jodhpur,Mehrangarh Fort,6632,1665,11
+1158,Jodhpur,Nagnechi Mata Temple,3,1775,11
+1159,Jodhpur,Phool Mahal,104,2016,11
+1160,Jodhpur,Neelkanth Mahadev Temple,5,1846,11
+1161,Jodhpur,Oriental Art Gallery,4,1926,11
+1162,Jodhpur,Phalodi Fort,7,2013,11
+1163,Jodhpur,Pukhraj Durry Udhyog,76,2074,11
+1164,Jodhpur,Ramdevra Temple,56,2170,11
+1165,Jodhpur,Rai Ka Bag Palace,9,2123,11
+1166,Jodhpur,Raj Ranchhodji Temple,3,2132,11
+1167,Jodhpur,Rao Jodha Desert Rock Park,442,2189,11
+1168,Jodhpur,Rani Handicraft,1,2181,11
+1169,Jodhpur,Raju's Fashion Mall,2,2155,11
+1170,Jodhpur,Ranisar Padamsar Lakes,4,2186,11
+1171,Jodhpur,Ranisar Lake,2,2185,11
+1172,Jodhpur,Rao Jodha Ji Statue,114,2190,11
+1173,Jodhpur,Sardar Government Museum,12,2328,11
+1174,Jodhpur,Santoshi Mata Temple,41,2318,11
+1175,Jodhpur,Rasik Bihari Temple (Niniji Temple),2,2194,11
+1176,Jodhpur,Saleraj Store,2,2279,11
+1177,Jodhpur,Sardar Market,76,2330,11
+1178,Jodhpur,Sardar Samand Lake,15,2331,11
+1179,Jodhpur,Shri Ganesh Temple,50,2468,11
+1180,Jodhpur,Shree Pal Balaji Temple,6,2449,11
+1181,Jodhpur,Shrine of the Three Hundred Million Gods,1,2499,11
+1182,Jodhpur,Shri Gangshyam Ji Maharaj Mandir,3,2469,11
+1183,Jodhpur,Toorji Ka Jhalra (Toorji’s Step Well),292,2857,11
+1184,Jodhpur,Suraj Garden,2,2690,11
+1185,Jodhpur,Sun Temple,5,2676,11
+1186,Jodhpur,St Andrews Hall Church,2,2602,11
+1187,Jodhpur,Takhat Sagar Lake,2,2723,11
+1188,Jodhpur,The Singaria Coin Museum,10,2797,11
+1189,Jodhpur,Swami Vivekanand Park,1,2703,11
+1190,Jodhpur,Umaid Bhawan Palace Museum,2304,2895,11
+1191,Jodhpur,Umaid Heritage Art School,158,2896,11
+1192,Jodhpur,Umed Garden,27,2897,11
+1193,Jodhpur,Vastra Vinod,11,2929,11
+1194,Jodhpur,Zenana Mahal,30,3042,11
+1195,Jodhpur,Walk to blueCity heritagetour,26,2983,11
+1196,Jodhpur,Yakub Pottery Udhyog Art,2,3021,11
+1197,Pune,Lonavala Lake,191,1487,26
+1198,Pune,Aga Khan Palace,1120,35,26
+1199,Pune,Aditya Shagun Mall,4,31,26
+1200,Pune,Amanora Mall,221,82,26
+1201,Pune,Appu Ghar Amusement Park,41,132,26
+1202,Pune,Amazeum Children's Museum,2,87,26
+1203,Pune,Andra Valley Dam,4,110,26
+1204,Pune,Apsara Theater,3,133,26
+1205,Pune,Apsara Theatre,1,134,26
+1206,Pune,Art2Day Gallery,3,162,26
+1207,Pune,Archeological museum,3,143,26
+1208,Pune,Aroha Srushti Agri Tourism,6,149,26
+1209,Pune,Aryabhushan Theatre,3,172,26
+1210,Pune,Balewadi Stadium (Shri Shiv Chhatrapati),63,254,26
+1211,Pune,Balak Shishu Mandir,2,251,26
+1212,Pune,Balbhim Mandir,3,253,26
+1213,Pune,Baneshwar Temple,125,274,26
+1214,Pune,Bandiwan Maruti Mandir,2,267,26
+1215,Pune,Baner Hill,3,273,26
+1216,Pune,BAPS Shri Swaminarayan Mandir,66,219,26
+1217,Pune,AquaDunia,1,135,26
+1218,Pune,Bedse Caves,43,300,26
+1219,Pune,Bedekar Ganpati Mandir,1,299,26
+1220,Pune,Bhatghar Dam,20,333,26
+1221,Pune,Bhimashankar Wildlife Sanctuary,47,341,26
+1222,Pune,Bhama Askhed Dam,5,321,26
+1223,Pune,Bharat Natya Sanshodhan Mandir,5,327,26
+1224,Pune,Bhuleshwar Temple,195,349,26
+1225,Pune,Bhimthadi Jatra,14,343,26
+1226,Pune,Blades of Glory Cricket Museum,23,376,26
+1227,Pune,Bund Garden,35,409,26
+1228,Pune,Chaturshrungi Temple,573,477,26
+1229,Pune,Blessings Aquarium,4,378,26
+1230,Pune,Chakan Fort,6,449,26
+1231,Pune,Chokhi Dhani,97,517,26
+1232,Pune,Chatushrungi Hills,7,478,26
+1233,Pune,Chavand Fort,9,484,26
+1234,Pune,Chittaranjan Vatika Garden,8,514,26
+1235,Pune,Dagadusheth Halwai Ganapati Temple,3018,595,26
+1236,Pune,Clover Center,2,553,26
+1237,Pune,Darshan Museum,1329,616,26
+1238,Pune,Dashbhuja Ganpati Temple,11,621,26
+1239,Pune,Devkund Waterfall,50,657,26
+1240,Pune,Dashbhuj ganpati mandir,2,620,26
+1241,Pune,Deshmukh Devi Mandir,2,651,26
+1242,Pune,Devi Chamunda Mata Mandir,2,655,26
+1243,Pune,"Diamond Parks - Water, Adventure & Camping",69,671,26
+1244,Pune,Dharmaveer Chatrapati Sambhaji Maharaj,2,665,26
+1245,Pune,Dive Ghat Valley,20,684,26
+1246,Pune,Empress Gardens,54,761,26
+1247,Pune,Dipika Balak Mandir,2,681,26
+1248,Pune,Dighi Hills,10,676,26
+1249,Pune,Dr Salim Ali Bird Sanctuary,3,707,26
+1250,Pune,Film and Television Institute of India,11,782,26
+1251,Pune,Four Seasons Winery,24,807,26
+1252,Pune,Gandhi National Memorial,24,842,26
+1253,Pune,Fire Brigade Museum,5,786,26
+1254,Pune,Ganesha Temple,17,848,26
+1255,Pune,Funky Monkeys Play Center Pune,10,817,26
+1256,Pune,Ghoradeshwar Temple,20,881,26
+1257,Pune,Gatha Temple,8,863,26
+1258,Pune,Gcorp Pulse Mall,8,869,26
+1259,Pune,Ghangad Fort,2,875,26
+1260,Pune,Gram Sanskruti Udyan Village Park,63,915,26
+1261,Pune,Girijatmaka Temple,4,885,26
+1262,Pune,Gopal Gyan Samaj Mandir,4,906,26
+1263,Pune,Hong Kong Lane,11,1053,26
+1264,Pune,Gurudwara Guru Nanak Darbar,4,948,26
+1265,Pune,Gurudatta Temple,2,940,26
+1266,Pune,Gupt Bhimashankar,8,929,26
+1267,Pune,Harkirat Singh Theatre,1,1003,26
+1268,Pune,Hanuman Lake,4,990,26
+1269,Pune,Harakadas Vidya Mandir,2,997,26
+1270,Pune,Inorbit Mall,404,1113,26
+1271,Pune,Ishanya Mall,18,1123,26
+1272,Pune,Inter National Institute of Fashion Design,2,1117,26
+1273,Pune,ISKCON NVCC Temple,777,1075,26
+1274,Pune,Induri fort,6,1111,26
+1275,Pune,Jangali Maharaj Temple,35,1179,26
+1276,Pune,Joshi's Museum of Miniature Railways,51,1221,26
+1277,Pune,Jambhulwadi Lake,7,1172,26
+1278,Pune,Jedhe Maruti Mandir,3,1199,26
+1279,Pune,Jewel Square Mall,7,1202,26
+1280,Pune,Joggers Park,7,1215,26
+1281,Pune,Jijamata Balak Mandir,1,1210,26
+1282,Pune,Junnar Caves,16,1228,26
+1283,Pune,Kamla Nehru Park,46,1276,26
+1284,Pune,Junglehood,9,1227,26
+1285,Pune,Kanifnath Temple,23,1289,26
+1286,Pune,Kakade Mall,5,1249,26
+1287,Pune,Kalubai Mandir,2,1270,26
+1288,Pune,Kasarsai Dam,34,1307,26
+1289,Pune,Kasba Peth Ganpati Temple,13,1308,26
+1290,Pune,Katraj Jain Temple,204,1316,26
+1291,Pune,Khadakwasla Dam,253,1334,26
+1292,Pune,Katraj Lake,6,1317,26
+1293,Pune,Kavadi Pat,7,1318,26
+1294,Pune,Khandi Waterfalls,13,1340,26
+1295,Pune,Kirkee War Cemetery,70,1358,26
+1296,Pune,Khunya Murlidhar Mandir,2,1348,26
+1297,Pune,Khandoba Temple,1,1341,26
+1298,Pune,Kilbil Balak Mandir,3,1353,26
+1299,Pune,Koregaon Park,25,1374,26
+1300,Pune,Krushnai Water Park,70,1385,26
+1301,Pune,Krishna River,3,1380,26
+1302,Pune,Krome Mall,8,1384,26
+1303,Pune,Kumar Pacific Mall,49,1394,26
+1304,Pune,Lal Mahal Chitra,15,1441,26
+1305,Pune,Lavasa International Convention Centre,260,1453,26
+1306,Pune,Krushnai Water World,8,1386,26
+1307,Pune,Laxmi Road,854,1457,26
+1308,Pune,Laxmi Mata Temple,7,1455,26
+1309,Pune,Lifestyle Mall,15,1469,26
+1310,Pune,Madhe Ghat,19,1523,26
+1311,Pune,Mahatma Phule Museum,17,1560,26
+1312,Pune,Liberty Theatre,2,1467,26
+1313,Pune,Malshej Ghats,541,1586,26
+1314,Pune,Lord Ayyappa Temple,10,1489,26
+1315,Pune,Madhusad Ganpati Mandir,2,1526,26
+1316,Pune,Mahasoba Mandir,1,1558,26
+1317,Pune,Malhargad Fort,8,1579,26
+1318,Pune,Manas Holiday Resorts,40,1597,26
+1319,Pune,Mayur Baug,51,1659,26
+1320,Pune,Manikdoh Dam,3,1615,26
+1321,Pune,Maratha Mandir,5,1629,26
+1322,Pune,Mayureshwar Wildlife Sanctuary,17,1660,26
+1323,Pune,Mathew Marathi Tamil Church,4,1650,26
+1324,Pune,MCA Cricket Stadium,56,1507,26
+1325,Pune,Meher Retreat,42,1664,26
+1326,Pune,Moreshwer Ganesh Mandir Temple,18,1714,26
+1327,Pune,Morgaon Mayureshwar Temple,64,1715,26
+1328,Pune,Meterwave Radio Telescope Facility,6,1677,26
+1329,Pune,Monkey Point,9,1707,26
+1330,Pune,Mughal Garden,610,1734,26
+1331,Pune,Mulshi Dam,262,1749,26
+1332,Pune,Mula Mutha River,7,1744,26
+1333,Pune,Mata Amardevi Temple,1,1647,26
+1334,Pune,Narayani Dham Temple,160,1799,26
+1335,Pune,Nagraj Mandir,8,1777,26
+1336,Pune,National Defence Academy,299,1811,26
+1337,Pune,National War Museum,80,1828,26
+1338,Pune,Neelkantheshwar,75,1847,26
+1339,Pune,Nayana,2,1840,26
+1340,Pune,Navlobanath Temple,3,1838,26
+1341,Pune,Needle Hole Point,7,1843,26
+1342,Pune,Nitesh HUB - Shopping mall in Pune,18,1890,26
+1343,Pune,Nitesh HUB,44,1889,26
+1344,Pune,Nehru Stadium,5,1860,26
+1345,Pune,Nilkantheshwar Temple,3,1883,26
+1346,Pune,Nucleus Mall,18,1899,26
+1347,Pune,Ohel David Synagogue,14,1911,26
+1348,Pune,Nutan Balvikas Mandir,1,1901,26
+1349,Pune,Omkareshwar Mandir,9,1921,26
+1350,Pune,Osho International Meditation Resort and Guesthouse,112,1928,26
+1351,Pune,Osho Teerth Park,148,1929,26
+1352,Pune,Navgrah Shani Mandir,3,1836,26
+1353,Pune,Parvati Temple,375,1989,26
+1354,Pune,Pandit Bhimsen Joshi Udyan,6,1963,26
+1355,Pune,Padma-Mani Jain Temple,6,1941,26
+1356,Pune,Pashan Lake,77,1990,26
+1357,Pune,Pataleshwar Cave Temple,375,1994,26
+1358,Pune,Pawna Lake,198,2001,26
+1359,Pune,Pavna River,16,2000,26
+1360,Pune,Peshwe Udyan Zoo,24,2011,26
+1361,Pune,Phoenix Market City,591,2014,26
+1362,Pune,Phule Market,17,2018,26
+1363,Pune,Prathamesh Farms & Agro Tourism,30,2057,26
+1364,Pune,Plus Valley,4,2032,26
+1365,Pune,Pimpalgaon Joga Dam,8,2022,26
+1366,Pune,Pune Central Mall,12,2076,26
+1367,Pune,Pratishirdi Shri Saibaba Mandir,4,2059,26
+1368,Pune,Pune Okayama Friendship Garden,457,2078,26
+1369,Pune,Premal Hanuman Temple,2,2063,26
+1370,Pune,Pu La Deshpande Garden,3,2072,26
+1371,Pune,Pune Junction Railway Station,8,2077,26
+1372,Pune,Pune Tribal Museum,32,2079,26
+1373,Pune,Purandar Fort,32,2083,26
+1374,Pune,Raja Dinkar Kelkar Museum,459,2133,26
+1375,Pune,Radhika Bhalerao,14,2113,26
+1376,Pune,Raj Kapoor Memorial,3,2130,26
+1377,Pune,Rajgad Fort,222,2145,26
+1378,Pune,Rajiv Gandhi Zoological Park,400,2149,26
+1379,Pune,Rajgad Waterpark,9,2146,26
+1380,Pune,Ramdara Mandir,28,2169,26
+1381,Pune,Ranjangaon Ganpati Temple,292,2187,26
+1382,Pune,Ramambika Mandir,3,2167,26
+1383,Pune,Royale Heritage Mall,40,2248,26
+1384,Pune,"Saint Tukaram Gatha Mandir, Dehu Gaon, Pune",12,2274,26
+1385,Pune,Rasai Devi Mandir,1,2191,26
+1386,Pune,Ray Art Gallery,3,2203,26
+1387,Pune,Rightwood,6,2224,26
+1388,Pune,Sambhaji Maharaj Samadhi,18,2288,26
+1389,Pune,Saibaba Mandir,6,2271,26
+1390,Pune,Sahyadri Wildlife Sanctuary,5,2269,26
+1391,Pune,S Mall,5,2253,26
+1392,Pune,Sahastra Budhe Mandir,1,2267,26
+1393,Pune,Sant Dnyaneshwar's Samadhi Mandir,54,2316,26
+1394,Pune,Sambhaji Park,3,2289,26
+1395,Pune,Saras Baug,155,2323,26
+1396,Pune,Saras Garden,11,2325,26
+1397,Pune,Sarasbaug Ganpati Temple,556,2326,26
+1398,Pune,Seasons Mall,170,2358,26
+1399,Pune,Sardar Holkar Shiv Mandir,4,2329,26
+1400,Pune,Sausage Hills,3,2346,26
+1401,Pune,Satyavan Maruti Mandir,1,2345,26
+1402,Pune,Sentosa Water Park,82,2363,26
+1403,Pune,Seven Wonders Dream Park,20,2369,26
+1404,Pune,Sgs Mall,128,2372,26
+1405,Pune,Shaniwar Wada,979,2387,26
+1406,Pune,Shinde Chatri,58,2415,26
+1407,Pune,Shantivan,3,2397,26
+1408,Pune,Shree Chintamani Temple,93,2438,26
+1409,Pune,Shitla Devi Mandir,2,2418,26
+1410,Pune,Shree Chardham Mandir,3,2437,26
+1411,Pune,Shivaji Maharaj Museum of Indian History,6,2422,26
+1412,Pune,Shree Krishna Mandir,15,2446,26
+1413,Pune,Shree Moreshwar Temple,12,2448,26
+1414,Pune,Shri Kashvishweshwar Temple,3,2475,26
+1415,Pune,Shri Mahadev Temple,3,2478,26
+1416,Pune,Shree Mahalaxmi Mandir,4,2447,26
+1417,Pune,Shri Dattatray Temple,2,2465,26
+1418,Pune,Shri Satya Sai Pandurang Kshetra,95,2486,26
+1419,Pune,Shri Mahalaxmi Mandir,9,2479,26
+1420,Pune,Shri Mrutyunjayeshwar Temple,5,2482,26
+1421,Pune,Shri Wagheshwar Temple,16,2494,26
+1422,Pune,Sinhagad Fort,1653,2516,26
+1423,Pune,Shri Amba Mata Mandir,2,2464,26
+1424,Pune,Shri Subramaniya Swamy Temple,2,2491,26
+1425,Pune,Someshwar Wadi Temple,28,2539,26
+1426,Pune,Spot 18 Mall,15,2554,26
+1427,Pune,Sri Balaji Mandir,893,2566,26
+1428,Pune,St Ignatius Church,6,2607,26
+1429,Pune,St Xaviers Church,12,2623,26
+1430,Pune,Taljai Hill,53,2727,26
+1431,Pune,St. Mary's Church,17,2633,26
+1432,Pune,Surya Mukhi Gurudutt Mandir,4,2695,26
+1433,Pune,Tail-Baila Fort,6,2717,26
+1434,Pune,Tamhini Ghat,76,2731,26
+1435,Pune,Temghar Dam,18,2750,26
+1436,Pune,The Pavillion,29,2790,26
+1437,Pune,Tilak Smarak Mandir,12,2832,26
+1438,Pune,The Church Of The Holy Name,1,2768,26
+1439,Pune,Temple of Narasimha,2,2753,26
+1440,Pune,The Hidden Oasis,3,2778,26
+1441,Pune,Thokarwadi Dam,2,2814,26
+1442,Pune,Torna Fort,75,2859,26
+1443,Pune,Tilting Art Gallery,2,2834,26
+1444,Pune,Studio Kaleido,7,2664,26
+1445,Pune,Tinmukhi Mata Mandir,3,2837,26
+1446,Pune,To the Glory Church,2,2841,26
+1447,Pune,Tulsi Baug Shopping Market,58,2881,26
+1448,Pune,Tung Fort,33,2886,26
+1449,Pune,Talajai Hill,5,2725,26
+1450,Pune,Trishundha Ganpati Temple,9,2873,26
+1451,Pune,University of Pune,190,2906,26
+1452,Pune,Vetal Hill,59,2943,26
+1453,Pune,Vandevi Mandir,5,2922,26
+1454,Pune,Varasgaon Dam,10,2924,26
+1455,Pune,Visapur Fort,86,2965,26
+1456,Pune,Vikram Pendse Cycles,3,2958,26
+1457,Pune,Vishram Bagh Waada Palace,14,2968,26
+1458,Pune,Western Ghats,283,3002,26
+1459,Pune,Wadkar's Agritourism,3,2981,26
+1460,Pune,Vishrambaug Samaj Mandir,4,2969,26
+1461,Pune,Westend Mall,2,2999,26
+1462,Pune,Vimal Garden,2,2961,26
+1463,Pune,Yedgaon Dam,5,3026,26
+1464,Pune,Withlovenregards,1,3011,26
+1465,Aurangabad,Alamgir Dargah,29,68,4
+1466,Aurangabad,Aurangabad Caves,315,199,4
+1467,Aurangabad,Bhadra Maruti,270,314,4
+1468,Aurangabad,Baradari Iwaz Khan Aqueduct,4,283,4
+1469,Aurangabad,Bibi Ka Maqbara,1408,354,4
+1470,Aurangabad,Bharat Mata Mandir,13,325,4
+1471,Aurangabad,Chatrapati Shivaji Museum,41,474,4
+1472,Aurangabad,Chini Mahal,47,506,4
+1473,Aurangabad,Ellora Caves,2177,759,4
+1474,Aurangabad,Dargah Baba Shah Muzafir,17,608,4
+1475,Aurangabad,Damri Mahal,7,603,4
+1476,Aurangabad,Dargah of Pir Ismail,8,611,4
+1477,Aurangabad,Ganesh Temple,19,847,4
+1478,Aurangabad,Goga Baba Hill,21,895,4
+1479,Aurangabad,Grishneshwar Jyotirlinga Temple,857,918,4
+1480,Aurangabad,Gul Mandi Market,27,923,4
+1481,Aurangabad,H2O Water Park,34,975,4
+1482,Aurangabad,Hemadpanthi Temple-Mosque,11,1028,4
+1483,Aurangabad,Gurudwara Bhai Saheb Bhai Daya Singh Ji Bhai Dharam Singh Ji,8,944,4
+1484,Aurangabad,Jain Temple,36,1147,4
+1485,Aurangabad,Himayat Baugh Aurangabad,9,1046,4
+1486,Aurangabad,Jama Masjid,479,1167,4
+1487,Aurangabad,Jayakwadi Dam,49,1195,4
+1488,Aurangabad,Mhaismal,13,1684,4
+1489,Aurangabad,Killa Arak,6,1354,4
+1490,Aurangabad,Nizamshahi Mahal,18,1894,4
+1491,Aurangabad,MAHAGAMI GURUKUL Arts Center,6,1506,4
+1492,Aurangabad,MGM APJ Abdul Kalam Astrospace Science Centre & Club,3,1510,4
+1493,Aurangabad,Naukonda Palace,4,1832,4
+1494,Aurangabad,Panchakki (Water Mill),401,1959,4
+1495,Aurangabad,Pithalkhora Caves,19,2028,4
+1496,Aurangabad,Prozone Mall Aurangabad,85,2071,4
+1497,Aurangabad,Siddharth Garden,84,2506,4
+1498,Aurangabad,Shah Ganj Masjid,7,2376,4
+1499,Aurangabad,Ramakrishna Mission Aurangabad,3,2164,4
+1500,Aurangabad,Purwar Museum,3,2086,4
+1501,Aurangabad,Sunheri Mahal,31,2683,4
+1502,Aurangabad,Sindkhed Raja,15,2512,4
+1503,Aurangabad,Tomb of Mughal Emperor Aurangzeb,182,2855,4
+1504,Aurangabad,Supari Hanuman Temple,9,2688,4
+1505,Aurangabad,The Kacheri,4,2783,4
+1506,Aurangabad,Valley of the Sufi Saints,20,2919,4
+1507,Darjeeling,Ahal Dara View Point,14,42,6
+1508,Darjeeling,Aloobari Gompa Monastery,18,79,6
+1509,Darjeeling,Ava Art Gallery,18,202,6
+1510,Darjeeling,Barbotey Rock Garden,253,287,6
+1511,Darjeeling,Badamtam Tea Estate,5,236,6
+1512,Darjeeling,Batasia Loop,1083,291,6
+1513,Darjeeling,Bengal Natural History Museum,44,308,6
+1514,Darjeeling,Bhutia Busty Gompa Monastery,32,351,6
+1515,Darjeeling,Bindu Dam,30,358,6
+1516,Darjeeling,Chapramari Wildlife Sanctuary,38,468,6
+1517,Darjeeling,Chattakpur,17,475,6
+1518,Darjeeling,Coronation Bridge,244,565,6
+1519,Darjeeling,Dali Monastery,84,601,6
+1520,Darjeeling,Darjeeling Himalayan Railway Ghoom Museum,233,613,6
+1521,Darjeeling,Darjeeling Himalayan Railway,789,612,6
+1522,Darjeeling,Darjeeling Toy Train,678,614,6
+1523,Darjeeling,Dhirdham Temple,18,667,6
+1524,Darjeeling,Devi-Sthan Temple,3,656,6
+1525,Darjeeling,Everest Museum,134,769,6
+1526,Darjeeling,Dow Hill,7,705,6
+1527,Darjeeling,Dudia,3,715,6
+1528,Darjeeling,Ghanti Dara,14,878,6
+1529,Darjeeling,Ghoom Monastery,432,880,6
+1530,Darjeeling,Forest Museum,9,799,6
+1531,Darjeeling,Ganga Maya Park,4,851,6
+1532,Darjeeling,Happy Valley Tea Estate,678,996,6
+1533,Darjeeling,Gombu Rock,4,905,6
+1534,Darjeeling,Guru Sakya Monastery,4,938,6
+1535,Darjeeling,Himalayan Mountaineering Institute,1245,1044,6
+1536,Darjeeling,Hayden Hall,3,1017,6
+1537,Darjeeling,Himalayan Tibet Museum,63,1045,6
+1538,Darjeeling,Japanese Peace Pagoda,1007,1183,6
+1539,Darjeeling,Homedara Siva Mandir Temple,3,1052,6
+1540,Darjeeling,Jhandi Dara Sunrise Point,34,1207,6
+1541,Darjeeling,Kanchenjunga Mountain,938,1283,6
+1542,Darjeeling,Kali Temple,4,1264,6
+1543,Darjeeling,Lamahatta,45,1446,6
+1544,Darjeeling,Kawlay Dara View Point,3,1319,6
+1545,Darjeeling,Lava,98,1451,6
+1546,Darjeeling,Lava Jamgyong Kongtrul Monastery,3,1452,6
+1547,Darjeeling,Lebong Race Course,11,1460,6
+1548,Darjeeling,Lloyd Botanical Garden,49,1477,6
+1549,Darjeeling,Madhuban Park,14,1525,6
+1550,Darjeeling,Mahakal Temple,266,1535,6
+1551,Darjeeling,Mahananda Wildlife Sanctuary,24,1543,6
+1552,Darjeeling,Neora Valley National Park,37,1863,6
+1553,Darjeeling,Observatory Hill,70,1905,6
+1554,Darjeeling,Orange Valley Tea Estate,3,1924,6
+1555,Darjeeling,Padmaja Naidu Himalayan Zoological Park,1916,1942,6
+1556,Darjeeling,Neora Valley Nature Interpretation Centre,4,1864,6
+1557,Darjeeling,Passenger Ropeway,583,1991,6
+1558,Darjeeling,Petrichor Farms,36,2012,6
+1559,Darjeeling,Rink Mall,29,2225,6
+1560,Darjeeling,Salugara Monastery,18,2284,6
+1561,Darjeeling,Samsing,39,2292,6
+1562,Darjeeling,Samco Ropeway,4,2290,6
+1563,Darjeeling,Shrubbery Nightingale Park,23,2500,6
+1564,Darjeeling,Senchal Lake,6,2362,6
+1565,Darjeeling,Samthar Plateau,8,2294,6
+1566,Darjeeling,Snow Leopard Breeding Centre,10,2528,6
+1567,Darjeeling,St. Mary's Hill,7,2635,6
+1568,Darjeeling,Suntalekhola,53,2687,6
+1569,Darjeeling,Srikhola,3,2597,6
+1570,Darjeeling,Surya Sen Park,11,2696,6
+1571,Darjeeling,Tea Garden,394,2744,6
+1572,Darjeeling,Tamang Buddhist Monastery,5,2730,6
+1573,Darjeeling,Roy Villa,3,2242,6
+1574,Darjeeling,Tibetan Buddhist Monastery,66,2826,6
+1575,Darjeeling,Teesta Bazaar,3,2748,6
+1576,Darjeeling,Thongsa Gompa,3,2817,6
+1577,Darjeeling,Tiger Hill Observation Deck,114,2831,6
+1578,Darjeeling,Tiger Hill,1646,2830,6
+1579,Darjeeling,Tinchuley Village,155,2835,6
+1580,Darjeeling,Yiga Choeling Monastery,29,3028,6
+1581,Darjeeling,Zong Dog Palri Fo Brang Monastery,4,3045,6
+1582,Nainital,Astronomical Observatory,36,193,21
+1583,Nainital,Bara Bazaar,44,282,21
+1584,Nainital,Eco Cave Gardens,616,733,21
+1585,Nainital,Goddess Naina Devi,826,894,21
+1586,Nainital,Governor's House Raj Bhawan,124,913,21
+1587,Nainital,Guano Hills,11,921,21
+1588,Nainital,Gurney House,34,935,21
+1589,Nainital,Gurudwara Shri Singh Sabha,51,963,21
+1590,Nainital,Hanuman Garhi Temple,56,988,21
+1591,Nainital,High Altitude Zoo,787,1035,21
+1592,Nainital,Himalayan Botanical Garden,57,1042,21
+1593,Nainital,Kainchi Dham,289,1247,21
+1594,Nainital,Jama Masjid Mosque,276,1169,21
+1595,Nainital,Himalayan Center of Sri Aurobindo Ashram,19,1043,21
+1596,Nainital,Khurpa Taal,206,1349,21
+1597,Nainital,Kalagadh Dam,7,1255,21
+1598,Nainital,Lands End,78,1448,21
+1599,Nainital,Managir Village,13,1592,21
+1600,Nainital,Mukteshwar Temple,358,1741,21
+1601,Nainital,Mandal River,8,1600,21
+1602,Nainital,Naina Peak,211,1779,21
+1603,Nainital,Nainital Lake,2770,1781,21
+1604,Nainital,Nainital Ropeway,185,1782,21
+1605,Nainital,Pangot and Kilbury Bird Sanctuary,106,1967,21
+1606,Nainital,Palain River,8,1949,21
+1607,Nainital,Nainital Zoo,8,1783,21
+1608,Nainital,Saria Tal,60,2332,21
+1609,Nainital,Snow View Point,518,2529,21
+1610,Nainital,Sattal Christian Ashram,20,2343,21
+1611,Nainital,Sonanadi Wildlife Sanctuary,30,2543,21
+1612,Nainital,Suspension Bridge,23,2697,21
+1613,Nainital,Sonanadi River,8,2542,21
+1614,Nainital,Tibetan Market,190,2827,21
+1615,Nainital,Tiffin Top (Dorothy's Seat),256,2829,21
+1616,Nainital,Woodland Water Fall,6,3013,21
+1617,Manali,Anjani Mahadev,25,115,17
+1618,Manali,Arjun Gufa,35,145,17
+1619,Manali,Beas Kund,150,297,17
+1620,Manali,Beas River,2318,298,17
+1621,Manali,Bhrigu Lake,98,348,17
+1622,Manali,Friendship Peak,25,812,17
+1623,Manali,Gadhan Thekchhokling Gompa Monastery,132,825,17
+1624,Manali,Gayatri Temple,35,868,17
+1625,Manali,Ghatotkach Tree Templ,26,879,17
+1626,Manali,Gulaba,583,925,17
+1627,Manali,Goshal fall,7,909,17
+1628,Manali,Hidimba Devi Temple,3673,1034,17
+1629,Manali,Gurudwara Shri Guru Granth Sahib Manali,1,961,17
+1630,Manali,Himvalley Manali Amusement & Culture Park,71,1048,17
+1631,Manali,Himalaya Nyingmapa Buddhist Temple,4,1041,17
+1632,Manali,International Roerich Memorial Trust,165,1119,17
+1633,Manali,Jamula Temple,28,1175,17
+1634,Manali,Jana Waterfall,322,1178,17
+1635,Manali,Jogini Waterfall,355,1216,17
+1636,Manali,Keylong,12,1332,17
+1637,Manali,Manali Sanctuary,310,1596,17
+1638,Manali,Lamadugh Trek,6,1445,17
+1639,Manali,Manali Picnic Spot and Camps,8,1595,17
+1640,Manali,Manikaran Gurudwara,1536,1613,17
+1641,Manali,Manu Market,76,1626,17
+1642,Manali,Manu Temple,347,1627,17
+1643,Manali,Museum of Himachal Culture & Folk Art,134,1763,17
+1644,Manali,Pandoh Dam,204,1965,17
+1645,Manali,Rahala Falls,87,2120,17
+1646,Manali,Rani Nala,45,2184,17
+1647,Manali,Rozy Falls,29,2250,17
+1648,Manali,Siyali Mahadev Temple,60,2525,17
+1649,Manali,Shepherds Trail Gaddi Trek,4,2405,17
+1650,Manali,Solang Nullah,523,2535,17
+1651,Manali,Solang Valley,2975,2536,17
+1652,Manali,Vashisht Baths,903,2928,17
+1653,Manali,Zana Falls,56,3039,17
+1654,Manali,Manali Adventure,1,1594,17
+1655,Kolkata,Savitri Mata Ropeway,48,2347,14
+1656,Kolkata,Academy of Fine Arts,60,17,14
+1657,Kolkata,A.M (Art Multi-disciplines) Studio,3,4,14
+1658,Kolkata,Aakriti Art Gallery,8,7,14
+1659,Kolkata,Acropolis Mall,119,24,14
+1660,Kolkata,Acharya Bhavan,5,22,14
+1661,Kolkata,Akar Prakar,2,57,14
+1662,Kolkata,Adi Brahmo Samaj Prayer Hall,5,27,14
+1663,Kolkata,Aikatan,6,50,14
+1664,Kolkata,Ahuja Art Museum,4,48,14
+1665,Kolkata,Allen Park,4,77,14
+1666,Kolkata,Agni Mandir,4,37,14
+1667,Kolkata,Anant Art Gallery,5,102,14
+1668,Kolkata,Anastasia Art Gallery,3,104,14
+1669,Kolkata,Aquatica,130,136,14
+1670,Kolkata,Ankur Kala,3,117,14
+1671,Kolkata,Aranghata,4,137,14
+1672,Kolkata,Asiatic Society,15,185,14
+1673,Kolkata,Armenian Holy Church Of Nazareth,16,146,14
+1674,Kolkata,Axis Mall,63,208,14
+1675,Kolkata,Art Museum,6,157,14
+1676,Kolkata,Artsacre Museum of Bengal Modern Art,7,167,14
+1677,Kolkata,Ashutosh Museum of Indian Art,6,183,14
+1678,Kolkata,Baba Biswanath Mandir,4,225,14
+1679,Kolkata,Baba Vishwanath Mandir,4,229,14
+1680,Kolkata,Bangiya Sahita Parishad Chitrasala,4,277,14
+1681,Kolkata,Babughat,6,230,14
+1682,Kolkata,Bado Rasbadi Mandir,4,241,14
+1683,Kolkata,"Baps Shri Swaminarayan Mandir, Kolkata",50,280,14
+1684,Kolkata,BBD Bagh,106,221,14
+1685,Kolkata,Barah Mihirer Dhipi Archeological Site,4,284,14
+1686,Kolkata,Barasat Stadium,5,285,14
+1687,Kolkata,Barddhaman Maharaja Palace,9,288,14
+1688,Kolkata,Bhawanipore Cemetery,20,338,14
+1689,Kolkata,Beth El Synagogue,4,311,14
+1690,Kolkata,Bibhutibhushan Wildlife Sanctuary,3,353,14
+1691,Kolkata,Birla Industrial & Technological Museum,190,363,14
+1692,Kolkata,Belvedere House,2,307,14
+1693,Kolkata,Birla Planetarium,287,368,14
+1694,Kolkata,Birla Temple,439,370,14
+1695,Kolkata,Brindabanchandra Temple,4,397,14
+1696,Kolkata,Boi Chitra Gallery,4,379,14
+1697,Kolkata,Central Park,229,444,14
+1698,Kolkata,Bosepukur Sitala Mandir,4,389,14
+1699,Kolkata,Biswa Bangla Gate,10,374,14
+1700,Kolkata,C.N.I Wesleyan Church,4,412,14
+1701,Kolkata,Calcutta Police Museum,2,422,14
+1702,Kolkata,Calcutta Karma Gon Buddhist Monastary,3,421,14
+1703,Kolkata,Carmel of Christ King,4,429,14
+1704,Kolkata,Chintamoni Kar Bird Sanctuary,48,508,14
+1705,Kolkata,Chowringhee,160,525,14
+1706,Kolkata,Chinese Budhhist Temple,5,502,14
+1707,Kolkata,Chandraketu's Fort,7,465,14
+1708,Kolkata,Chintamoni Kar Sangrahalay,5,509,14
+1709,Kolkata,Chitrakoot Art Gallery,3,512,14
+1710,Kolkata,City Centre  Mall,104,545,14
+1711,Kolkata,Church Saganibariya,4,534,14
+1712,Kolkata,Church of Christ the King,4,537,14
+1713,Kolkata,CIMA Gallery,8,414,14
+1714,Kolkata,"City Centre, New Town",114,547,14
+1715,Kolkata,College Street (Boi Para),770,558,14
+1716,Kolkata,Dakshinapan Shopping Complex,68,597,14
+1717,Kolkata,Dacca Kali Bari,12,590,14
+1718,Kolkata,Dakshineswar Kali Temple,2694,598,14
+1719,Kolkata,Dakshineswar Ramkrishna Sangha Adyapeath,61,599,14
+1720,Kolkata,Diamond Plaza,24,672,14
+1721,Kolkata,East Bengal Ground,23,730,14
+1722,Kolkata,E-Mall,19,728,14
+1723,Kolkata,Eco Tourism Park,895,734,14
+1724,Kolkata,Eden Gardens,1310,737,14
+1725,Kolkata,Eco Urban Village,3,735,14
+1726,Kolkata,Elliot Park,34,758,14
+1727,Kolkata,Floating Market Patuli,11,790,14
+1728,Kolkata,Energy Education Park,6,762,14
+1729,Kolkata,Ethnographic Museum,3,767,14
+1730,Kolkata,Experimenter,4,770,14
+1731,Kolkata,Fort William,101,802,14
+1732,Kolkata,Fanattic Sports Museum,6,774,14
+1733,Kolkata,Forum Courtyard,56,805,14
+1734,Kolkata,Gariahat Market,323,860,14
+1735,Kolkata,G & Aswari Shankha Bhander,4,819,14
+1736,Kolkata,Futnani Chambers,6,818,14
+1737,Kolkata,Gariahat Mall,17,859,14
+1738,Kolkata,Gallery Sanskriti,4,835,14
+1739,Kolkata,Gallery Kolkata,3,833,14
+1740,Kolkata,General Post Office,49,873,14
+1741,Kolkata,Howrah Bridge,2386,1058,14
+1742,Kolkata,Hatibagan Market,13,1008,14
+1743,Kolkata,Gitanjali Stadium,3,886,14
+1744,Kolkata,Gurudwara Sant Kutiya,4,958,14
+1745,Kolkata,Handicraft Centre,4,985,14
+1746,Kolkata,Indian Museum (Jadu Ghar),850,1097,14
+1747,Kolkata,Illuminous,4,1082,14
+1748,Kolkata,"ISKCON Kolkata, Sri Sri Radha Govind Temple",166,1074,14
+1749,Kolkata,Jain Temple - Kolkata,125,1148,14
+1750,Kolkata,Jorasanko Thakur Bari,284,1219,14
+1751,Kolkata,Jhater Deul Temple,4,1208,14
+1752,Kolkata,Kalighat Kali Temple,760,1265,14
+1753,Kolkata,Jute Museum,4,1230,14
+1754,Kolkata,Kolkata Tram Museum Smaranika,15,1368,14
+1755,Kolkata,Kolkata Zoo & Zoological Garden,495,1369,14
+1756,Kolkata,Kolkata Police Museum,5,1367,14
+1757,Kolkata,Kolkata Centre for Creativity,5,1366,14
+1758,Kolkata,Lake Mall,27,1423,14
+1759,Kolkata,Lake Town Clock Tower,14,1426,14
+1760,Kolkata,Kolkata,4,1365,14
+1761,Kolkata,Kongposh Kashmir Emporium,3,1371,14
+1762,Kolkata,Konark Collectables,10,1370,14
+1763,Kolkata,La Vida Mall,4,1413,14
+1764,Kolkata,Loknath Temple,5,1486,14
+1765,Kolkata,Ma Raj Rajeshwari Jyoti Mandir,4,1512,14
+1766,Kolkata,Lower Circular Road Cemetery,9,1494,14
+1767,Kolkata,Lascar War Memorial,4,1450,14
+1768,Kolkata,M P Birla Planetarium,5,1504,14
+1769,Kolkata,Maidan,319,1570,14
+1770,Kolkata,Madhusudan Mancha,4,1527,14
+1771,Kolkata,Maghen David synagogue,4,1531,14
+1772,Kolkata,Mahanirban Math,8,1544,14
+1773,Kolkata,Malik Ghat Flower Market,92,1581,14
+1774,Kolkata,Mani Square mall,97,1612,14
+1775,Kolkata,Marble Palace Kolkata,358,1631,14
+1776,Kolkata,Maniktala Christian Cemetery,4,1616,14
+1777,Kolkata,Marble Palace,23,1630,14
+1778,Kolkata,Merlin Homeland Mall,10,1674,14
+1779,Kolkata,Metro Railway,912,1679,14
+1780,Kolkata,Masters Collection Art Gallery,4,1645,14
+1781,Kolkata,Metcalfe Hall,3,1676,14
+1782,Kolkata,Metropolis Mall,22,1681,14
+1783,Kolkata,Millenium Park,209,1687,14
+1784,Kolkata,Mother House,1272,1717,14
+1785,Kolkata,Modern Museum,4,1701,14
+1786,Kolkata,Mohammedan Sporting Ground,4,1702,14
+1787,Kolkata,Mirage Art Gallery,4,1694,14
+1788,Kolkata,Mother's Wax Museum,247,1720,14
+1789,Kolkata,Najrul Tirtha,24,1785,14
+1790,Kolkata,Nakhoda Mosque,29,1786,14
+1791,Kolkata,Mousuni Island,12,1729,14
+1792,Kolkata,Nalban Boating Complex,27,1788,14
+1793,Kolkata,National Library,92,1818,14
+1794,Kolkata,Nehru Children's Museum,50,1852,14
+1795,Kolkata,Nature Park,8,1831,14
+1796,Kolkata,Netaji Bhawan,92,1867,14
+1797,Kolkata,Navratna Shiv Mandir,4,1839,14
+1798,Kolkata,Neeldeep Garden - Picnic Spot in & around Kolkata,5,1845,14
+1799,Kolkata,Netaji Indoor Stadium,36,1868,14
+1800,Kolkata,New Market,748,1871,14
+1801,Kolkata,Nicco Parks & Resorts Limited,750,1877,14
+1802,Kolkata,Pareshnath Jain Temple,133,1976,14
+1803,Kolkata,Nirmal Hirday (Pure Heart),9,1886,14
+1804,Kolkata,Octavius Tea Resorts,3,1908,14
+1805,Kolkata,Old Mission Church,4,1915,14
+1806,Kolkata,Palash Parab Baghmundi,3,1950,14
+1807,Kolkata,Outram ghat,9,1937,14
+1808,Kolkata,Park Street,1960,1981,14
+1809,Kolkata,Prinsep Ghat,633,2066,14
+1810,Kolkata,Pentecostal Mission Church,4,2007,14
+1811,Kolkata,Parnashree Vivekananda Kanan,3,1987,14
+1812,Kolkata,Quest Mall,300,2093,14
+1813,Kolkata,Rabindra Sarobar Stadium,13,2108,14
+1814,Kolkata,Rabindra Sarovar,219,2109,14
+1815,Kolkata,Rabindra Bharati University Museum,25,2107,14
+1816,Kolkata,Ramakrishna Math,12,2162,14
+1817,Kolkata,Royal Calcutta Turf Club,54,2243,14
+1818,Kolkata,Radha Madhup Mandir,4,2112,14
+1819,Kolkata,Rabindra Tirtha,7,2110,14
+1820,Kolkata,Raj Bhavan,47,2127,14
+1821,Kolkata,Raja Rammohun Roy Memorial Museum,7,2136,14
+1822,Kolkata,RANGE contemporary art gallery,4,2104,14
+1823,Kolkata,Salt Lake Stadium,137,2283,14
+1824,Kolkata,Sabarna Sangrahashala,6,2256,14
+1825,Kolkata,Sagar Island,4,2264,14
+1826,Kolkata,Science City,722,2350,14
+1827,Kolkata,Shaheed Minar,284,2379,14
+1828,Kolkata,Scottish Cemetery at Calcutta,5,2352,14
+1829,Kolkata,Seventh Day Adventist Church,5,2370,14
+1830,Kolkata,Shobhabajar Rajbari,43,2428,14
+1831,Kolkata,Shanti Nathar Mandir,4,2393,14
+1832,Kolkata,Shiv Durga Garden,3,2419,14
+1833,Kolkata,Shibananda Dham,4,2408,14
+1834,Kolkata,Shree Aadi Bhootnath Mandir,7,2429,14
+1835,Kolkata,Shree Art Gallery,4,2431,14
+1836,Kolkata,Shree Ram Arcade,10,2450,14
+1837,Kolkata,Shree Swarna Mandir,4,2456,14
+1838,Kolkata,Shri Shirdi Saibaba Mandir,3,2488,14
+1839,Kolkata,South City Mall,202,2547,14
+1840,Kolkata,Shri Mahalaxmi Temple,3,2480,14
+1841,Kolkata,Shyama Raya Temple,4,2504,14
+1842,Kolkata,Shyambazar Kali Bari Temple,3,2505,14
+1843,Kolkata,Sishu Bhavan,8,2520,14
+1844,Kolkata,South Park Street Cemetery,470,2549,14
+1845,Kolkata,Sri Aurobindo Bhawan,14,2563,14
+1846,Kolkata,Sri Balhanuman Mandir,4,2567,14
+1847,Kolkata,St. John's Church,204,2630,14
+1848,Kolkata,Sri Sarada Devi Temple,10,2587,14
+1849,Kolkata,St Andrews Church,16,2601,14
+1850,Kolkata,Sri Sri Iswar Madan Mohan Jew,4,2589,14
+1851,Kolkata,St James' Church,4,2608,14
+1852,Kolkata,St Georges Church,4,2605,14
+1853,Kolkata,St. Paul's Cathedral,504,2638,14
+1854,Kolkata,St Mark's Church,4,2612,14
+1855,Kolkata,St Nicholas Church,3,2614,14
+1856,Kolkata,Sudder Street,46,2669,14
+1857,Kolkata,St Thomas Evangelical Church of India,4,2620,14
+1858,Kolkata,St. Teresa's Church,4,2641,14
+1859,Kolkata,Star Mall,6,2647,14
+1860,Kolkata,Sundar Gram,13,2679,14
+1861,Kolkata,Star Theatre,10,2648,14
+1862,Kolkata,State Archaeological Museum,5,2650,14
+1863,Kolkata,Swabhumi - The Heritage Plaza,41,2701,14
+1864,Kolkata,Swami Vivekananda's Ancestral House,77,2704,14
+1865,Kolkata,Tagore House,102,2715,14
+1866,Kolkata,Tangra Chinatown,84,2733,14
+1867,Kolkata,Thanthania Kalibari,17,2759,14
+1868,Kolkata,The Agri-Horticultural Society of India,24,2761,14
+1869,Kolkata,Tippu Sultan's Mosque,11,2839,14
+1870,Kolkata,Town Hall,33,2862,14
+1871,Kolkata,The RBI Museum,5,2794,14
+1872,Kolkata,Tinytown.in,2,2838,14
+1873,Kolkata,The Harrington Street Arts Centre,7,2777,14
+1874,Kolkata,Victoria Memorial Hall,4160,2946,14
+1875,Kolkata,Wet O Wild,14,3003,14
+1876,Kolkata,Writers' Building,54,3018,14
+1877,Kolkata,Vidyasagar Smriti Mandir,4,2949,14
+1878,Kolkata,Whooppee,2,3005,14
+1879,Kolkata,William Carey Church,5,3008,14
+1880,Munnar,Fun Forest Adventure Park,93,815,19
+1881,Munnar,Muniyara Dolmens,68,1759,19
+1882,Munnar,Ripple Waterfalls,53,2226,19
+1883,Munnar,Thommankuthu Falls,54,2816,19
+1884,Munnar,Kannan Devan Tea Museum,1655,1291,19
+1885,Munnar,Kundala Dam Lake,644,1399,19
+1886,Munnar,Keezharkuthu Falls,18,1326,19
+1887,Munnar,Lock Heart Gap,213,1478,19
+1888,Munnar,Lakshimi Hills,3,1430,19
+1889,Munnar,Mattupetti Indo-Swiss Farm,31,1655,19
+1890,Munnar,Mattupetty Dam,4,1656,19
+1891,Munnar,Nyayamkadu Waterfalls,22,1902,19
+1892,Munnar,Mount Carmel Church &Mount Carmel Pilgrim Centre,37,1726,19
+1893,Munnar,Mistletoe art Gallery,7,1698,19
+1894,Munnar,MunnarSpice.com,3,1760,19
+1895,Munnar,Pallivasal Falls,80,1954,19
+1896,Munnar,Ottakathala Medu Mountain Range,9,1933,19
+1897,Munnar,Photo Point,800,2017,19
+1898,Munnar,Periyakanal Waterfalls,22,2009,19
+1899,Munnar,Panoramic Helipad,7,1971,19
+1900,Munnar,Power House Falls,54,2044,19
+1901,Munnar,Rajamalai (Eravikulam) National Park,1700,2140,19
+1902,Munnar,Punnarnava Cultural Center,6,2080,19
+1903,Munnar,Rose Gardens,1099,2240,19
+1904,Munnar,Ravi's Spice Garden,3,2199,19
+1905,Munnar,Salim Ali Bird Sanctuary,24,2280,19
+1906,Munnar,Tea Gardens,3183,2745,19
+1907,Munnar,Swiftlet Cave Munnar,6,2713,19
+1908,Munnar,Thoovanam Falls,63,2818,19
+1909,Munnar,Thirumeny Cultural Centre,19,2809,19
+1910,Munnar,Top Station,1765,2858,19
+1911,Bhopal,Aura Mall,24,198,5
+1912,Bhopal,Aishbagh Stadium,10,51,5
+1913,Bhopal,Aakriti Nature Cure Centre,7,8,5
+1914,Bhopal,Archaeological Museum,307,139,5
+1915,Bhopal,Badi Jheel Lake,237,240,5
+1916,Bhopal,Bhadbhada Dam,31,313,5
+1917,Bhopal,Bhoj Wetland,17,344,5
+1918,Bhopal,Birla Mandir,3397,364,5
+1919,Bhopal,Bhagwan Rishabh Dev Udyan,3,317,5
+1920,Bhopal,Birla Museum,31,367,5
+1921,Bhopal,Bhojeshwar Temple,3,346,5
+1922,Bhopal,Buddhist Monuments at Sanchi,761,406,5
+1923,Bhopal,Bittan Market Haat,9,375,5
+1924,Bhopal,DB City Mall,300,587,5
+1925,Bhopal,Cable Stay Bridge,20,418,5
+1926,Bhopal,Century 21 Mall,7,447,5
+1927,Bhopal,Gohar Mahal,89,896,5
+1928,Bhopal,Ekant Park,10,739,5
+1929,Bhopal,Ginnorgarh Fort,3,883,5
+1930,Bhopal,Gufa Mandir,31,922,5
+1931,Bhopal,Halali Dam (Samrat Ashok Sagar Project),24,980,5
+1932,Bhopal,Golghar Museum,7,903,5
+1933,Bhopal,Halali Dam,34,979,5
+1934,Bhopal,Indira Gandhi Rashtriya Manav Sangrahalaya - National Museum of Mankind,272,1106,5
+1935,Bhopal,Hazrat Faiz Bahadur Dargah,2,1019,5
+1936,Bhopal,Jama Masjid,479,1167,5
+1937,Bhopal,Kaliyasot Dam,14,1267,5
+1938,Bhopal,Kerwa Dam,82,1329,5
+1939,Bhopal,Kabuliwala Shopping Mall,7,1241,5
+1940,Bhopal,Kamla Nehru Bal Udhyan,13,1275,5
+1941,Bhopal,Kamla Park,3,1278,5
+1942,Bhopal,Khatlapura Mandir,13,1343,5
+1943,Bhopal,Kolar Dam,26,1364,5
+1944,Bhopal,Lake View Bhopal,119,1427,5
+1945,Bhopal,Lakshmi Narayana Temple,159,1431,5
+1946,Bhopal,Lower Lake,41,1495,5
+1947,Bhopal,Madhya Pradesh Tribal Museum,275,1528,5
+1948,Bhopal,Manuabhan Tekri,28,1628,5
+1949,Bhopal,Mahamaya Marriage garden,19,1542,5
+1950,Bhopal,Moti Masjid,45,1722,5
+1951,Bhopal,People's Mall,55,2008,5
+1952,Bhopal,Pragati Deergha - Progress Gallery,1,2050,5
+1953,Bhopal,Regional Science Center,41,2211,5
+1954,Bhopal,Rani Mahal,19,2183,5
+1955,Bhopal,Rajeev Gandhi Swimming Pool,5,2143,5
+1956,Bhopal,Remember Bhopal Museum,13,2215,5
+1957,Bhopal,Rock Shelters of Bhimbetka,603,2233,5
+1958,Bhopal,Sadar Manzil,24,2259,5
+1959,Bhopal,Shaukat Mahal,19,2398,5
+1960,Bhopal,Shaurya Smarak Bhopal,48,2399,5
+1961,Bhopal,State Museum of Madhya Pradesh,83,2651,5
+1962,Bhopal,Singhori Wildlife Sanctuary,8,2514,5
+1963,Bhopal,State Aquarium,1,2649,5
+1964,Bhopal,Taj ul Masajid,142,2722,5
+1965,Bhopal,Taj Mahal Palace,20,2720,5
+1966,Bhopal,Swarna Jayanti Park,4,2709,5
+1967,Bhopal,Tropic of Cancer,100,2875,5
+1968,Bhopal,Takia Island,1,2724,5
+1969,Bhopal,The Madman's Farm,10,2786,5
+1970,Bhopal,Upper Lake,542,2908,5
+1971,Bhopal,Van Vihar National Park,342,2921,5
+1972,Bhopal,Van Vihar,88,2920,5
+1973,Bhopal,Vardhaman Park,20,2925,5
+1974,Bhopal,Yodhasthal,238,3030,5
+1975,Amritsar,Akal Takht,573,55,3
+1976,Amritsar,Alpha One Mall,64,80,3
+1977,Amritsar,Baba Deep Singh Ji Memorial,14,226,3
+1978,Amritsar,Central Sikh Museum,17,446,3
+1979,Amritsar,Company Bagh,65,560,3
+1980,Amritsar,Dera Baba Jaimal Singhji,28,645,3
+1981,Amritsar,Digamber Jain Temple,12,675,3
+1982,Amritsar,Dukh Bhanjani Ber Tree,105,717,3
+1983,Amritsar,Durgiana Temple,835,722,3
+1984,Amritsar,Gandhi Gate,79,840,3
+1985,Amritsar,Gobindgarh Fort,861,893,3
+1986,Amritsar,Goindwal Sahib,45,897,3
+1987,Amritsar,Golden Temple,8096,900,3
+1988,Amritsar,Guru Nanak Dev University,31,937,3
+1989,Amritsar,Gurdwara Bibeksar Sahib,20,930,3
+1990,Amritsar,Gurdwara San Sahib,2,934,3
+1991,Amritsar,Gurudwara Baba Atal Rai,40,942,3
+1992,Amritsar,Gurudwara Bir Baba Budha Sahib,65,945,3
+1993,Amritsar,Gurudwara Chheharta Sahib,32,946,3
+1994,Amritsar,Gurudwara Guru Ka Mahal,18,947,3
+1995,Amritsar,Gurudwara Mata Kaulan,24,952,3
+1996,Amritsar,Gurudwara Lachi Ber,2,950,3
+1997,Amritsar,Gurudwara Saragrahi Sahib,16,959,3
+1998,Amritsar,Gurudwara Ramsar Sahib,16,957,3
+1999,Amritsar,Gurudwara Pipli Sahib,6,955,3
+2000,Amritsar,Hanuman Temple,66,991,3
+2001,Amritsar,Harike Wetland and Bird Sanctuary,46,1001,3
+2002,Amritsar,Gurudwara Shri Janam Asthaan Shri Guru Amardas JI,2,962,3
+2003,Amritsar,ISKCON Amritsar,30,1072,3
+2004,Amritsar,Jallianwala Bagh,3090,1166,3
+2005,Amritsar,Kaiser Bagh Park,14,1248,3
+2006,Amritsar,Khalsa College,206,1338,3
+2007,Amritsar,Khair-ud-Din Masjid,16,1335,3
+2008,Amritsar,Maharaja Ranjit Singh Museum,162,1547,3
+2009,Amritsar,Maharaja Ranjit Singh Statue,172,1548,3
+2010,Amritsar,Maharajah Ranjit Singh Panorama,71,1551,3
+2011,Amritsar,Mandir Mata Lal Devi,223,1602,3
+2012,Amritsar,Pul Kanjari,25,2075,3
+2013,Amritsar,Param Pujya Mata Lal Devi Mandir,2,1973,3
+2014,Amritsar,Rainbow Resorts,16,2126,3
+2015,Amritsar,Prachin Shiv Mandir,4,2049,3
+2016,Amritsar,Rambagh Gardens,46,2168,3
+2017,Amritsar,Sadda Pind,23,2260,3
+2018,Amritsar,Santokhsar Sahib,30,2317,3
+2019,Amritsar,Sri Ram Tirath Temple,81,2583,3
+2020,Amritsar,Serai Amanat Khan,7,2364,3
+2021,Amritsar,Sultanwind Gate,12,2674,3
+2022,Amritsar,Tarn Taran Sahib,132,2740,3
+2023,Amritsar,Suncity Amusement Park,20,2678,3
+2024,Amritsar,Tempio d'Oro,186,2751,3
+2025,Amritsar,The Partition Museum,362,2789,3
+2026,Amritsar,War Memorial & Museum,1,2987,3
+2027,Amritsar,Whispering Walls,14,3004,3
+2028,Mumbai,Aarey Colony,75,12,18
+2029,Mumbai,1905 Prince's TriumphalArch Clock Tower,6,0,18
+2030,Mumbai,Aai Museum,9,6,18
+2031,Mumbai,Aarey Bhaskar Garden,7,10,18
+2032,Mumbai,Aarey Bhaskar Sports & Welfare Centre,1,11,18
+2033,Mumbai,Afghan Church,53,34,18
+2034,Mumbai,Aashirwad Art Gallery,4,13,18
+2035,Mumbai,Aksa Beach,271,63,18
+2036,Mumbai,Ajmera Bhagto Park,4,53,18
+2037,Mumbai,Amarsons Garden,26,86,18
+2038,Mumbai,All Saints Church,11,76,18
+2039,Mumbai,Ambreshwar Shiva Temple,19,95,18
+2040,Mumbai,Akurli Mata Temple,2,65,18
+2041,Mumbai,Amba Bai Mata Mandir,6,88,18
+2042,Mumbai,Andharban,10,108,18
+2043,Mumbai,Ambadevi Mandir,4,90,18
+2044,Mumbai,Andheri Market,26,109,18
+2045,Mumbai,Antique Stationery Collections,3,128,18
+2046,Mumbai,Antilia,7,124,18
+2047,Mumbai,ArtDesh Foundation,2,163,18
+2048,Mumbai,Archaeological Survey of India Museum,3,141,18
+2049,Mumbai,Artistree Gallery,2,165,18
+2050,Mumbai,Arya Samaj Mandir,4,170,18
+2051,Mumbai,Antique Style,2,129,18
+2052,Mumbai,Atria Mall,47,197,18
+2053,Mumbai,Astrologer House,2,192,18
+2054,Mumbai,Atomic Energy Junior College,7,196,18
+2055,Mumbai,Asia Society and Museum,5,184,18
+2056,Mumbai,Aviserv Lounge,15,207,18
+2057,Mumbai,Babulnath Temple,505,233,18
+2058,Mumbai,Avant Garde Antiques & Art,2,206,18
+2059,Mumbai,Babulnath Bandstand Garden or Seth Tulsidas Kilachand Garden,4,232,18
+2060,Mumbai,Ballard Estate,36,258,18
+2061,Mumbai,Bai Pirojbai Dadabhoy Manekji Vatcha Agiary,3,247,18
+2062,Mumbai,Bal Gandharva Rang Mandir,2,249,18
+2063,Mumbai,Balkrishna Maharaja Temple,1,257,18
+2064,Mumbai,Bai Vikas Vidya Mandir,2,248,18
+2065,Mumbai,Bandra Fort,188,268,18
+2066,Mumbai,Baman Devi Mandir,2,260,18
+2067,Mumbai,"Bandra Station, Western Railway",48,269,18
+2068,Mumbai,Bandra Talao,17,270,18
+2069,Mumbai,Bandra-Worli Sea Link,9160,271,18
+2070,Mumbai,Bandstand Promenade,226,272,18
+2071,Mumbai,Banganga,105,276,18
+2072,Mumbai,BB Dadar Market,31,220,18
+2073,Mumbai,Bank of India - History of Banking Museum,3,278,18
+2074,Mumbai,Bapu Pujari Mandir,2,281,18
+2075,Mumbai,Bhandup Pumping Station,16,322,18
+2076,Mumbai,Belle Mall,2,305,18
+2077,Mumbai,Bhakti Dham Mandir,2,319,18
+2078,Mumbai,Bhau Daji Lad Museum,190,334,18
+2079,Mumbai,Bhandupeshwar Mahadev Mandir,7,323,18
+2080,Mumbai,Bharatiya Vidya Bhavan,3,330,18
+2081,Mumbai,Bhavan's Nature and Adventure Centre,17,335,18
+2082,Mumbai,Bhawani Mata Temple,3,336,18
+2083,Mumbai,Bhimnath Temple,2,342,18
+2084,Mumbai,Blessed Sacrement Shrine,3,377,18
+2085,Mumbai,Bombay High Court,295,382,18
+2086,Mumbai,Bombay Convention & Exhibition Centre,6,381,18
+2087,Mumbai,Bhikha Behram Well,2,340,18
+2088,Mumbai,BNHS Conservation Education Centre,8,223,18
+2089,Mumbai,Bombay Natural History Society,13,383,18
+2090,Mumbai,Bombay Panjrapole,17,384,18
+2091,Mumbai,Boot House,31,387,18
+2092,Mumbai,Bombay Picnic Spot Garden,4,385,18
+2093,Mumbai,Bombay Stock Exchange,9,386,18
+2094,Mumbai,Brihanmumbai Municipal Corporation building,39,395,18
+2095,Mumbai,Carnations Lounge,37,430,18
+2096,Mumbai,Breach Candy Club,2,393,18
+2097,Mumbai,Borivali Sanskrutik Kendra Van Vihar,2,388,18
+2098,Mumbai,Bowen Memorial Methodist Church,4,392,18
+2099,Mumbai,Budh Vihar Temple,4,407,18
+2100,Mumbai,Carver Art Studio,1,432,18
+2101,Mumbai,Cathedral of the Holy Name,23,440,18
+2102,Mumbai,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,797,494,18
+2103,Mumbai,Chemould Prescott Road,1,488,18
+2104,Mumbai,Chhatrapati Shivaji Terminus,3836,495,18
+2105,Mumbai,Chinmaya Mission,14,507,18
+2106,Mumbai,Chor Bazaar,118,520,18
+2107,Mumbai,Chhota Kashmir,10,498,18
+2108,Mumbai,Chowpatty Beach,756,524,18
+2109,Mumbai,Churchgate Railway Station,494,542,18
+2110,Mumbai,Church of St. Bonaventure,6,540,18
+2111,Mumbai,Christ Kanthi Church,3,526,18
+2112,Mumbai,Church Mission House,4,532,18
+2113,Mumbai,Colaba Causeway,723,557,18
+2114,Mumbai,Citi Mall,9,544,18
+2115,Mumbai,Colaba,2203,556,18
+2116,Mumbai,Crawford Market,338,572,18
+2117,Mumbai,Cosmos Fashions,2,569,18
+2118,Mumbai,CPRA Greens,5,415,18
+2119,Mumbai,Dadasaheb Phalke Chitranagri,42,593,18
+2120,Mumbai,Dana Paani Beach,12,604,18
+2121,Mumbai,Crocodile Park,3,576,18
+2122,Mumbai,David Sassoon Library and Reading Room,17,624,18
+2123,Mumbai,Crossroads Mall,8,579,18
+2124,Mumbai,Dandeshwar Mandir,3,605,18
+2125,Mumbai,Deccan Odyssey,153,628,18
+2126,Mumbai,Dharavi,430,661,18
+2127,Mumbai,Daya Mata Mandir,2,625,18
+2128,Mumbai,Dhakleshwar Mahadev Mandir,2,658,18
+2129,Mumbai,Dhobi Ghat,820,668,18
+2130,Mumbai,Dolphin Aquarium,34,699,18
+2131,Mumbai,Dinanath Mangeshkar Hall,3,679,18
+2132,Mumbai,Dynamix Mall,16,727,18
+2133,Mumbai,Dinodia Photo Gallery,4,680,18
+2134,Mumbai,Elephanta Caves,1527,754,18
+2135,Mumbai,East Indian Museum,2,731,18
+2136,Mumbai,Dreams The Mall,4,712,18
+2137,Mumbai,Eastern Mall,4,732,18
+2138,Mumbai,Essel World,1747,766,18
+2139,Mumbai,Erangal Beach,8,763,18
+2140,Mumbai,Fanaswadi Temple,14,773,18
+2141,Mumbai,Ferry to Alibaug,63,781,18
+2142,Mumbai,Five Gardens,50,788,18
+2143,Mumbai,Fine Arts Cultural Centre,6,784,18
+2144,Mumbai,Flora Fountain,177,792,18
+2145,Mumbai,Firdaus Enterprises,1,785,18
+2146,Mumbai,Funky Monkeys Play Center - Andheri,32,816,18
+2147,Mumbai,Gateway of India,10710,862,18
+2148,Mumbai,Forest Park,2,800,18
+2149,Mumbai,Girgaum Chowpatty,118,884,18
+2150,Mumbai,Ghanteshwar Hanuman Temple,2,877,18
+2151,Mumbai,Gilbert Hill,10,882,18
+2152,Mumbai,Global Vipassana Pagoda,731,887,18
+2153,Mumbai,Gorai Beach,175,907,18
+2154,Mumbai,Golfa Devi Temple,1,902,18
+2155,Mumbai,Gloria Church,5,888,18
+2156,Mumbai,Goa Kings Beer,6,889,18
+2157,Mumbai,Growel's 101 Mall,122,920,18
+2158,Mumbai,Goregaon Film city,10,908,18
+2159,Mumbai,Haji Ali Mosque,1306,978,18
+2160,Mumbai,Gurudev Datta Mandir,3,941,18
+2161,Mumbai,H. R. College of Commerce & Economics,8,974,18
+2162,Mumbai,Hanging Gardens (Ferozeshah Mehta),453,987,18
+2163,Mumbai,Hedavde Mahalaxmi Temple,112,1026,18
+2164,Mumbai,Harekrishna Art Studio,2,999,18
+2165,Mumbai,Hasnabad Dargah,1,1006,18
+2166,Mumbai,Health Education Library for People,3,1023,18
+2167,Mumbai,Heera Panna Shopping Center,46,1027,18
+2168,Mumbai,High Street Phoenix,383,1036,18
+2169,Mumbai,Hi Life Mall,7,1031,18
+2170,Mumbai,Horniman Circle Garden,56,1056,18
+2171,Mumbai,Holy Trinity Church,43,1051,18
+2172,Mumbai,Highest Point Trail to Jambhulmal Peak,3,1037,18
+2173,Mumbai,Huma Mall,14,1059,18
+2174,Mumbai,Horticultural park,2,1057,18
+2175,Mumbai,Hutatma Chowk,19,1063,18
+2176,Mumbai,Indian Museum Ship (Vikrant),29,1098,18
+2177,Mumbai,Immaculate Conception Church,6,1086,18
+2178,Mumbai,Ice Berg,1,1080,18
+2179,Mumbai,Impressions Art Gallery,3,1087,18
+2180,Mumbai,Infiniti Mall,247,1112,18
+2181,Mumbai,Indian Art Corner,2,1092,18
+2182,Mumbai,Indo Nepal Art Centre,8,1110,18
+2183,Mumbai,Inorbit Mall,404,1113,18
+2184,Mumbai,Jai Hind College,18,1138,18
+2185,Mumbai,Jain Temple - Mumbai,352,1149,18
+2186,Mumbai,J N Petit Institute Library,4,1125,18
+2187,Mumbai,Jehangir Art Gallery,285,1200,18
+2188,Mumbai,Jarimari Mata Temple,4,1184,18
+2189,Mumbai,Jay Nag Devta Mandir,4,1193,18
+2190,Mumbai,Jaya He GVK New Museum,2,1194,18
+2191,Mumbai,Jaymaa Vindya Kashni Temple,3,1197,18
+2192,Mumbai,Jogeshwari Caves,21,1213,18
+2193,Mumbai,Jio Garden,12,1211,18
+2194,Mumbai,Jogger's Park,101,1214,18
+2195,Mumbai,Juhu Beach,2160,1224,18
+2196,Mumbai,Johnson and Johnson Garden,4,1218,18
+2197,Mumbai,Johnson & Johnson Garden,4,1217,18
+2198,Mumbai,Joseph Baptista Garden,4,1220,18
+2199,Mumbai,Juhu Garden,15,1225,18
+2200,Mumbai,Juhu,35,1223,18
+2201,Mumbai,K Star Mall,39,1234,18
+2202,Mumbai,Kala Ghoda Art Precinct,46,1252,18
+2203,Mumbai,Kamala Nehru Park,140,1271,18
+2204,Mumbai,Kali Mata Mandir,2,1263,18
+2205,Mumbai,Kanheri Caves,1138,1287,18
+2206,Mumbai,Kanchan Amrut Mandir,2,1281,18
+2207,Mumbai,Kemps Corner,23,1327,18
+2208,Mumbai,Keneseth Eliyahoo Synagogue,35,1328,18
+2209,Mumbai,Kedareshwar Mahadev Mandir,2,1323,18
+2210,Mumbai,KidZania Mumbai,1689,1350,18
+2211,Mumbai,Khotachiwadi,4,1347,18
+2212,Mumbai,Konkan Railway,30,1372,18
+2213,Mumbai,Kulraj Broadway Cinema,6,1391,18
+2214,Mumbai,Kochu Guruvayoor Temple,6,1361,18
+2215,Mumbai,Krishna Vatika Mandir,14,1381,18
+2216,Mumbai,Kumar Shopping Mall,3,1395,18
+2217,Mumbai,Kitab Mahal,3,1360,18
+2218,Mumbai,Lal Baug Cha Raja,45,1437,18
+2219,Mumbai,Little World Mall,30,1475,18
+2220,Mumbai,Lion Gate,21,1473,18
+2221,Mumbai,Lalbaug Spice Market,8,1442,18
+2222,Mumbai,Kwan Kung Temple,3,1408,18
+2223,Mumbai,Laquenail & Lash Lounge,1,1449,18
+2224,Mumbai,Lokhandwala Market,84,1485,18
+2225,Mumbai,Link Square Mall,10,1472,18
+2226,Mumbai,Lokhandwala Lake,7,1484,18
+2227,Mumbai,Loyalty Lounge,173,1496,18
+2228,Mumbai,Madh Island,76,1522,18
+2229,Mumbai,Lumbini Budh Vihar,3,1498,18
+2230,Mumbai,Madh Fort,11,1521,18
+2231,Mumbai,Madan Mohan Lal Ji Mandir,2,1520,18
+2232,Mumbai,Magen David Synagogue,19,1530,18
+2233,Mumbai,Mahakali Caves,45,1536,18
+2234,Mumbai,Mahalakshmi Race Course,72,1538,18
+2235,Mumbai,Mahakavi Kalidas Natya Mandir,8,1537,18
+2236,Mumbai,Mahalakshmi Temple,1261,1539,18
+2237,Mumbai,Maharashtra Nature Park,29,1555,18
+2238,Mumbai,Mahatma Jyotiba Phule Market,73,1559,18
+2239,Mumbai,Maharishi Valmiki Mandir,2,1557,18
+2240,Mumbai,Malabar Hill,368,1576,18
+2241,Mumbai,Mahim Fort,12,1567,18
+2242,Mumbai,Mahindra Hockey Stadium,13,1568,18
+2243,Mumbai,Maheshwari Udyan,10,1564,18
+2244,Mumbai,Mangaldas Market,46,1610,18
+2245,Mumbai,Mandapeshwar Caves,9,1601,18
+2246,Mumbai,Maneckji Seth Agiary,6,1606,18
+2247,Mumbai,Mani Bhavan Gandhi Museum,1384,1611,18
+2248,Mumbai,Mangal Sai Dham,8,1609,18
+2249,Mumbai,Manori Beach,88,1624,18
+2250,Mumbai,Manmala Devi Mandir,4,1620,18
+2251,Mumbai,Marine Drive,7500,1635,18
+2252,Mumbai,Mariamma Devi Temple,3,1633,18
+2253,Mumbai,Mansa Devi Mandir,3,1625,18
+2254,Mumbai,Marve Beach,54,1642,18
+2255,Mumbai,Maruti Mall,1,1640,18
+2256,Mumbai,Marubai Gaondevi Mandir,3,1638,18
+2257,Mumbai,Matunga Market,30,1657,18
+2258,Mumbai,Matthieu Foss Gallery,3,1654,18
+2259,Mumbai,Mata Vaishno Devi Divya Dham,9,1648,18
+2260,Mumbai,MCGM Garden Oshiwara,9,1508,18
+2261,Mumbai,Mehboob Studios,3,1663,18
+2262,Mumbai,Meldi Maa Mandir,3,1669,18
+2263,Mumbai,Method Art Space,1,1678,18
+2264,Mumbai,Milan Mall,5,1685,18
+2265,Mumbai,Monetary Museum,34,1706,18
+2266,Mumbai,Mod'Art International,2,1699,18
+2267,Mumbai,Millk,7,1690,18
+2268,Mumbai,Mount Mary Basilica,1371,1727,18
+2269,Mumbai,Mount Carmel Church,9,1725,18
+2270,Mumbai,Mother of Jesus Church,4,1719,18
+2271,Mumbai,MCGM Office,5,1509,18
+2272,Mumbai,Mumba Devi Temple,211,1750,18
+2273,Mumbai,Mukteshwar Temple,358,1741,18
+2274,Mumbai,Mughal Art Corner,3,1733,18
+2275,Mumbai,Mughal Masjid,1,1737,18
+2276,Mumbai,Mulji Jetha Fountain,2,1746,18
+2277,Mumbai,Mumbai G.P.O,42,1752,18
+2278,Mumbai,Mumbai Central Terminus,2,1751,18
+2279,Mumbai,Mumbai Port Trust Garden,37,1753,18
+2280,Mumbai,Mumbai Zoo (Veermata Jijabai Udyan),182,1754,18
+2281,Mumbai,Municipal Laundry,63,1757,18
+2282,Mumbai,Nariman Point,2264,1800,18
+2283,Mumbai,Nalanda Buddha Vihar Temple,4,1787,18
+2284,Mumbai,Namantar Shahid Smarak Memorial,1,1791,18
+2285,Mumbai,National Centre for Performing Arts,110,1808,18
+2286,Mumbai,Natesan's Antiqart,5,1803,18
+2287,Mumbai,Narmadeshwar Mahadev Mandir,7,1801,18
+2288,Mumbai,National Gallery of Modern Art,370,1812,18
+2289,Mumbai,Nehru Centre,57,1851,18
+2290,Mumbai,Naval Uprising Statue,4,1835,18
+2291,Mumbai,National Museum of Indian Cinema,8,1820,18
+2292,Mumbai,Natural,2,1830,18
+2293,Mumbai,Nehru Planetarium,318,1858,18
+2294,Mumbai,Nehru Science Center,135,1859,18
+2295,Mumbai,Neptune Magnet Mall,26,1866,18
+2296,Mumbai,Nirmal Lifestyle Mall,33,1887,18
+2297,Mumbai,Nhava Sheva,5,1876,18
+2298,Mumbai,Oberoi Mall,272,1903,18
+2299,Mumbai,Nipponzan Myohoji Budha Temple,10,1885,18
+2300,Mumbai,Noahs Ark,2,1897,18
+2301,Mumbai,Palladium Mall,53,1952,18
+2302,Mumbai,Our Lady of Rosary Church,4,1935,18
+2303,Mumbai,Orchid City Centre Mall,7,1925,18
+2304,Mumbai,Parel Factory Outlet Market,19,1975,18
+2305,Mumbai,Panna Paintings,2,1970,18
+2306,Mumbai,Parliament Building (Mantralaya),33,1984,18
+2307,Mumbai,Paras Dham Temple,7,1974,18
+2308,Mumbai,Parla Jin Mandir,5,1982,18
+2309,Mumbai,Parleshwar Ganpati Mandir,10,1983,18
+2310,Mumbai,Parja Shree Ganesh Mandir,3,1979,18
+2311,Mumbai,Phoenix Marketcity,370,2015,18
+2312,Mumbai,Parsi Fire Temple,17,1988,18
+2313,Mumbai,Patala Devi Mandir,1,1993,18
+2314,Mumbai,Powai Lake,271,2043,18
+2315,Mumbai,Play Around Indoor Kids Play Center,18,2030,18
+2316,Mumbai,Popli Art Gallery,3,2042,18
+2317,Mumbai,Prithvi Theatre,371,2067,18
+2318,Mumbai,Prime Mall,14,2065,18
+2319,Mumbai,Prabodhan Kridabhavan.,1,2046,18
+2320,Mumbai,Prabhakar Thakare Garden,4,2045,18
+2321,Mumbai,Pramod Navalkar Viewing Gallery,3,2052,18
+2322,Mumbai,Pratap Art Gallery,8,2053,18
+2323,Mumbai,Priyadarshini Park,122,2069,18
+2324,Mumbai,PVR Icon,42,1938,18
+2325,Mumbai,R City Mall,387,2099,18
+2326,Mumbai,Priyasri Art Gallery,3,2070,18
+2327,Mumbai,R Odeon Mall,24,2102,18
+2328,Mumbai,Raghuleela Mega Mall,27,2117,18
+2329,Mumbai,Raghuvanshi Mills,12,2119,18
+2330,Mumbai,R Mall,2,2101,18
+2331,Mumbai,Raj Bhavan,47,2127,18
+2332,Mumbai,Rajabai Clock Tower,241,2139,18
+2333,Mumbai,Raheja Exocita Mudh Marve,5,2121,18
+2334,Mumbai,Red Carpet Wax Museum,894,2206,18
+2335,Mumbai,Rajawadi Garden,2,2141,18
+2336,Mumbai,Rassaz Shopping Mall,5,2195,18
+2337,Mumbai,Rbi Coin Museum Mumbai,4,2205,18
+2338,Mumbai,Ratansi Mulji Fountain,5,2196,18
+2339,Mumbai,Raudat Tahera,3,2198,18
+2340,Mumbai,Regal Circle,23,2209,18
+2341,Mumbai,Royal Opera House,58,2246,18
+2342,Mumbai,Rhythm Art Gallery,26,2220,18
+2343,Mumbai,Royal Western India Turf Club,29,2247,18
+2344,Mumbai,Samrat Theatre,2,2291,18
+2345,Mumbai,Sanjay Gandhi National Park,858,2306,18
+2346,Mumbai,Sailors Home,3,2272,18
+2347,Mumbai,Sana Mosque,2,2295,18
+2348,Mumbai,Sakshi Gallery,2,2277,18
+2349,Mumbai,Sanay Guruji Arogya Mandir,2,2298,18
+2350,Mumbai,Sarvoday Mall,14,2338,18
+2351,Mumbai,Sankat Mochan Hanuman Mandir,13,2312,18
+2352,Mumbai,Sassoon Dock,45,2341,18
+2353,Mumbai,Sewri Jetty,81,2371,18
+2354,Mumbai,Seventh Day Adventist Church,5,2370,18
+2355,Mumbai,Shangrila Resort & Waterpark,39,2386,18
+2356,Mumbai,Shivaji Park,351,2424,18
+2357,Mumbai,Sheetla Devi Temple,4,2401,18
+2358,Mumbai,Shahid Vijay Salaskar Udyan,2,2381,18
+2359,Mumbai,Shilonda Trail,10,2410,18
+2360,Mumbai,Shiv Parvati Temple,3,2420,18
+2361,Mumbai,Shree Akkalkot Swami Samarth Maharaj Math,3,2430,18
+2362,Mumbai,Shree Ayyappa Mandir,3,2432,18
+2363,Mumbai,Shree Durga Mata Mandir,3,2439,18
+2364,Mumbai,Shree Ayyappa Vishnu Temple,5,2434,18
+2365,Mumbai,Shree Ayyappa Temple,6,2433,18
+2366,Mumbai,Shree Kala Hanuman Temple,11,2444,18
+2367,Mumbai,Shree Balaji Mandir,3,2435,18
+2368,Mumbai,Shree Ganesh Sai Temple,2,2441,18
+2369,Mumbai,"Shree Ramakrishna Math, Khar",13,2452,18
+2370,Mumbai,Shree Rama Jain Dev Sthan,2,2451,18
+2371,Mumbai,Shree Gayatri Temple,2,2442,18
+2372,Mumbai,Shree Khanduba,3,2445,18
+2373,Mumbai,Shree Shanishwar Mandir,12,2453,18
+2374,Mumbai,Shree Siddhivinayak,5425,2454,18
+2375,Mumbai,Shree Vitthal Rukhmani Temple,2,2460,18
+2376,Mumbai,Shree Tileswar Mahadev Mandir,2,2458,18
+2377,Mumbai,Shree Tungeshwar Mandir,2,2459,18
+2378,Mumbai,Shree Swayambhu Patali Hanuman Mandir,8,2457,18
+2379,Mumbai,Shree Swami Narayan Temple,7,2455,18
+2380,Mumbai,Shreevigna Harta Ganesh,1,2463,18
+2381,Mumbai,Shri Swaminarayan Mandir,13,2492,18
+2382,Mumbai,Shri Dharmachakra Prabhav Tirth,10,2466,18
+2383,Mumbai,Shri Jalaram Temple,1,2472,18
+2384,Mumbai,Shri Krishna Mandir,1,2476,18
+2385,Mumbai,Sion Hillock Fort,17,2518,18
+2386,Mumbai,Shri Ram Mandir,7,2483,18
+2387,Mumbai,Snow Kingdom,114,2527,18
+2388,Mumbai,Shri Trimurti Jain Mandir,1,2493,18
+2389,Mumbai,Shrine of Don Bosco mumbai,2,2495,18
+2390,Mumbai,SK Patil Udyan,2,2254,18
+2391,Mumbai,Sitladevi Temple,7,2523,18
+2392,Mumbai,Silver Oak,1,2510,18
+2393,Mumbai,Snow World Mumbai,142,2531,18
+2394,Mumbai,Sobo Central Mall,26,2533,18
+2395,Mumbai,Sri Marali Mandir,3,2577,18
+2396,Mumbai,Sree Ayappa Temple,2,2558,18
+2397,Mumbai,Sohel Arts,2,2534,18
+2398,Mumbai,Special Holidays,10,2550,18
+2399,Mumbai,Sri Ramkrishna Math and Mission,4,2586,18
+2400,Mumbai,Sri Ram Mandir,1,2582,18
+2401,Mumbai,Sri Sri Radha Gopinath Temple,2703,2591,18
+2402,Mumbai,Sri Sri Radha Giridhari Temple,3,2590,18
+2403,Mumbai,Sri Sri Radha Rasabihari Ji Temple,284,2592,18
+2404,Mumbai,St. Andrew's Church,25,2625,18
+2405,Mumbai,St Ignacious Church,2,2606,18
+2406,Mumbai,St Blaise Church,14,2604,18
+2407,Mumbai,St Annes Church,4,2603,18
+2408,Mumbai,St. Michael's Church,58,2637,18
+2409,Mumbai,St. George's Fort - Mumbai,5,2629,18
+2410,Mumbai,St Josephs Syro Malabar Church,2,2611,18
+2411,Mumbai,St John the Evangelist Church,5,2609,18
+2412,Mumbai,St John's Church,5,2610,18
+2413,Mumbai,St Peter's Church,12,2615,18
+2414,Mumbai,St. Thomas Cathedral Mumbai,106,2642,18
+2415,Mumbai,St Teresa Church,7,2618,18
+2416,Mumbai,St. Xavier's College,25,2643,18
+2417,Mumbai,Swami Samarth Temple,11,2702,18
+2418,Mumbai,Statue Of Chhatrapati Shivaji Maharaj,4,2652,18
+2419,Mumbai,Still Water Aquatics - Nature Aquarium Gallery,2,2659,18
+2420,Mumbai,Studio Malabar,2,2665,18
+2421,Mumbai,Surana Arts,2,2691,18
+2422,Mumbai,Studio3 Art Gallery,2,2666,18
+2423,Mumbai,Suvarna Temple,3,2698,18
+2424,Mumbai,Talao Pali Lake,51,2726,18
+2425,Mumbai,Taraporewala Aquarium,342,2738,18
+2426,Mumbai,Swatantryaveer Savarkar Rashtriya Smarak,1,2712,18
+2427,Mumbai,Tansa Dam,3,2736,18
+2428,Mumbai,Tapeshwar Temple,1,2737,18
+2429,Mumbai,Tejas Express,45,2749,18
+2430,Mumbai,Thakur Mall,23,2758,18
+2431,Mumbai,Thakkar Shopping Mall,11,2757,18
+2432,Mumbai,The Great Escape Water Park,50,2776,18
+2433,Mumbai,The Church of Our Lady of Salvation,2,2769,18
+2434,Mumbai,The Art Loft,2,2763,18
+2435,Mumbai,The Elephant Company,1,2771,18
+2436,Mumbai,The Ashleys,2,2764,18
+2437,Mumbai,The Hub Mall,49,2780,18
+2438,Mumbai,Tower of Silence,45,2861,18
+2439,Mumbai,Thiruchembur Murugan Temple,19,2808,18
+2440,Mumbai,The National Sports Club of India,5,2787,18
+2441,Mumbai,TMT Arts,1,2714,18
+2442,Mumbai,Town Hall (Asiatic Society Library),61,2863,18
+2443,Mumbai,Trafford House Z.J.M. Exports,1,2865,18
+2444,Mumbai,Uttan Beach,33,2910,18
+2445,Mumbai,Tulika Arts Gallery,3,2880,18
+2446,Mumbai,Tulsi Lake,6,2883,18
+2447,Mumbai,Umiya Mata Ji Mandir,4,2898,18
+2448,Mumbai,Vardhman Fantasy,93,2926,18
+2449,Mumbai,University of Mumbai Library,6,2905,18
+2450,Mumbai,V Mall,9,2912,18
+2451,Mumbai,Veer Savarkar Udhyan,12,2935,18
+2452,Mumbai,Versova Beach,73,2942,18
+2453,Mumbai,Victoria Gardens (Jijamata Udyan),82,2945,18
+2454,Mumbai,Vihar Lake,13,2950,18
+2455,Mumbai,Viviana Mall,339,2975,18
+2456,Mumbai,Victorian Gothic and Art Deco Ensembles of Mumbai - UNESCO,1,2947,18
+2457,Mumbai,Vikhroli Sarwajanik Mandir,2,2957,18
+2458,Mumbai,Village Krafts,2,2959,18
+2459,Mumbai,Walkeshwar Temple,22,2984,18
+2460,Mumbai,Viya Home,1,2976,18
+2461,Mumbai,Volte Gallery,5,2977,18
+2462,Mumbai,Wankhede Stadium,406,2986,18
+2463,Mumbai,Wadia Clock Tower,7,2980,18
+2464,Mumbai,Wageshwari Mandir,5,2982,18
+2465,Mumbai,Water Kingdom,1419,2990,18
+2466,Mumbai,Willingdon Sports Club,99,3009,18
+2467,Mumbai,Wellington Fountain,2,2996,18
+2468,Mumbai,Wesley Church,2,2997,18
+2469,Mumbai,Worli Fort,15,3015,18
+2470,Mumbai,Worli Sea Face,370,3016,18
+2471,Mumbai,World Trade Centre,19,3014,18
+2472,Kanyakumari,Adi Keshava Perumal Temple,43,29,12
+2473,Kanyakumari,Baywatch Amusement Park,35,295,12
+2474,Kanyakumari,Bhagavathy Amman Temple,368,316,12
+2475,Kanyakumari,Ayya Vaikundar Nizhal Thangal,6,210,12
+2476,Kanyakumari,Gandhi Memorial,331,841,12
+2477,Kanyakumari,Bharat Mata Mandir,13,325,12
+2478,Kanyakumari,Bharath Matha Temple,6,328,12
+2479,Kanyakumari,Jain Temple Kanyakumari,31,1150,12
+2480,Kanyakumari,Kaalikesam Waterfalls,15,1237,12
+2481,Kanyakumari,Kamarajar Mani Mantapa Monument,43,1274,12
+2482,Kanyakumari,Kanyakumari Beach,1070,1293,12
+2483,Kanyakumari,Kanyakumari Wax Museum,219,1295,12
+2484,Kanyakumari,Kanyakumari Tirupati Temple,3,1294,12
+2485,Kanyakumari,Kumara Koil Murugan Temple,19,1397,12
+2486,Kanyakumari,Mandaikkadu Devi Temple,17,1599,12
+2487,Kanyakumari,Mathur Aqueduct,123,1652,12
+2488,Kanyakumari,Lemurian Park,1,1464,12
+2489,Kanyakumari,Marungoor Murugan Temple,10,1639,12
+2490,Kanyakumari,Observation Tower,29,1904,12
+2491,Kanyakumari,Olakaruvi Falls,18,1913,12
+2492,Kanyakumari,Our Lady of Ransom Church,134,1934,12
+2493,Kanyakumari,Padmanabhapuram Palace,499,1944,12
+2494,Kanyakumari,Pechiparai Reservoir,29,2003,12
+2495,Kanyakumari,Sanguthurai Beach,43,2305,12
+2496,Kanyakumari,Peer Mohammed Appa Dargha,8,2005,12
+2497,Kanyakumari,"Shirdhi Sai Baba Temple, Kanyakumari",11,2416,12
+2498,Kanyakumari,Sitharal Jain Monuments,12,2522,12
+2499,Kanyakumari,Sunset View Point,284,2686,12
+2500,Kanyakumari,St. Mary's Orthodox Church,10,2636,12
+2501,Kanyakumari,St Xavier Church,9,2622,12
+2502,Kanyakumari,Sothavilai Beach,1,2545,12
+2503,Kanyakumari,Thanumalayan temple - Sthanumalayan Kovil,391,2760,12
+2504,Kanyakumari,Swamithoppu Ayya Vaikundar Pathi,1,2706,12
+2505,Kanyakumari,Thengapattinam Beach,23,2806,12
+2506,Kanyakumari,Thirunandhikarai Cave Temple,13,2810,12
+2507,Kanyakumari,The Sangam of Three Oceans,1,2795,12
+2508,Kanyakumari,Thengapattanam beach,10,2805,12
+2509,Kanyakumari,Thiruvalluvar Statue,712,2811,12
+2510,Kanyakumari,Tsunami Monument,81,2878,12
+2511,Kanyakumari,Thollavilai Narayana Swamy Temple,8,2815,12
+2512,Kanyakumari,Thiruvazhmarban Temple,1,2813,12
+2513,Kanyakumari,Udayagiri Fort,24,2894,12
+2514,Kanyakumari,Vattakotai Beach,38,2932,12
+2515,Kanyakumari,Vivekananda Rock Memorial,2164,2974,12
+2516,Alappuzha,Alappuzha Beach,1358,70,1
+2517,Alappuzha,Adichikkavu Sree Durga Devi Kshetram Temple,5,30,1
+2518,Alappuzha,Alappuzha Lighthouse,256,71,1
+2519,Alappuzha,Alleppey Backwaters,1018,78,1
+2520,Alappuzha,Ambalapuzha Sree Krishna Temple,366,91,1
+2521,Alappuzha,Andhakaranazhi Beach,53,107,1
+2522,Alappuzha,Chakkulathukavu Temple,31,450,1
+2523,Alappuzha,Chavara Bhavan Shrine,21,485,1
+2524,Alappuzha,Edathua Church,35,736,1
+2525,Alappuzha,Chammanad Devi Temple,5,456,1
+2526,Alappuzha,International Coir Museum,87,1118,1
+2527,Alappuzha,Eruva Sreekrishna Swamy Temple,4,765,1
+2528,Alappuzha,Kanichukulangara Devi Temple,13,1288,1
+2529,Alappuzha,Golden Flower Hall,2,899,1
+2530,Alappuzha,"Jain Temple, Alleppey",12,1151,1
+2531,Alappuzha,Kathakali,151,1314,1
+2532,Alappuzha,Kakkathuruthu Island,6,1250,1
+2533,Alappuzha,Kayamkulam Lake,21,1320,1
+2534,Alappuzha,Mannarasala Sree Nagaraja Temple,160,1622,1
+2535,Alappuzha,Kidangamparambu Sree Bhuvaneswari Temple,6,1351,1
+2536,Alappuzha,Kurattikadu Pattambalam Devi Kshethram Temple,3,1402,1
+2537,Alappuzha,Kurattikkadu Mutharamman Devi Temple,5,1403,1
+2538,Alappuzha,Kuttikattu Sree Bhadra Kali Devi Temple,6,1406,1
+2539,Alappuzha,Mullakkal Rajeshwari Temple,44,1748,1
+2540,Alappuzha,Mullakkal Market,1,1747,1
+2541,Alappuzha,Pathiramanal Beach,30,1996,1
+2542,Alappuzha,Nalpathaneeswaram Sree Mahadeva Temple,5,1789,1
+2543,Alappuzha,National Cartoon Museum and Art Gallery,4,1807,1
+2544,Alappuzha,Nehru Trophy Boat Race,1,1861,1
+2545,Alappuzha,Pandavan Rock,8,1962,1
+2546,Alappuzha,Padanilam Parabrahma Temple,7,1940,1
+2547,Alappuzha,Revi Karunakaran Museum,219,2217,1
+2548,Alappuzha,Sree Subramanya Swami Temple,145,2560,1
+2549,Alappuzha,Saras Exotic Birds Center,3,2324,1
+2550,Alappuzha,Sea View Park,10,2356,1
+2551,Alappuzha,Sree Ganesh Temple Mullackall,1,2559,1
+2552,Alappuzha,St. Andrew's Basilica Arthunkal,80,2624,1
+2553,Alappuzha,St. Mary's Forane Church,73,2634,1
+2554,Alappuzha,Sree Venu Gopala Swamy Temple,4,2561,1
+2555,Alappuzha,Thottappally Beach,21,2819,1
+2556,Alappuzha,Vijay Beach Park,50,2951,1
+2557,Alappuzha,Thiruvanvandoor Pambanaiappan Temple,10,2812,1
+2558,Alappuzha,Vethalan Kavu Mahadeva Temple,5,2944,1
+2559,Alappuzha,Thuravoor Mahakshethram,7,2823,1
+2560,Kodaikanal,Astrophysical Observatory,59,194,13
+2561,Kodaikanal,80 Mile Round,16,2,13
+2562,Kodaikanal,Bear Shola Falls,181,296,13
+2563,Kodaikanal,Berijam Lake,769,309,13
+2564,Kodaikanal,Bryant Park,738,401,13
+2565,Kodaikanal,Chettiar Park,232,492,13
+2566,Kodaikanal,Christ the King Church,56,527,13
+2567,Kodaikanal,Coakers Walk,1127,554,13
+2568,Kodaikanal,Dolmen Circle,25,698,13
+2569,Kodaikanal,Dolphin's Nose,150,701,13
+2570,Kodaikanal,Fairy Falls,77,772,13
+2571,Kodaikanal,Guna Cave,572,927,13
+2572,Kodaikanal,Kodaikanal Lake,2970,1362,13
+2573,Kodaikanal,Kukkal Caves,21,1388,13
+2574,Kodaikanal,Kurinji Andavar Temple,429,1404,13
+2575,Kodaikanal,Kuzhanthai Velappar Temple,33,1407,13
+2576,Kodaikanal,La Saleth Church,124,1412,13
+2577,Kodaikanal,Lake View Point,289,1428,13
+2578,Kodaikanal,Lutheran Church,22,1501,13
+2579,Kodaikanal,Mannavanur Lake,318,1623,13
+2580,Kodaikanal,Moir Point,102,1703,13
+2581,Kodaikanal,Perumal Peak,24,2010,13
+2582,Kodaikanal,Pillar Rocks,968,2021,13
+2583,Kodaikanal,Pine Forest,1110,2023,13
+2584,Kodaikanal,Poombarai Village View,264,2040,13
+2585,Kodaikanal,Shembaganur Museum of Natural History,120,2403,13
+2586,Kodaikanal,Silent Valley View Point,117,2509,13
+2587,Kodaikanal,Shenbaganur Museum,4,2404,13
+2588,Kodaikanal,Solar Physical Observatory,39,2537,13
+2589,Kodaikanal,Subrahmanya Temple (Kartikeya Temple),34,2668,13
+2590,Kodaikanal,Vattakanal Waterfalls,129,2931,13
+2591,Kodaikanal,The Stage Boutique,2,2799,13
+2592,Kodaikanal,Wax Museum,33,2991,13
+2593,Pondicherry,Ananda Ranga Pillai House,15,101,25
+2594,Pondicherry,Anokhi,15,120,25
+2595,Pondicherry,Arulmigu Manakula Vinayagar Temple,1388,168,25
+2596,Pondicherry,Auro Beach,332,200,25
+2597,Pondicherry,Barathiyar Meseum at Pondicherry,14,286,25
+2598,Pondicherry,Bharati Government Park,299,329,25
+2599,Pondicherry,Chunnambar Boat House,578,531,25
+2600,Pondicherry,Eglise de Notre Dame des Anges,335,738,25
+2601,Pondicherry,Church Of Our Lady Of Good Health,4,533,25
+2602,Pondicherry,French Institute,44,809,25
+2603,Pondicherry,French War Memorial,362,810,25
+2604,Pondicherry,Immaculate Conception Cathedral,164,1085,25
+2605,Pondicherry,INTACH Heritage Centre,48,1070,25
+2606,Pondicherry,Indira Gandhi Sports Complex,13,1107,25
+2607,Pondicherry,ISKCON Pondicherry,12,1076,25
+2608,Pondicherry,Kalinka Art Gallery,20,1266,25
+2609,Pondicherry,Kanniga Parameswari Temple,22,1292,25
+2610,Pondicherry,Kargil War Memorial,35,1298,25
+2611,Pondicherry,Old Lighthouse,32,1914,25
+2612,Pondicherry,Ousteri Lake,108,1936,25
+2613,Pondicherry,Paradise Beach,2175,1972,25
+2614,Pondicherry,Panchavati Anjaneya,3,1960,25
+2615,Pondicherry,Park Monument (Aayi Mandapam),103,1980,25
+2616,Pondicherry,Pondicherry Botanical Gardens,280,2037,25
+2617,Pondicherry,Pogoland,6,2034,25
+2618,Pondicherry,Police museum Pondicherry,7,2035,25
+2619,Pondicherry,Pondicherry Museum,156,2039,25
+2620,Pondicherry,Pondicherry Lighthouse,10,2038,25
+2621,Pondicherry,Raj Niwas,131,2131,25
+2622,Pondicherry,Rock Beach,459,2231,25
+2623,Pondicherry,Romain Rolland Library,53,2234,25
+2624,Pondicherry,Saint Joan of Arc Statue,27,2273,25
+2625,Pondicherry,Roman Emporia Poduca: Arikamedu Archaeological Site,46,2236,25
+2626,Pondicherry,Seaside Promenade,2600,2357,25
+2627,Pondicherry,Serenity Beach Bazaar,11,2366,25
+2628,Pondicherry,Serenity Beach,612,2365,25
+2629,Pondicherry,Sri Aurobindo Ashram,563,2562,25
+2630,Pondicherry,Sri Karaneswara Nataraja Temple,13,2573,25
+2631,Pondicherry,Statue of Dupleix,135,2654,25
+2632,Pondicherry,SriMa International School of Transformational Yoga,7,2595,25
+2633,Pondicherry,Sri Ayyappa Swamy Temple,3,2564,25
+2634,Pondicherry,St.Francis of Assisi Church,3,2644,25
+2635,Pondicherry,Statue Of Gandhi,95,2653,25
+2636,Pondicherry,"Tasmai, a Centre for Art & Culture",18,2741,25
+2637,Pondicherry,Sunday Market,6,2680,25
+2638,Pondicherry,The Basilica of the Sacred Heart of Jesus,773,2765,25
+2639,Pondicherry,Sri Kokilambika-Sri Kameeswarar Temple,5,2574,25
+2640,Pondicherry,The Ganesh Garden,20,2775,25
+2641,Pondicherry,Thrill Valley,1,2821,25
+2642,Pondicherry,Varadaraja Perumal Temple,102,2923,25
+2643,Pondicherry,Veerampattinam Beach,8,2936,25
+2644,Pondicherry,"Vedapureeswarar Temple, Puducherry",9,2933,25
+2645,Pondicherry,Yesu En Nesar Church,1,3027,25
+2646,Mysuru (Mysore),Avadhoota Datta Peetham,184,203,20
+2647,Mysuru (Mysore),Himada Gopalswamy Temple,141,1040,20
+2648,Mysuru (Mysore),Jaganmohan Palace Art Gallery And Auditorium,336,1128,20
+2649,Mysuru (Mysore),Kukkarahalli Lake,136,1389,20
+2650,Mysuru (Mysore),Mall of Mysore,109,1582,20
+2651,Mysuru (Mysore),Melody World Wax Museum,198,1671,20
+2652,Mysuru (Mysore),Planet Earth Aquarium,34,2029,20
+2653,Mysuru (Mysore),R K Narayan House,23,2100,20
+2654,Mysuru (Mysore),Railway Museum Mysore,380,2124,20
+2655,Mysuru (Mysore),Sea Shell Museum,27,2355,20
+2656,Mysuru (Mysore),Sri Nandi Temple,713,2578,20
+2657,Mysuru (Mysore),Srikanteshwara Temple,151,2596,20
+2658,Mysuru (Mysore),The Hobby Place,39,2779,20
+2659,Mysuru (Mysore),Bala Tripura Sundari Temple,15,250,20
+2660,Mysuru (Mysore),BM Habitat Mall,24,222,20
+2661,Mysuru (Mysore),Akkanabasadi Temple,8,62,20
+2662,Mysuru (Mysore),Beechanahalli Dam,7,301,20
+2663,Mysuru (Mysore),Brindavan Garden,2420,398,20
+2664,Mysuru (Mysore),Chamarajendra Academy of Visual Arts,7,454,20
+2665,Mysuru (Mysore),Chamundeshwari Celebrity Wax Museum,3,458,20
+2666,Mysuru (Mysore),ChunchanaKatte Falls,21,530,20
+2667,Mysuru (Mysore),Chaaru Art Gallery,4,448,20
+2668,Mysuru (Mysore),Chamarajeshwara Temple,11,455,20
+2669,Mysuru (Mysore),Chamundi Hills,4,459,20
+2670,Mysuru (Mysore),Devaraja Market,142,653,20
+2671,Mysuru (Mysore),Dodda Gadiyaara,33,695,20
+2672,Mysuru (Mysore),Dufferin Clock Tower,26,716,20
+2673,Mysuru (Mysore),Folklore Museum,32,795,20
+2674,Mysuru (Mysore),Double Barrel,1,704,20
+2675,Mysuru (Mysore),Forum Centre City Mall,58,804,20
+2676,Mysuru (Mysore),Garuda Mall,28,861,20
+2677,Mysuru (Mysore),GRS Fantasy Park,157,821,20
+2678,Mysuru (Mysore),Happy Man Park,20,995,20
+2679,Mysuru (Mysore),Gyudmed Tantric Monastery,6,973,20
+2680,Mysuru (Mysore),Gunja Narasimha Swamy Temple,6,928,20
+2681,Mysuru (Mysore),Indian Yoga School (www.IndianYoga.School),23,1101,20
+2682,Mysuru (Mysore),Hijamamysore,2,1038,20
+2683,Mysuru (Mysore),Gun House,9,926,20
+2684,Mysuru (Mysore),Jayalakshmi Vilas Complex Museum,15,1196,20
+2685,Mysuru (Mysore),Kabini Dam,72,1238,20
+2686,Mysuru (Mysore),Indira Gandhi Rashtriya Manav Sangrahalaya,18,1105,20
+2687,Mysuru (Mysore),Jamia Masjid Mosque,9,1174,20
+2688,Mysuru (Mysore),Karanji Lake,514,1297,20
+2689,Mysuru (Mysore),Karnataka State Open University,19,1302,20
+2690,Mysuru (Mysore),Kishkindha Molika Bonsai Garden,26,1359,20
+2691,Mysuru (Mysore),Krishna Rajendra Circle,60,1379,20
+2692,Mysuru (Mysore),Karyasiddhi Sri Anjaneya temple,2,1305,20
+2693,Mysuru (Mysore),Lakshmi Venkataramanaswamy temple,22,1432,20
+2694,Mysuru (Mysore),Lakshmiramana Swamy Temple,22,1434,20
+2695,Mysuru (Mysore),Lingabudi Lake,20,1471,20
+2696,Mysuru (Mysore),Melkote,214,1670,20
+2697,Mysuru (Mysore),Mysore Palace (Amba Vilas),5520,1770,20
+2698,Mysuru (Mysore),Mermaid Aquatic Kingdom Mysore,2,1675,20
+2699,Mysuru (Mysore),Mysore Sand Sculpture Museum,733,1771,20
+2700,Mysuru (Mysore),Mysore Palace,4,1769,20
+2701,Mysuru (Mysore),Namdroling Monastery,2296,1792,20
+2702,Mysuru (Mysore),Oriental Research Institute,12,1927,20
+2703,Mysuru (Mysore),Rangacharlu Memorial Hall,11,2177,20
+2704,Mysuru (Mysore),Ramsons House,13,2175,20
+2705,Mysuru (Mysore),Nugu Dam,2,1900,20
+2706,Mysuru (Mysore),Rajkamal Theatre,5,2150,20
+2707,Mysuru (Mysore),Regional Museum of Natural History,43,2210,20
+2708,Mysuru (Mysore),Shuka Vana,47,2501,20
+2709,Mysuru (Mysore),Shweta Varahaswamy Temple,18,2502,20
+2710,Mysuru (Mysore),Somnathpur Temple,798,2540,20
+2711,Mysuru (Mysore),Sayoga,1,2349,20
+2712,Mysuru (Mysore),Sri Chamarajendra Zoological Gardens,3178,2568,20
+2713,Mysuru (Mysore),Sri Chamundeshwari Temple,2189,2569,20
+2714,Mysuru (Mysore),St. Philomena's Church,1053,2639,20
+2715,Mysuru (Mysore),Sri Datta Venkateshwara Temple,2,2570,20
+2716,Mysuru (Mysore),Sri Mahabaleshwara Temple,2,2576,20
+2717,Mysuru (Mysore),Sri Ramakrishna Ashrama,10,2584,20
+2718,Mysuru (Mysore),Statue of Maharaja Chamarajendar Wodeyar,84,2655,20
+2719,Mysuru (Mysore),Trinesvaraswamy Temple,23,2870,20
+2720,Mysuru (Mysore),Suvarnavathi Dam,9,2699,20
+2721,Mysuru (Mysore),Venugopala Swamy Temple,135,2940,20
+2722,Ooty,Adam's Fountain,4,25,23
+2723,Ooty,Abu Vishwa Temple,6,16,23
+2724,Ooty,Annamalai Murugan Temple,28,118,23
+2725,Ooty,Avalanche Lake,469,205,23
+2726,Ooty,Avalanche Eco Tourism,2,204,23
+2727,Ooty,Arranmore Palace,7,150,23
+2728,Ooty,Bison Valley,24,373,23
+2729,Ooty,Botanical Gardens,3490,390,23
+2730,Ooty,Bellikkal Lake,8,306,23
+2731,Ooty,Cairn Hill,42,420,23
+2732,Ooty,"Deer Park, Ooty",22,631,23
+2733,Ooty,Doddabetta Peak,2174,696,23
+2734,Ooty,Diyanamyam Mutt,2,693,23
+2735,Ooty,CSI St Thomas Church,2,417,23
+2736,Ooty,Elk Hill Murugan Temple,101,756,23
+2737,Ooty,Emerald Lake,249,760,23
+2738,Ooty,Hindustan Photo Film,15,1049,23
+2739,Ooty,Holy Trinity Church,43,1051,23
+2740,Ooty,Hidden Valley,13,1033,23
+2741,Ooty,Jewel Palace,2,1201,23
+2742,Ooty,Kamaraj Sagar Dam,6,1273,23
+2743,Ooty,Ketti Valley View,145,1331,23
+2744,Ooty,Kandal Cross Roman Catholic Church,12,1285,23
+2745,Ooty,Karnataka Siri Horticulture Garden,16,1301,23
+2746,Ooty,Lady Canning's Seat,53,1419,23
+2747,Ooty,Lake Park,37,1424,23
+2748,Ooty,M & N Chocolate Museum,90,1503,23
+2749,Ooty,Main Bazaar,37,1571,23
+2750,Ooty,Mudumalai National Park,436,1732,23
+2751,Ooty,Marlimun Lake,5,1637,23
+2752,Ooty,Mini Car Museum,2,1692,23
+2753,Ooty,MacIvor's Bund,8,1516,23
+2754,Ooty,Mukurti Peak,20,1743,23
+2755,Ooty,Mukerti National Park and Lake,18,1739,23
+2756,Ooty,Mukurthi Dam,9,1742,23
+2757,Ooty,Nilgiri Mountain Railway,1469,1882,23
+2758,Ooty,Muniswarar Temple,4,1758,23
+2759,Ooty,Ooty Lake,2050,1923,23
+2760,Ooty,Pykara Falls,650,2087,23
+2761,Ooty,Pykara Lake,1599,2088,23
+2762,Ooty,Raj Bhawan,14,2128,23
+2763,Ooty,Rose Garden,1230,2239,23
+2764,Ooty,Ramakrishna Mutt,12,2166,23
+2765,Ooty,Radio Telescope,6,2115,23
+2766,Ooty,Raj Bhavan,47,2127,23
+2767,Ooty,Sanctuary Avalanche,156,2299,23
+2768,Ooty,St. Stephen's Church,245,2640,23
+2769,Ooty,Srinivasa Perumal Temple,3,2600,23
+2770,Ooty,Second World War Memorial Pillar,28,2359,23
+2771,Ooty,Tea Museum,322,2746,23
+2772,Ooty,Sri Ayyappan Temple,1,2565,23
+2773,Ooty,The Nilgiri Library,12,2788,23
+2774,Ooty,Thread Garden,370,2820,23
+2775,Ooty,Thunder World,203,2822,23
+2776,Ooty,Tribal Research Center,28,2868,23
+2777,Ooty,Upper Bhavani Lake,342,2907,23
+2778,Ooty,Union Church,10,2901,23
+2779,Ooty,Wax Planet,19,2993,23
+2780,Ooty,Vittoba Temple,13,2973,23
+2781,Ooty,Wax World Museum,178,2994,23
+2782,Ooty,Venkateshwara Perumal Temple,13,2939,23
+2783,Ooty,Western Catchment,26,3000,23
+2784,Madikeri,Abbey Falls,2863,14,16
+2785,Madikeri,Government Museum,27,912,16
+2786,Madikeri,Kote Betta,47,1375,16
+2787,Madikeri,Madikeri Fort,318,1529,16
+2788,Madikeri,Omkareshwara Temple,356,1922,16
+2789,Madikeri,Mercara Gold Estate - Coffee Plantation Tour Coorg,33,1673,16
+2790,Madikeri,Raja's Seat,1129,2137,16
+2791,Madikeri,Raja's Tomb,588,2138,16
+2792,Madikeri,Sri Omkareshwara Temple,15,2579,16
+2793,Hampi,Achyutaraya Temple,78,23,7
+2794,Hampi,Akash Art Gallery & Bookshop,24,58,7
+2795,Hampi,Anegundi Fort,20,111,7
+2796,Hampi,Archaeological Museum,307,139,7
+2797,Hampi,Ahmed Khan's Mosque and Tomb,6,47,7
+2798,Hampi,Akka Tangi Gudda,8,61,7
+2799,Hampi,Balakrishna Temple,39,252,7
+2800,Hampi,Daroji Bear Sanctuary,75,615,7
+2801,Hampi,Badavi Linga,6,238,7
+2802,Hampi,Bheema's Gate,3,339,7
+2803,Hampi,Bhojana Shala,7,345,7
+2804,Hampi,Dasara Dibba,103,618,7
+2805,Hampi,Elephant Stables,514,751,7
+2806,Hampi,Durga Temple,14,720,7
+2807,Hampi,Gejjala Mantapa,18,870,7
+2808,Hampi,Group of Monuments at Hampi,448,919,7
+2809,Hampi,Ganagitti Jain Temple,11,837,7
+2810,Hampi,Hazara Rama Temple,207,1018,7
+2811,Hampi,Hampi Arts & Old Coins,3,984,7
+2812,Hampi,Hemakuta Hill Temple Complex,144,1029,7
+2813,Hampi,Kadalekalu Ganesha,71,1243,7
+2814,Hampi,Kodanda Rama Temple,12,1363,7
+2815,Hampi,Lakshmi the Elephant,85,1433,7
+2816,Hampi,Kannada University,2,1290,7
+2817,Hampi,Lotus Mahal,333,1491,7
+2818,Hampi,Matanga Hill,321,1649,7
+2819,Hampi,Malyavanta Raghunathaswamy Temple - Fatik Shilla,33,1588,7
+2820,Hampi,Monkey Temple,1620,1708,7
+2821,Hampi,Monolith Bull,68,1710,7
+2822,Hampi,Octagonal Bath,23,1907,7
+2823,Hampi,Old Palace (Gagan Mahal),15,1916,7
+2824,Hampi,Nava Vrindavan,3,1834,7
+2825,Hampi,Pampa Sarovar,43,1955,7
+2826,Hampi,Purandaradasa Mantapa,23,2084,7
+2827,Hampi,Queen's Bath,238,2092,7
+2828,Hampi,Pattabhirama Temple,19,1999,7
+2829,Hampi,Sanapur Lake,81,2297,7
+2830,Hampi,Ranganatha Temple,3,2178,7
+2831,Hampi,Rock Painting 1500 BC,9,2232,7
+2832,Hampi,Sasivekalu Ganesha Temple,125,2339,7
+2833,Hampi,Shivlinga,157,2427,7
+2834,Hampi,Statue of Ugra Narsimha,401,2657,7
+2835,Hampi,Singarada Hebbagrilu,5,2513,7
+2836,Hampi,Stepped Tank,248,2658,7
+2837,Hampi,Stone Doors,63,2662,7
+2838,Hampi,Tungabhadra River,225,2887,7
+2839,Hampi,Underground Temple,96,2900,7
+2840,Hampi,Vijaya Vittala Temple,224,2955,7
+2841,Hampi,Virupaksha Temple,788,2964,7
+2842,Hampi,Vithala Temple Complex,926,2972,7
+2843,Hampi,Zanana Enclosure,136,3040,7
+2844,Hampi,Yantrodharak Hanuman Temple,3,3024,7
+2845,Hyderabad,Aalankritha Art Gallery,5,9,8
+2846,Hyderabad,Anantagiri Hills,71,103,8
+2847,Hyderabad,Achala Studios,4,21,8
+2848,Hyderabad,Ameenpur Lake,14,96,8
+2849,Hyderabad,Alwal Ganesh Temple,4,81,8
+2850,Hyderabad,AP State Museum,29,5,8
+2851,Hyderabad,Antique Glass Creations,4,125,8
+2852,Hyderabad,Antiques Humayun,5,130,8
+2853,Hyderabad,Ashta Lakshmi Temple,19,180,8
+2854,Hyderabad,Ashtalakshmi Temple,61,181,8
+2855,Hyderabad,Archival Museum,4,144,8
+2856,Hyderabad,Art Antiqua,4,152,8
+2857,Hyderabad,B.M. Birla Planetarium,194,217,8
+2858,Hyderabad,Asthalakshmi Temple,18,191,8
+2859,Hyderabad,Asmangadh Fort,4,187,8
+2860,Hyderabad,Ayyappa Devasthanam,4,211,8
+2861,Hyderabad,Asman Garh Palace,4,186,8
+2862,Hyderabad,Balkampet Yellamma Temple,30,255,8
+2863,Hyderabad,Badshahi Ashurkhana,7,243,8
+2864,Hyderabad,B.V.R.S Cricket Ground,2,218,8
+2865,Hyderabad,Babukhan Mall,5,231,8
+2866,Hyderabad,Begumpet Mosque,11,303,8
+2867,Hyderabad,Bandamaisamma Temple,4,266,8
+2868,Hyderabad,Bangaaru Maisamma Temple,4,275,8
+2869,Hyderabad,Birla Mandir,3397,364,8
+2870,Hyderabad,Bio Diversity Park,1,360,8
+2871,Hyderabad,Birla Science Center,72,369,8
+2872,Hyderabad,Buddha Statue,1070,405,8
+2873,Hyderabad,British Residency,15,400,8
+2874,Hyderabad,Calvary Temple,215,423,8
+2875,Hyderabad,Business,4,411,8
+2876,Hyderabad,Charminar,3948,472,8
+2877,Hyderabad,Centenary Methodist Church,5,441,8
+2878,Hyderabad,Calvery Temple,7,424,8
+2879,Hyderabad,Chilkur Balaji Temple,1216,500,8
+2880,Hyderabad,Chowmahalla Palace,1643,523,8
+2881,Hyderabad,Chitragupta Swamy Temple,4,511,8
+2882,Hyderabad,Cinepolis Mantra Mall,22,543,8
+2883,Hyderabad,City Centre Mall,51,546,8
+2884,Hyderabad,Christ the King Church,56,527,8
+2885,Hyderabad,Christian Cemetery,5,528,8
+2886,Hyderabad,D.G.S Melkote Park,6,586,8
+2887,Hyderabad,Dattatreya Temple,5,623,8
+2888,Hyderabad,City Mall,6,548,8
+2889,Hyderabad,Dammaiguda Lake,2,602,8
+2890,Hyderabad,Cycercity Conventions,3,584,8
+2891,Hyderabad,Dhartimata Temple,5,666,8
+2892,Hyderabad,Durgam Cheruvu Lake,59,721,8
+2893,Hyderabad,Dharmapuri Temple,5,664,8
+2894,Hyderabad,Divya Saketam,8,685,8
+2895,Hyderabad,Dolls Museum,10,697,8
+2896,Hyderabad,Eton Temple Convent School,2,768,8
+2897,Hyderabad,Earth Art Gallery,4,729,8
+2898,Hyderabad,Gandi Maisamma Temple,12,844,8
+2899,Hyderabad,G. M. C. Balayogi Athletic Stadium,15,820,8
+2900,Hyderabad,Gallery 78,9,829,8
+2901,Hyderabad,Fmg Mall,3,794,8
+2902,Hyderabad,Gandipet Lake,83,845,8
+2903,Hyderabad,Elles World,2,757,8
+2904,Hyderabad,Golconda Fort,4130,898,8
+2905,Hyderabad,GVK One Mall,160,823,8
+2906,Hyderabad,Hare Krishna Golden Temple,3,998,8
+2907,Hyderabad,Happy Dogs Kennel,2,994,8
+2908,Hyderabad,Health Museum,4,1024,8
+2909,Hyderabad,Hayath Bakshi Begum Mosque,4,1016,8
+2910,Hyderabad,Himayat Sagar Lake,53,1047,8
+2911,Hyderabad,Hatiyan Jhad Baobab Tree,2,1009,8
+2912,Hyderabad,Hi Tech Theatre,5,1032,8
+2913,Hyderabad,Hebron Church,8,1025,8
+2914,Hyderabad,Hussain Sagar Lake,1674,1061,8
+2915,Hyderabad,Holy Trinity Church,43,1051,8
+2916,Hyderabad,Horeb Church,4,1054,8
+2917,Hyderabad,HUDA Park,2,976,8
+2918,Hyderabad,Hyderabad Botanical Gardens,184,1064,8
+2919,Hyderabad,Hussain Shah Wali Dargah,4,1062,8
+2920,Hyderabad,Hyderabad Central Mall,58,1065,8
+2921,Hyderabad,Hyderabad International Convention Center,336,1066,8
+2922,Hyderabad,IKEA,24,1069,8
+2923,Hyderabad,Indira Park,50,1109,8
+2924,Hyderabad,Indian National Theatre,2,1099,8
+2925,Hyderabad,ICCR Art Gallery,4,1068,8
+2926,Hyderabad,Inorbit Mall,404,1113,8
+2927,Hyderabad,Inspire Art Gallery,4,1114,8
+2928,Hyderabad,ISKCON Hyderabad Sri Sri Radha Madanmohan Mandir,218,1073,8
+2929,Hyderabad,Jalagam Vengal Rao Park,21,1164,8
+2930,Hyderabad,Jalavihar Water Park,287,1165,8
+2931,Hyderabad,JIVA Gosala,5,1127,8
+2932,Hyderabad,Karmanghat Hanuman Temple,52,1300,8
+2933,Hyderabad,Kailasagiri Temple,7,1244,8
+2934,Hyderabad,Kachiguda Mahankali Temple,6,1242,8
+2935,Hyderabad,Kala Bhavan,4,1251,8
+2936,Hyderabad,Kala Shree Art Temple,4,1253,8
+2937,Hyderabad,Kalakriti Art Gallery,8,1256,8
+2938,Hyderabad,Kandlakoya Oxygen Park,3,1286,8
+2939,Hyderabad,Kalanjali,3,1260,8
+2940,Hyderabad,Kalanikethan Wedding Mall,6,1259,8
+2941,Hyderabad,KBR National Park,328,1235,8
+2942,Hyderabad,keesaragutta Temple,17,3046,8
+2943,Hyderabad,Keesaragutta,105,1324,8
+2944,Hyderabad,L&T Metro Rail,29,1411,8
+2945,Hyderabad,Kidihou Children's Museum,8,1352,8
+2946,Hyderabad,Krishna Kanth Park,20,1378,8
+2947,Hyderabad,King Kothi Palace (Nazri Bagh Palace),5,1355,8
+2948,Hyderabad,KLN Yadav Park,5,1236,8
+2949,Hyderabad,Kumar Theatre,9,1396,8
+2950,Hyderabad,Krazi Chiks,4,1377,8
+2951,Hyderabad,Kydz Hangout,6,1410,8
+2952,Hyderabad,Laad Bazaar,69,1414,8
+2953,Hyderabad,Lakshana Art Gallery,4,1429,8
+2954,Hyderabad,Leo Splash,24,1466,8
+2955,Hyderabad,Lotus Pond,69,1492,8
+2956,Hyderabad,Lalitha Devi Temple,3,1444,8
+2957,Hyderabad,Lamakaan,5,1447,8
+2958,Hyderabad,Lal Bahadur Shastri Stadium,6,1436,8
+2959,Hyderabad,Lumbini Park,888,1500,8
+2960,Hyderabad,Lumbini Jewel Mall,5,1499,8
+2961,Hyderabad,Maangalya Shopping Mall,2,1514,8
+2962,Hyderabad,Magna Mall,4,1532,8
+2963,Hyderabad,Mahavir Harina Vanasthali Wildlife Park,26,1561,8
+2964,Hyderabad,Lutheren Church,4,1502,8
+2965,Hyderabad,Mah Laqa Bai Tomb,4,1534,8
+2966,Hyderabad,Maheshwari Palace Mall,4,1563,8
+2967,Hyderabad,Maheswarar Maha Pyramid,6,1565,8
+2968,Hyderabad,Mahtab Mahal,4,1569,8
+2969,Hyderabad,Mahendra Garden Chappal,2,1562,8
+2970,Hyderabad,Malli Shopping Centre,4,1583,8
+2971,Hyderabad,Mallikarjun Temple,12,1585,8
+2972,Hyderabad,Manjeera Trinity Mall,48,1618,8
+2973,Hyderabad,Manjeera Reservoir and Dam,11,1617,8
+2974,Hyderabad,Mecca Masjid,380,1661,8
+2975,Hyderabad,Manna Church,4,1621,8
+2976,Hyderabad,Maulana Azad National Urdu University,4,1658,8
+2977,Hyderabad,Moula Ali Dargaha,51,1724,8
+2978,Hyderabad,Mega Shopping Mall,4,1662,8
+2979,Hyderabad,Milan Theatre,3,1686,8
+2980,Hyderabad,Mir Alam Tank,9,1693,8
+2981,Hyderabad,Mons Reymonds Tomb,2,1711,8
+2982,Hyderabad,Mount Opera Multi-Theme Park Resort,84,1728,8
+2983,Hyderabad,Mrigavani Wildlife Park,13,1730,8
+2984,Hyderabad,Mrugavani National Park,20,1731,8
+2985,Hyderabad,Necklace Road,227,1841,8
+2986,Hyderabad,Muse Art Gallery,5,1761,8
+2987,Hyderabad,Nagendra Swamy Temple,3,1774,8
+2988,Hyderabad,Nagole Lake,3,1776,8
+2989,Hyderabad,Nalsar University Of Law,3,1790,8
+2990,Hyderabad,Nehru Zoological Park,1202,1862,8
+2991,Hyderabad,Next Galleria Mall,30,1875,8
+2992,Hyderabad,Nizam Museum,136,1891,8
+2993,Hyderabad,NTR Garden,647,1773,8
+2994,Hyderabad,Nizam Sagar Dam,6,1892,8
+2995,Hyderabad,Nizamia Observatory,5,1893,8
+2996,Hyderabad,Ocean Park India,92,1906,8
+2997,Hyderabad,Osman Sagar Lake,115,1931,8
+2998,Hyderabad,Osmania University,30,1932,8
+2999,Hyderabad,Paigah Tombs,61,1947,8
+3000,Hyderabad,Padmalaya Studio,3,1943,8
+3001,Hyderabad,Padmavathi Shopping Mall,6,1945,8
+3002,Hyderabad,Peddamma Temple,277,2004,8
+3003,Hyderabad,Pala Pitta Cycling Park,4,1948,8
+3004,Hyderabad,Plaza Premium Lounge,355,2031,8
+3005,Hyderabad,Pochampalli,28,2033,8
+3006,Hyderabad,Pegasus Shopping Mall,5,2006,8
+3007,Hyderabad,Picasso Art Gallery,4,2020,8
+3008,Hyderabad,Public Gardens (Bagh-e-aam),36,2073,8
+3009,Hyderabad,Pride Resorts,8,2064,8
+3010,Hyderabad,Purani Haveli,26,2085,8
+3011,Hyderabad,Qutab Shahi Tombs,402,2094,8
+3012,Hyderabad,Priyadarshini Park,122,2069,8
+3013,Hyderabad,Qutb Shahi Tombs,28,2095,8
+3014,Hyderabad,Rachakonda Fort,10,2111,8
+3015,Hyderabad,Raja Rajeswari Temple,4,2135,8
+3016,Hyderabad,Radhika Theatre,9,2114,8
+3017,Hyderabad,Rajiv Gandhi International Cricket Stadium,100,2147,8
+3018,Hyderabad,Ramoji Film City,5261,2174,8
+3019,Hyderabad,Ramachandra Theatre,2,2161,8
+3020,Hyderabad,Ranganayaka Temple,4,2179,8
+3021,Hyderabad,Ratnalayam Temple,14,2197,8
+3022,Hyderabad,Raymonds Tomb,6,2204,8
+3023,Hyderabad,Ranveer Gupta,4,2188,8
+3024,Hyderabad,Ravindra Barathi,1,2201,8
+3025,Hyderabad,Rehoboth Prayer House,4,2212,8
+3026,Hyderabad,Renuka Yellamma Temple,3,2216,8
+3027,Hyderabad,Revival Centre AG Church,3,2218,8
+3028,Hyderabad,Salar Jung Museum,2690,2278,8
+3029,Hyderabad,Roofer Hyderabad,1,2237,8
+3030,Hyderabad,Rks Grand Shopping Mall,3,2230,8
+3031,Hyderabad,Royal Choice,4,2244,8
+3032,Hyderabad,Saffron Vacations,1,2263,8
+3033,Hyderabad,Sai Baba Temple,235,2270,8
+3034,Hyderabad,Rooplaxmi,5,2238,8
+3035,Hyderabad,Sanghi Temple,156,2303,8
+3036,Hyderabad,Sanjeevaiah Park,42,2309,8
+3037,Hyderabad,Sanjeeviah Park,81,2310,8
+3038,Hyderabad,Secunderabad Clock Tower,106,2360,8
+3039,Hyderabad,Sarath City Capital Mall,4,2327,8
+3040,Hyderabad,Saroornagar Lake,13,2337,8
+3041,Hyderabad,Santoshi Mata Temple,41,2318,8
+3042,Hyderabad,Shilparamam Cultural Society,911,2412,8
+3043,Hyderabad,Shamirpet Lake,20,2385,8
+3044,Hyderabad,Shahi Masjid,7,2380,8
+3045,Hyderabad,Shilparamam,30,2411,8
+3046,Hyderabad,Shri Jagannath Temple,703,2471,8
+3047,Hyderabad,Shyam Mandir,50,2503,8
+3048,Hyderabad,Shrine of Our lady of Grace,5,2497,8
+3049,Hyderabad,Shri Shirdi Sai Baba Temple,4,2487,8
+3050,Hyderabad,Singur Dam,33,2515,8
+3051,Hyderabad,Shrine of Our Lady of Health,5,2496,8
+3052,Hyderabad,Shrine of Shah Abdul Latif Bhittai,4,2498,8
+3053,Hyderabad,Sikhareswar Swamy Temple,6,2508,8
+3054,Hyderabad,SLN Terminus,20,2255,8
+3055,Hyderabad,Snow World,444,2530,8
+3056,Hyderabad,Six Mall,4,2524,8
+3057,Hyderabad,Sri Ramakrishna Math,195,2585,8
+3058,Hyderabad,Sri Lakshmi Narasimha Swamy Temple,10,2575,8
+3059,Hyderabad,Sri Radri Sati Temple,4,2581,8
+3060,Hyderabad,St. Josephs Cathedral,16,2631,8
+3061,Hyderabad,Sudha Cars Museum,334,2670,8
+3062,Hyderabad,Srinidhi Joy N Joy Resorts,12,2599,8
+3063,Hyderabad,St Theresa Church,4,2619,8
+3064,Hyderabad,St Thomas Marthoma Church,4,2621,8
+3065,Hyderabad,Surendrapuri,216,2692,8
+3066,Hyderabad,Taj Falaknuma Palace,878,2718,8
+3067,Hyderabad,Tahniyat Mahal,5,2716,8
+3068,Hyderabad,Svm Mall,8,2700,8
+3069,Hyderabad,Sri Venugopala Swamy Temple,3,2594,8
+3070,Hyderabad,Tank Bund,306,2734,8
+3071,Hyderabad,The Chennai Shopping Mall,24,2767,8
+3072,Hyderabad,The Forum Sujana Mall,186,2774,8
+3073,Hyderabad,The Antique Loft,4,2762,8
+3074,Hyderabad,The Plabo,21,2792,8
+3075,Hyderabad,Treasure Island,1,2866,8
+3076,Hyderabad,United Church,4,2902,8
+3077,Hyderabad,Toli Masjid,7,2842,8
+3078,Hyderabad,Vijaya Ganapathi Temple,4,2954,8
+3079,Hyderabad,Trinity Lutheran Church,4,2871,8
+3080,Hyderabad,"Village museum, Shilparamam",6,2960,8
+3081,Hyderabad,Venkatadri Theatre,6,2937,8
+3082,Hyderabad,Venkatarama Theatre,7,2938,8
+3083,Hyderabad,Wonderla Amusement Park,768,3012,8
+3084,Hyderabad,Vishwakarma Arts Gallery,4,2971,8
+3085,Hyderabad,Wills Lifestyle,4,3010,8
+3086,Hyderabad,Wild Waters,2,3006,8
+3087,Hyderabad,Yogibear Mini Golf Park,12,3033,8
+3088,Hyderabad,Yadagiri Theatre,4,3020,8

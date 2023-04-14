@@ -1,0 +1,211 @@
+City,Place,PlaceID,CityID,ImageUrl,lat,lng,class
+New Delhi,Qutub Minar,146,22,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b7/1f/31/qutab-minar.jpg?w=1200&h=1200&s=1,28.524413,77.18545014,historic
+New Delhi,Swaminarayan Akshardham,183,22,https://www.makemytrip.com/travel-guide/media/dg_image/delhi/Swaminarayan-Akshardham-Temple-Delhi.jpg,28.61251665,77.2773184,amenity
+New Delhi,India Gate,76,22,https://img.staticmb.com/mbcontent//images/uploads/2022/9/India%20Gate%20delhi.jpg,28.6129332,77.22949282,tourism
+New Delhi,Humayun's Tomb,74,22,https://cdn.britannica.com/54/156454-050-4E72CEE0/Humayuns-Tomb-Hamidah-Banu-Begam-Delhi-India-1569.jpg,28.5932856,77.2506468,historic
+New Delhi,Gurudwara Bangla Sahib,67,22,"https://navbharattimes.indiatimes.com/travel/destinations/interesting-facts-about-bangla-sahib-gurudwara-delhi/photo/msid-93386892,imgsize-72802/interesting-facts-about-bangla-sahib-gurudwara-delhi-93386892.jpg",28.625421,77.2095761,highway
+New Delhi,Lotus Temple,106,22,https://upload.wikimedia.org/wikipedia/commons/f/fc/LotusDelhi.jpg,-33.6356199,150.2860567,shop
+New Delhi,Red Fort (Lal Quila),152,22,https://cdn.britannica.com/84/124684-004-07547A0D/Red-Fort-Old-Delhi-India.jpg,,,
+Agra,Taj Mahal,184,0,https://images.pexels.com/photos/602607/pexels-photo-602607.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,27.1750123,78.04209684,tourism
+Agra,Agra Fort,2,0,https://assets.traveltriangle.com/blog/wp-content/uploads/2019/08/%E0%A4%86%E0%A4%97%E0%A4%B0%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A4%BE.jpg,27.1798258,78.02082227,historic
+Agra,Tomb of Itimad-ud-Daulah,193,0,https://images.pexels.com/photos/602607/pexels-photo-602607.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,27.1927827,78.03143586,historic
+Agra,Wildlife SOS,204,0,https://images.pexels.com/photos/602607/pexels-photo-602607.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,27.2998755,77.7937949,tourism
+Agra,Mehtab Bagh,116,0,https://images.pexels.com/photos/602607/pexels-photo-602607.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,27.1791872,78.04208546,historic
+Agra,Jama Masjid,85,0,https://images.pexels.com/photos/602607/pexels-photo-602607.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,28.6506822,77.23296096,amenity
+Agra,Sheesh Mahal,167,0,https://images.pexels.com/photos/602607/pexels-photo-602607.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,51.44721015,-0.328852391,amenity
+Jaipur,Hawa Mahal - Palace of Wind,69,9,https://www.holidify.com/images/cmsuploads/compressed/h4_20170822181427.PNG,,,
+Jaipur,Jantar Mantar - Jaipur,86,9,https://www.tourmyindia.com/heritage/images/jantar-mantar-jaipur.jpg,26.9247389,75.8244663,tourism
+Jaipur,City Palace of Jaipur,34,9,https://images.pexels.com/photos/3974150/pexels-photo-3974150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Jaipur,Jal Mahal,83,9,https://www.nobroker.in/blog/wp-content/uploads/2020/05/shutterstock_334776524.jpg,26.95346715,75.8461309,tourism
+Jaipur,Birla Mandir Temple,23,9,https://upload.wikimedia.org/wikipedia/commons/d/d6/Birla_Mandir_Jaipur_%282022-07%29.jpg,17.4060347,78.46886347,tourism
+Jaipur,Nahargarh Fort,125,9,https://jaipurtourism.co.in/images/places-to-visit/header/nahargarh-fort-jaipur-entry-fee-timings-holidays-reviews-header.jpg,26.9400336,75.8165299,tourism
+Jaipur,Jaigarh Fort,80,9,https://upload.wikimedia.org/wikipedia/commons/3/32/Rajasthan-Jaipur-Jaigarh-Fort-perimeter-walls-Apr-2004-01.JPG,17.3011437,73.22132756,historic
+Udaipur,City Palace of Udaipur,35,28,https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Udaipur,Lake Pichola,102,28,https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,24.56962175,73.67218328,natural
+Udaipur,Bagore Ki Haveli Museum,13,28,https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Udaipur,Monsoon Palace,121,28,https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,24.5913476,73.6525637,shop
+Udaipur,Sahelion Ki Bari,158,28,https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,24.6029879,73.68519323,amenity
+Udaipur,Jagdish Temple,78,28,https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,24.579099,73.6847042,amenity
+Udaipur,Ekling Ji Temple,50,28,https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Panjim,Deltin Royale,45,24,https://images.unsplash.com/photo-1625505826533-5c80aca7d157?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80,,,
+Panjim,Miramar Beach,119,24,https://images.unsplash.com/photo-1625505826533-5c80aca7d157?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80,30.38251735,-86.36415507,boundary
+Panjim,Church of Our Lady of the Immaculate Conception,33,24,https://images.unsplash.com/photo-1625505826533-5c80aca7d157?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80,53.79090935,-6.419823643,amenity
+Panjim,Reis Magos Fort,153,24,https://images.unsplash.com/photo-1625505826533-5c80aca7d157?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80,15.4964099,73.80903285,tourism
+Panjim,Se Cathedral,161,24,https://images.unsplash.com/photo-1625505826533-5c80aca7d157?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80,15.50378315,73.91227414,amenity
+Panjim,Shantadurga Temple,166,24,https://images.unsplash.com/photo-1625505826533-5c80aca7d157?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80,14.84849645,74.13342292,amenity
+Panjim,Deltin Jaqk,44,24,https://images.unsplash.com/photo-1625505826533-5c80aca7d157?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80,,,
+Almora,Jageshwar Dham,79,2,https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,29.6385134,79.8503819,healthcare
+Almora,Kasar Devi Temple,93,2,https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,29.64160245,79.6615422,amenity
+Almora,Chitai Temple,30,2,https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,29.6169506,79.7014707,amenity
+Almora,Zero Point,205,2,https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,30.26596,80.00519,place
+Almora,Katarmal Sun Temple,94,2,https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,29.6323214,79.61456305,amenity
+Almora,Kumaon Regimental Centre Museum,100,2,https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Almora,Nanda Devi Temple,128,2,https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,29.5998156,79.6610119,amenity
+Varanasi,Ganges River,55,29,https://images.pexels.com/photos/8112531/pexels-photo-8112531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,1.40380425,103.7916901,tourism
+Varanasi,Sarnath,160,29,https://images.pexels.com/photos/8112531/pexels-photo-8112531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,25.3776274,83.0275999,place
+Varanasi,Dasaswamedh Ghat,43,29,https://images.pexels.com/photos/8112531/pexels-photo-8112531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,25.3062478,83.0101527,tourism
+Varanasi,Shri Kashi Vishwanath Temple (Golden Temple),169,29,https://images.pexels.com/photos/8112531/pexels-photo-8112531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Varanasi,Banaras Ghats,14,29,https://images.pexels.com/photos/8112531/pexels-photo-8112531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Varanasi,Assi Ghat,10,29,https://images.pexels.com/photos/8112531/pexels-photo-8112531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,25.2891654,83.0061752,tourism
+Varanasi,Manikarnika Ghat,112,29,https://images.pexels.com/photos/8112531/pexels-photo-8112531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,25.3107682,83.014021,tourism
+Jaisalmer,Jaisalmer Fort,82,10,https://images.pexels.com/photos/12912712/pexels-photo-12912712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,26.9127655,70.91249329,tourism
+Jaisalmer,Gadsisar Sagar Lake,53,10,https://images.pexels.com/photos/12912712/pexels-photo-12912712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Jaisalmer,Kothari's Patwaon-Ki-Haveli,98,10,https://images.pexels.com/photos/12912712/pexels-photo-12912712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Jaisalmer,Kuldhara Abandoned Village,99,10,https://images.pexels.com/photos/12912712/pexels-photo-12912712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Jaisalmer,Jain Temples,81,10,https://images.pexels.com/photos/12912712/pexels-photo-12912712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,13.2089597,75.9948839,amenity
+Jaisalmer,Bada Bagh,12,10,https://images.pexels.com/photos/12912712/pexels-photo-12912712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,26.9553812,70.8875904,amenity
+Jaisalmer,Tanot Mata Temple,185,10,https://images.pexels.com/photos/12912712/pexels-photo-12912712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,27.75871745,70.40129739,amenity
+Srinagar,Dal Lake,40,27,https://images.pexels.com/photos/5097161/pexels-photo-5097161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,34.11367785,74.8699911,natural
+Srinagar,Shankaracharya Hill,165,27,https://images.pexels.com/photos/5097161/pexels-photo-5097161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,34.079007,74.8436844,natural
+Srinagar,Ghanta Ghar,57,27,https://images.pexels.com/photos/5097161/pexels-photo-5097161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,24.5935005,76.16385813,highway
+Srinagar,Nishat Garden,132,27,https://images.pexels.com/photos/5097161/pexels-photo-5097161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,34.12534655,74.88153121,tourism
+Srinagar,Sonamarg,175,27,https://images.pexels.com/photos/5097161/pexels-photo-5097161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,34.302387,75.2965551,place
+Srinagar,Nigeen Lake,130,27,https://images.pexels.com/photos/5097161/pexels-photo-5097161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,34.12138235,74.8298966,natural
+Srinagar,Indira Gandhi Tulip Garden,77,27,https://images.pexels.com/photos/5097161/pexels-photo-5097161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Leh,Pangong Tso,138,15,https://images.pexels.com/photos/570026/pexels-photo-570026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,33.7063214,78.81723098,natural
+Leh,Hall of Fame,68,15,https://images.pexels.com/photos/570026/pexels-photo-570026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,48.1307189,11.5456461,tourism
+Leh,Thiksey Monastery,190,15,https://images.pexels.com/photos/570026/pexels-photo-570026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,34.05645665,77.66695824,amenity
+Leh,Confluence of the Indus and Zanskar Rivers,37,15,https://images.pexels.com/photos/570026/pexels-photo-570026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Leh,Magnetic Hill,108,15,https://assets.traveltriangle.com/blog/wp-content/uploads/2016/11/Magnetic-hill-2.jpg,19.7959051,-155.335383,natural
+Leh,Gurdwara Pathar Sahib,66,15,https://images.pexels.com/photos/570026/pexels-photo-570026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,34.1916705,77.37587757,amenity
+Leh,Leh Royal Palace,104,15,https://images.pexels.com/photos/570026/pexels-photo-570026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,34.1541822,77.5772489,tourism
+Jodhpur,Mehrangarh Fort,115,11,https://www.revv.co.in/blogs/wp-content/uploads/2021/12/Mehrangarh-fort.png,26.2995407,73.0195132,shop
+Jodhpur,Umaid Bhawan Palace Museum,196,11,"https://media.cntraveler.com/photos/594001185fff7e434a15efbe/16:9/w_2560,c_limit/Exterior-UmaidBhawanPalaceTaj-India-CRHotel.jpg",26.2807207,73.0477046,tourism
+Jodhpur,Jaswant Thada,88,11,https://upload.wikimedia.org/wikipedia/commons/a/ad/Jaswant_Thada_Dawn.jpg,26.3042996,73.0254094,tourism
+Jodhpur,Ghanta Ghar,57,11,https://media-cdn.tripadvisor.com/media/photo-s/1a/0b/33/1f/also-known-as-ghanta.jpg,24.5935005,76.16385813,highway
+Jodhpur,Mandore Garden,110,11,https://www.holidify.com/images/cmsuploads/compressed/shutterstock_232090285_20191121132113_20191121132136.jpg,26.3504779,73.036346,leisure
+Jodhpur,Rao Jodha Desert Rock Park,151,11,https://jodhpurtourism.in/images/places-to-visit/headers/rao-jodha-desert-rock-park-jodhpur-entry-fee-timings-holidays-reviews-header.jpg,26.3007638,73.01579,leisure
+Jodhpur,Toorji Ka Jhalra (Toorji’s Step Well),194,11,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/8d/0e/2b/photo0jpg.jpg?w=1200&h=-1&s=1,,,
+Pune,Dagadusheth Halwai Ganapati Temple,38,26,https://images.pexels.com/photos/9404692/pexels-photo-9404692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Pune,Sinhagad Fort,170,26,https://images.pexels.com/photos/9404692/pexels-photo-9404692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,18.3651456,73.7552242,tourism
+Pune,Darshan Museum,42,26,https://images.pexels.com/photos/9404692/pexels-photo-9404692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Pune,Aga Khan Palace,1,26,https://images.pexels.com/photos/9404692/pexels-photo-9404692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,18.55239785,73.90162889,tourism
+Pune,Shaniwar Wada,164,26,https://images.pexels.com/photos/9404692/pexels-photo-9404692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,18.51938255,73.85535656,historic
+Pune,Sri Balaji Mandir,177,26,https://images.pexels.com/photos/9404692/pexels-photo-9404692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,18.5379356,73.7856984,amenity
+Pune,Laxmi Road,103,26,https://images.pexels.com/photos/9404692/pexels-photo-9404692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,30.3081556,78.0558747,highway
+Aurangabad,Ellora Caves,52,4,https://images.pexels.com/photos/4882666/pexels-photo-4882666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,20.02675255,75.17751524,tourism
+Aurangabad,Bibi Ka Maqbara,21,4,https://images.pexels.com/photos/4882666/pexels-photo-4882666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,19.9014476,75.32023315,tourism
+Aurangabad,Grishneshwar Jyotirlinga Temple,62,4,https://images.pexels.com/photos/4882666/pexels-photo-4882666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Aurangabad,Jama Masjid,85,4,https://images.pexels.com/photos/4882666/pexels-photo-4882666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,28.6506822,77.23296096,amenity
+Aurangabad,Panchakki (Water Mill),137,4,https://images.pexels.com/photos/4882666/pexels-photo-4882666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Aurangabad,Aurangabad Caves,11,4,https://images.pexels.com/photos/4882666/pexels-photo-4882666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,19.9172207,75.3119946,amenity
+Aurangabad,Bhadra Maruti,19,4,https://images.pexels.com/photos/4882666/pexels-photo-4882666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,20.0098134,75.1956726,amenity
+Darjeeling,Padmaja Naidu Himalayan Zoological Park,135,6,https://images.pexels.com/photos/1462892/pexels-photo-1462892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,27.0569265,88.25470053,tourism
+Darjeeling,Tiger Hill,192,6,https://images.pexels.com/photos/1462892/pexels-photo-1462892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,-45.128469,169.564806,natural
+Darjeeling,Himalayan Mountaineering Institute,72,6,https://images.pexels.com/photos/1462892/pexels-photo-1462892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,27.0583704,88.2539385,tourism
+Darjeeling,Batasia Loop,16,6,https://images.pexels.com/photos/1462892/pexels-photo-1462892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,27.0167011,88.2471186,historic
+Darjeeling,Japanese Peace Pagoda,87,6,https://images.pexels.com/photos/1462892/pexels-photo-1462892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,6.0158561,80.23790922,landuse
+Darjeeling,Kanchenjunga Mountain,90,6,https://images.pexels.com/photos/1462892/pexels-photo-1462892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Darjeeling,Darjeeling Himalayan Railway,41,6,https://images.pexels.com/photos/1462892/pexels-photo-1462892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,27.0162608,88.2476381,railway
+Nainital,Nainital Lake,126,21,https://images.pexels.com/photos/13682120/pexels-photo-13682120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,29.34351855,79.56044528,natural
+Nainital,Goddess Naina Devi,59,21,https://images.pexels.com/photos/13682120/pexels-photo-13682120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Nainital,High Altitude Zoo,71,21,https://images.pexels.com/photos/13682120/pexels-photo-13682120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Nainital,Eco Cave Gardens,48,21,https://images.pexels.com/photos/13682120/pexels-photo-13682120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Nainital,Snow View Point,171,21,https://images.pexels.com/photos/13682120/pexels-photo-13682120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,34.2253208,77.6162144,tourism
+Nainital,Mukteshwar Temple,123,21,https://images.pexels.com/photos/13682120/pexels-photo-13682120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Nainital,Kainchi Dham,89,21,https://images.pexels.com/photos/13682120/pexels-photo-13682120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Manali,Hidimba Devi Temple,70,17,https://images.pexels.com/photos/2419865/pexels-photo-2419865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Manali,Solang Valley,173,17,https://images.pexels.com/photos/2419865/pexels-photo-2419865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,32.3160963,77.1565572,place
+Manali,Beas River,17,17,https://images.pexels.com/photos/2419865/pexels-photo-2419865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,31.9847553,77.1274226,waterway
+Manali,Manikaran Gurudwara,111,17,https://images.pexels.com/photos/2419865/pexels-photo-2419865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,32.027102,77.3454746,amenity
+Manali,Vashisht Baths,199,17,https://images.pexels.com/photos/2419865/pexels-photo-2419865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Manali,Gulaba,64,17,https://images.pexels.com/photos/2419865/pexels-photo-2419865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,32.3223096,77.2009755,place
+Manali,Solang Nullah,172,17,https://images.pexels.com/photos/2419865/pexels-photo-2419865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Kolkata,Victoria Memorial Hall,200,14,https://images.pexels.com/photos/12552817/pexels-photo-12552817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,-42.53175415,147.2007607,building
+Kolkata,Dakshineswar Kali Temple,39,14,https://images.pexels.com/photos/12552817/pexels-photo-12552817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,22.654827,88.35757762,amenity
+Kolkata,Howrah Bridge,73,14,https://images.pexels.com/photos/12552817/pexels-photo-12552817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,22.5850914,88.34682503,tourism
+Kolkata,Park Street,140,14,https://images.pexels.com/photos/12552817/pexels-photo-12552817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,42.3563732,-71.0624614,railway
+Kolkata,Eden Gardens,49,14,https://images.pexels.com/photos/12552817/pexels-photo-12552817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,22.5645531,88.34229083,building
+Kolkata,Mother House,122,14,https://images.pexels.com/photos/12552817/pexels-photo-12552817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,39.9910774,-82.94041655,amenity
+Kolkata,Metro Railway,118,14,https://images.pexels.com/photos/12552817/pexels-photo-12552817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,55.008357,-1.4486046,railway
+Munnar,Tea Gardens,186,19,https://images.pexels.com/photos/13691355/pexels-photo-13691355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,-32.6622727,152.155692,boundary
+Munnar,Top Station,195,19,https://images.pexels.com/photos/13691355/pexels-photo-13691355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,10.1229157,77.2449857,place
+Munnar,Rajamalai (Eravikulam) National Park,149,19,https://images.pexels.com/photos/13691355/pexels-photo-13691355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Munnar,Kannan Devan Tea Museum,91,19,https://images.pexels.com/photos/13691355/pexels-photo-13691355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,10.09422535,77.05065355,tourism
+Munnar,Rose Gardens,157,19,https://images.pexels.com/photos/13691355/pexels-photo-13691355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,41.41006,-79.6719956,place
+Munnar,Photo Point,141,19,https://images.pexels.com/photos/13691355/pexels-photo-13691355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,38.183601,15.5508668,amenity
+Munnar,Kundala Dam Lake,101,19,https://images.pexels.com/photos/13691355/pexels-photo-13691355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Bhopal,Birla Mandir,22,5,https://images.unsplash.com/photo-1585744945554-5df801d2b680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80,22.5305015,88.36492539,amenity
+Bhopal,Buddhist Monuments at Sanchi,27,5,https://images.unsplash.com/photo-1585744945554-5df801d2b680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80,23.47934155,77.73979413,tourism
+Bhopal,Rock Shelters of Bhimbetka,155,5,https://images.unsplash.com/photo-1585744945554-5df801d2b680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80,22.9384007,77.6133286,tourism
+Bhopal,Upper Lake,197,5,https://images.unsplash.com/photo-1585744945554-5df801d2b680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80,39.1646129,-122.910551,place
+Bhopal,Jama Masjid,85,5,https://images.unsplash.com/photo-1585744945554-5df801d2b680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80,28.6506822,77.23296096,amenity
+Bhopal,Van Vihar National Park,198,5,https://images.unsplash.com/photo-1585744945554-5df801d2b680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80,23.22955365,77.36586746,tourism
+Bhopal,Archaeological Museum,8,5,https://images.unsplash.com/photo-1585744945554-5df801d2b680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80,34.7068551,33.0224267,tourism
+Amritsar,Golden Temple,61,3,https://images.pexels.com/photos/12656948/pexels-photo-12656948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,31.61997865,74.87652808,amenity
+Amritsar,Jallianwala Bagh,84,3,https://images.pexels.com/photos/12656948/pexels-photo-12656948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,31.62085375,74.88013037,tourism
+Amritsar,Gobindgarh Fort,58,3,https://images.pexels.com/photos/12656948/pexels-photo-12656948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,31.6271122,74.8604078,tourism
+Amritsar,Durgiana Temple,47,3,https://images.pexels.com/photos/12656948/pexels-photo-12656948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Amritsar,Akal Takht,3,3,https://images.pexels.com/photos/12656948/pexels-photo-12656948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,31.62075065,74.87541949,amenity
+Amritsar,The Partition Museum,189,3,https://images.pexels.com/photos/12656948/pexels-photo-12656948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Amritsar,Mandir Mata Lal Devi,109,3,https://images.pexels.com/photos/12656948/pexels-photo-12656948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Mumbai,Gateway of India,56,18,https://images.pexels.com/photos/706352/pexels-photo-706352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,18.9225901,72.83433537,tourism
+Mumbai,Bandra-Worli Sea Link,15,18,https://images.pexels.com/photos/706352/pexels-photo-706352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,19.0135905,72.8133841,highway
+Mumbai,Marine Drive,114,18,https://images.pexels.com/photos/706352/pexels-photo-706352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,9.9784803,76.2757815,tourism
+Mumbai,Shree Siddhivinayak,168,18,https://images.pexels.com/photos/706352/pexels-photo-706352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,19.1695122,72.8778436,amenity
+Mumbai,Chhatrapati Shivaji Terminus,29,18,https://images.pexels.com/photos/706352/pexels-photo-706352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,18.9398641,72.8354116,railway
+Mumbai,Sri Sri Radha Gopinath Temple,180,18,https://images.pexels.com/photos/706352/pexels-photo-706352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Mumbai,Nariman Point,129,18,https://images.pexels.com/photos/706352/pexels-photo-706352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,18.9253433,72.8180282,tourism
+Kanyakumari,Vivekananda Rock Memorial,203,12,https://images.unsplash.com/photo-1605822726565-88069f152c9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80,8.0783202,77.5549562,place
+Kanyakumari,Kanyakumari Beach,92,12,https://images.unsplash.com/photo-1605822726565-88069f152c9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80,9.47151225,76.32889709,building
+Kanyakumari,Thiruvalluvar Statue,191,12,https://images.unsplash.com/photo-1605822726565-88069f152c9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80,8.0777532,77.5539955,tourism
+Kanyakumari,Padmanabhapuram Palace,136,12,https://images.unsplash.com/photo-1605822726565-88069f152c9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80,8.2506611,77.32710098,tourism
+Kanyakumari,Thanumalayan temple - Sthanumalayan Kovil,187,12,https://images.unsplash.com/photo-1605822726565-88069f152c9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80,,,
+Kanyakumari,Bhagavathy Amman Temple,20,12,https://images.unsplash.com/photo-1605822726565-88069f152c9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80,,,
+Kanyakumari,Gandhi Memorial,54,12,https://images.unsplash.com/photo-1605822726565-88069f152c9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80,8.0787439,77.54995253,historic
+Alappuzha,Alappuzha Beach,4,1,https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg,9.46349355,76.32439115,natural
+Alappuzha,Alleppey Backwaters,6,1,https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg,,,
+Alappuzha,Ambalapuzha Sree Krishna Temple,7,1,https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg,9.38320555,76.36921428,amenity
+Alappuzha,Alappuzha Lighthouse,5,1,https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg,9.4939017,76.3210141,man_made
+Alappuzha,Revi Karunakaran Museum,154,1,https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg,,,
+Alappuzha,Mannarasala Sree Nagaraja Temple,113,1,https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg,9.29032295,76.44583464,amenity
+Alappuzha,Kathakali,95,1,https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg,47.703618,-122.2106864,amenity
+Kodaikanal,Kodaikanal Lake,96,13,https://images.pexels.com/photos/9411140/pexels-photo-9411140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,10.23393075,77.48648137,natural
+Kodaikanal,Coakers Walk,36,13,https://images.pexels.com/photos/9411140/pexels-photo-9411140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Kodaikanal,Pine Forest,143,13,https://images.pexels.com/photos/9411140/pexels-photo-9411140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,30.1813215,-94.0343441,boundary
+Kodaikanal,Pillar Rocks,142,13,https://images.pexels.com/photos/9411140/pexels-photo-9411140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,38.8322452,-79.367395,natural
+Kodaikanal,Berijam Lake,18,13,https://images.pexels.com/photos/9411140/pexels-photo-9411140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,10.18701905,77.39411477,natural
+Kodaikanal,Bryant Park,26,13,https://images.pexels.com/photos/9411140/pexels-photo-9411140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,40.75375085,-73.98354279,tourism
+Kodaikanal,Guna Cave,65,13,https://images.pexels.com/photos/9411140/pexels-photo-9411140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,10.2105749,77.4615892,tourism
+Pondicherry,Seaside Promenade,162,25,https://images.unsplash.com/photo-1598792598750-1f0dc619e6a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80,38.4180914,141.3091384,landuse
+Pondicherry,Paradise Beach,139,25,https://images.unsplash.com/photo-1598792598750-1f0dc619e6a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80,-38.192086,147.421102,boundary
+Pondicherry,Arulmigu Manakula Vinayagar Temple,9,25,https://images.unsplash.com/photo-1598792598750-1f0dc619e6a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80,,,
+Pondicherry,The Basilica of the Sacred Heart of Jesus,188,25,https://images.unsplash.com/photo-1598792598750-1f0dc619e6a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80,33.7638189,-84.38560722,amenity
+Pondicherry,Serenity Beach,163,25,https://images.unsplash.com/photo-1598792598750-1f0dc619e6a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80,11.9705187,79.84455617,natural
+Pondicherry,Chunnambar Boat House,32,25,https://images.unsplash.com/photo-1598792598750-1f0dc619e6a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80,,,
+Pondicherry,Sri Aurobindo Ashram,176,25,https://images.unsplash.com/photo-1598792598750-1f0dc619e6a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80,11.9368043,79.83428972,landuse
+Mysuru (Mysore),Mysore Palace (Amba Vilas),124,20,https://images.pexels.com/photos/4134646/pexels-photo-4134646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,12.3052915,76.65392493,building
+Mysuru (Mysore),Sri Chamarajendra Zoological Gardens,178,20,https://images.pexels.com/photos/4134646/pexels-photo-4134646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Mysuru (Mysore),Brindavan Garden,25,20,https://images.pexels.com/photos/4134646/pexels-photo-4134646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,17.4102408,78.54360533,leisure
+Mysuru (Mysore),Namdroling Monastery,127,20,https://images.pexels.com/photos/4134646/pexels-photo-4134646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,12.43048645,75.96674784,building
+Mysuru (Mysore),Sri Chamundeshwari Temple,179,20,https://images.pexels.com/photos/4134646/pexels-photo-4134646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,12.2724724,76.67070192,amenity
+Mysuru (Mysore),St. Philomena's Church,181,20,https://images.pexels.com/photos/4134646/pexels-photo-4134646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,12.3209949,76.65828217,amenity
+Mysuru (Mysore),Somnathpur Temple,174,20,https://images.pexels.com/photos/4134646/pexels-photo-4134646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,12.2757664,76.88150686,amenity
+Ooty,Botanical Gardens,24,23,https://images.unsplash.com/photo-1590765759804-0b2b579820b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1215&q=80,61.10779915,-149.8815263,boundary
+Ooty,Doddabetta Peak,46,23,https://images.unsplash.com/photo-1590765759804-0b2b579820b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1215&q=80,11.4006926,76.7356752,natural
+Ooty,Ooty Lake,134,23,https://images.unsplash.com/photo-1590765759804-0b2b579820b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1215&q=80,11.40341705,76.69167888,natural
+Ooty,Pykara Lake,145,23,https://images.unsplash.com/photo-1590765759804-0b2b579820b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1215&q=80,,,
+Ooty,Nilgiri Mountain Railway,131,23,https://images.unsplash.com/photo-1590765759804-0b2b579820b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1215&q=80,11.3436949,76.7935465,railway
+Ooty,Rose Garden,156,23,https://images.unsplash.com/photo-1590765759804-0b2b579820b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1215&q=80,38.8974193,-77.03711315,leisure
+Ooty,Pykara Falls,144,23,https://images.unsplash.com/photo-1590765759804-0b2b579820b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1215&q=80,,,
+Madikeri,Abbey Falls,0,16,https://images.unsplash.com/photo-1626148857418-8e9c7756091f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1208&q=80,29.5578444,-98.6256171,highway
+Madikeri,Raja's Seat,147,16,https://images.unsplash.com/photo-1626148857418-8e9c7756091f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1208&q=80,,,
+Madikeri,Raja's Tomb,148,16,https://images.unsplash.com/photo-1626148857418-8e9c7756091f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1208&q=80,12.4329808,75.7401021,tourism
+Madikeri,Omkareshwara Temple,133,16,https://images.unsplash.com/photo-1626148857418-8e9c7756091f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1208&q=80,12.420546,75.741304,amenity
+Madikeri,Madikeri Fort,107,16,https://images.unsplash.com/photo-1626148857418-8e9c7756091f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1208&q=80,12.4206948,75.7386282,highway
+Madikeri,Kote Betta,97,16,https://images.unsplash.com/photo-1626148857418-8e9c7756091f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1208&q=80,12.5365245,75.7575502,natural
+Madikeri,Mercara Gold Estate - Coffee Plantation Tour Coorg,117,16,https://images.unsplash.com/photo-1626148857418-8e9c7756091f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1208&q=80,,,
+Hampi,Monkey Temple,120,7,https://images.pexels.com/photos/3936815/pexels-photo-3936815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,51.5033226,-0.2434959,amenity
+Hampi,Vithala Temple Complex,202,7,https://images.pexels.com/photos/3936815/pexels-photo-3936815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Hampi,Virupaksha Temple,201,7,https://images.pexels.com/photos/3936815/pexels-photo-3936815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,15.3351754,76.45877772,amenity
+Hampi,Elephant Stables,51,7,https://images.pexels.com/photos/3936815/pexels-photo-3936815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,7.2957356,80.6410271,tourism
+Hampi,Group of Monuments at Hampi,63,7,https://images.pexels.com/photos/3936815/pexels-photo-3936815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,15.3294088,76.47553824,tourism
+Hampi,Statue of Ugra Narsimha,182,7,https://images.pexels.com/photos/3936815/pexels-photo-3936815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Hampi,Lotus Mahal,105,7,https://images.pexels.com/photos/3936815/pexels-photo-3936815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,15.3202822,76.47139471,historic
+Hyderabad,Ramoji Film City,150,8,https://images.pexels.com/photos/9373357/pexels-photo-9373357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,17.2524153,78.67995706,tourism
+Hyderabad,Golconda Fort,60,8,https://images.pexels.com/photos/9373357/pexels-photo-9373357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,17.3833665,78.4010991,tourism
+Hyderabad,Charminar,28,8,https://images.pexels.com/photos/9373357/pexels-photo-9373357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,17.3616024,78.47464214,tourism
+Hyderabad,Birla Mandir,22,8,https://images.pexels.com/photos/9373357/pexels-photo-9373357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,22.5305015,88.36492539,amenity
+Hyderabad,Salar Jung Museum,159,8,https://images.pexels.com/photos/9373357/pexels-photo-9373357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,17.371392,78.48014982,tourism
+Hyderabad,Hussain Sagar Lake,75,8,https://images.pexels.com/photos/9373357/pexels-photo-9373357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,,,
+Hyderabad,Chowmahalla Palace,31,8,https://www.hyderabadtourism.travel/images//v2/header-places/chowmahalla-palace-hyderabad-tourism-entryfee-timings-reviews-header.jpg,17.35758165,78.47170546,tourism
